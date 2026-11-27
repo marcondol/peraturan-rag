@@ -1,0 +1,3867 @@
+SUMBER: https://peraturan.bpk.go.id/Download/414635/2026pmkeuangan041.pdf (PDF Database Peraturan BPK, 541 halaman; dikonversi dengan pdftotext, halaman 1-69)
+DIUNDUH: 2026-11-27
+CATATAN: Perubahan Kedua atas PMK 62/2023 — menambah Rincian Output (RO) Khusus, menyederhanakan Anggaran Belanja Tambahan (Penelaahan dan Penilaian Bersama), menyesuaikan batas reviu tunggakan (Rp3 miliar / Rp30 miliar) dan batas pembayaran Uang Persediaan (Rp50 juta per penerima), serta menegaskan KPA ex-officio. Hanya teks badan peraturan; Lampiran (hlm. 70-541) tidak disertakan. Konversi PDF dapat mengandung artefak spasi/tata letak.
+
+PERATURAN MENTERI KEUANGAN REPUBLIK INDONESIA
+                     NOMOR 41 TAHUN 2026
+                          TENTANG
+ PERUBAHAN KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 62
+   TAHUN 2023 TENTANG PERENCANAAN ANGGARAN, PELAKSANAAN
+     ANGGARAN, SERTA AKUNTANSI DAN PELAPORAN KEUANGAN
+
+                DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+               MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+
+Menimbang : a. bahwa untuk pelaksanaan anggaran yang lebih efektif, efisien
+               dan tepat sasaran, serta menindaklanjuti dinamika
+               pengelolaan anggaran agar tetap akuntabel, diperlukan
+               dukungan pemerintah melalui kebijakan perencanaan
+               anggaran dan pelaksanaan anggaran, antara lain berupa
+               pemenuhan prioritas penganggaran berdasarkan arahan
+               Presiden;
+            b. bahwa ketentuan dalam Peraturan Menteri Keuangan Nomor
+               62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan
+               Anggaran, serta Akuntansi dan Pelaporan Keuangan
+               sebagaimana telah diubah dengan Peraturan Menteri
+               Keuangan Nomor 107 Tahun 2024 tentang Perubahan atas
+               Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang
+               Perencanaan Anggaran, Pelaksanaan Anggaran, serta
+               Akuntansi dan Pelaporan Keuangan belum menampung
+               kebutuhan penyesuaian kebijakan di bidang perencanaan
+               anggaran dan pelaksanaan anggaran sebagaimana dimaksud
+               dalam huruf a, sehingga perlu dilakukan perubahan;
+            c. bahwa berdasarkan pertimbangan sebagaimana dimaksud
+               dalam huruf a dan huruf b, perlu menetapkan Peraturan
+               Menteri Keuangan tentang Perubahan Kedua atas Peraturan
+               Menteri Keuangan Nomor 62 Tahun 2023 tentang
+               Perencanaan Anggaran, Pelaksanaan Anggaran, serta
+               Akuntansi dan Pelaporan Keuangan;
+
+Mengingat   : 1. Pasal 17 ayat (3) Undang-Undang Dasar Negara Republik
+                 Indonesia Tahun 1945;
+              2. Undang-Undang Nomor 39 Tahun 2008 tentang Kementerian
+                 Negara (Lembaran Negara Republik Indonesia Tahun 2008
+                 Nomor 166, Tambahan Lembaran Negara Republik Indonesia
+                 Nomor 4916) sebagaimana telah diubah dengan Undang-
+                 Undang Nomor 61 Tahun 2024 tentang Perubahan atas
+                 Undang-Undang     Nomor   39   Tahun    2008   tentang
+                 Kementerian Negara (Lembaran Negara Republik Indonesia
+                                      -2-
+
+
+                    Tahun 2024 Nomor 225, Tambahan Lembaran Negara
+                    Republik Indonesia Nomor 6954);
+               3.   Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata
+                    Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara
+                    (Lembaran Negara Republik Indonesia Tahun 2013 Nomor
+                    103, Tambahan Lembaran Negara Republik Indonesia Nomor
+                    5423) sebagaimana telah diubah dengan Peraturan
+                    Pemerintah Nomor 50 Tahun 2018 tentang Perubahan atas
+                    Peraturan Pemerintah Nomor 45 Tahun 2013 tentang Tata
+                    Cara Pelaksanaan Anggaran Pendapatan dan Belanja Negara
+                    (Lembaran Negara Republik Indonesia Tahun 2018 Nomor
+                    229, Tambahan Lembaran Negara Republik Indonesia Nomor
+                    6267);
+               4.   Peraturan Pemerintah Nomor 19 Tahun 2022 tentang
+                    Dekonsentrasi dan Tugas Pembantuan (Lembaran Negara
+                    Republik Indonesia Tahun 2022 Nomor 122, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 6794);
+               5.   Peraturan Pemerintah Nomor 6 Tahun 2023 tentang
+                    Penyusunan Rencana Kerja dan Anggaran (Lembaran Negara
+                    Republik Indonesia Tahun 2023 Nomor 25, Tambahan
+                    Lembaran Negara Republik Indonesia Nomor 6850);
+               6.   Peraturan Presiden Nomor 42 Tahun 2020 tentang Pemberian
+                    Penghargaan     dan/atau    Pengenaan     Sanksi  kepada
+                    Kementerian Negara/Lembaga dan Pemerintah Daerah
+                    (Lembaran Negara Republik Indonesia Tahun 2020 Nomor
+                    74);
+               7.   Peraturan Presiden Nomor 158 Tahun 2024 tentang
+                    Kementerian Keuangan (Lembaran Negara Republik
+                    Indonesia Tahun 2024 Nomor 354);
+               8.   Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang
+                    Perencanaan Anggaran, Pelaksanaan Anggaran, serta
+                    Akuntansi dan Pelaporan Keuangan (Berita Negara Republik
+                    Indonesia Tahun 2023 Nomor 472) sebagaimana telah diubah
+                    dengan Peraturan Menteri Keuangan Nomor 107 Tahun 2024
+                    tentang Perubahan atas Peraturan Menteri Keuangan Nomor
+                    62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan
+                    Anggaran, serta Akuntansi dan Pelaporan Keuangan (Berita
+                    Negara Republik Indonesia Tahun 2024 Nomor 1082);
+               9.   Peraturan Menteri Keuangan Nomor 124 Tahun 2024 tentang
+                    Organisasi dan Tata Kerja Kementerian Keuangan (Berita
+                    Negara     Republik   Indonesia    Tahun    2024   Nomor
+                    1063) sebagaimana telah diubah dengan Peraturan Menteri
+                    Keuangan Nomor 117 Tahun 2025 tentang Perubahan
+                    atas Peraturan Menteri Keuangan Nomor 124 Tahun 2024
+                    tentang Organisasi dan Tata Kerja Kementerian Keuangan
+                    (Berita Negara Republik Indonesia Tahun 2025 Nomor 1208);
+
+                                MEMUTUSKAN:
+
+Menetapkan :        PERATURAN MENTERI KEUANGAN TENTANG PERUBAHAN
+                    KEDUA ATAS PERATURAN MENTERI KEUANGAN NOMOR 62
+                    TAHUN 2023 TENTANG PERENCANAAN ANGGARAN,
+                    PELAKSANAAN ANGGARAN, SERTA AKUNTANSI DAN
+                    PELAPORAN KEUANGAN.
+                     -3-
+
+
+                           Pasal I
+Beberapa ketentuan dalam Peraturan Menteri Keuangan Nomor
+62 Tahun 2023 tentang Perencanaan Anggaran, Pelaksanaan
+Anggaran, serta Akuntansi dan Pelaporan Keuangan (Berita
+Negara Republik Indonesia Tahun 2023 Nomor 472)
+sebagaimana telah diubah dengan Peraturan Menteri Keuangan
+Nomor 107 Tahun 2024 tentang Perubahan atas Peraturan
+Menteri Keuangan Nomor 62 Tahun 2023 tentang Perencanaan
+Anggaran, Pelaksanaan Anggaran, serta Akuntansi dan
+Pelaporan Keuangan (Berita Negara Republik Indonesia Tahun
+2024 Nomor 1082), diubah sebagai berikut:
+
+1. Ketentuan Pasal 1 ditambahkan 3 (tiga) angka yakni angka
+   139, angka 140, dan angka 141, sehingga Pasal 1 berbunyi
+   sebagai berikut:
+
+                            Pasal 1
+   Dalam Peraturan Menteri ini yang dimaksud dengan:
+   1. Perencanaan Anggaran adalah serangkaian proses
+       penganggaran meliputi tinjau ulang Angka Dasar,
+       penyiapan rancangan Rencana Kerja dan Anggaran,
+       penyusunan Rencana Kerja dan Anggaran, penelitian
+       dan reviu Rencana Kerja dan Anggaran, penelaahan
+       Rencana Kerja dan Anggaran, penyusunan dan
+       pengesahan Daftar Isian Pelaksanaan Anggaran, serta
+       perubahan anggaran dalam pelaksanaan Anggaran
+       Pendapatan dan Belanja Negara.
+   2. Rencana Kerja dan Anggaran yang selanjutnya disingkat
+       RKA adalah dokumen rencana keuangan tahunan yang
+       mencakup rencana kerja dan anggaran kementerian
+       negara/lembaga, rencana kerja dan anggaran Otorita
+       Ibu Kota Nusantara, dan rencana kerja dan anggaran
+       bendahara umum negara.
+   3. Rencana Kerja dan Anggaran Kementerian/Lembaga
+       yang selanjutnya disingkat RKA-K/L adalah dokumen
+       rencana keuangan tahunan yang memuat rincian
+       kegiatan, anggaran, dan target kinerja dari masing-
+       masing kementerian negara/lembaga, yang disusun
+       menurut bagian anggaran kementerian negara/
+       lembaga.
+   4. Rencana Kerja dan Anggaran Bendahara Umum Negara
+       yang selanjutnya disingkat RKA-BUN adalah dokumen
+       rencana keuangan tahunan dari bendahara umum
+       negara yang memuat rincian kegiatan, anggaran, dan
+       target kinerja dari pembantu pengguna anggaran
+       bendahara umum negara, yang disusun menurut
+       bagian anggaran bendahara umum negara.
+   5. Kinerja adalah prestasi kerja berupa keluaran dari
+       suatu kegiatan atau hasil dari suatu program dengan
+       kuantitas dan kualitas terukur.
+   6. Standar Biaya adalah satuan biaya yang ditetapkan oleh
+       Menteri Keuangan selaku pengelola fiskal (chief financial
+       officer) yang digunakan sebagai acuan perhitungan
+       kebutuhan anggaran dalam penyusunan RKA dan
+       pelaksanaan anggaran.
+                   -4-
+
+
+7.    Bagian Anggaran adalah kelompok anggaran negara
+      menurut nomenklatur kementerian negara/lembaga
+      dan bendahara umum negara dalam menjalankan
+      fungsi belanja Pemerintah Pusat, transfer ke daerah,
+      dan pembiayaan.
+8.    Bagian      Anggaran     Kementerian/Lembaga      yang
+      selanjutnya disingkat BA K/L adalah Bagian Anggaran
+      yang menampung belanja Pemerintah Pusat yang pagu
+      anggarannya       dialokasikan     pada    kementerian
+      negara/lembaga.
+9.    Bagian Anggaran Bendahara Umum Negara yang
+      selanjutnya disingkat BA BUN adalah Bagian Anggaran
+      yang tidak dikelompokkan dalam Bagian Anggaran
+      kementerian negara/lembaga.
+10.   Belanja Negara adalah kewajiban Pemerintah Pusat
+      yang diakui sebagai pengurang nilai kekayaan bersih
+      yang terdiri atas belanja Pemerintah Pusat dan transfer
+      ke daerah.
+11.   Anggaran Pendapatan dan Belanja Negara yang
+      selanjutnya disingkat APBN adalah rencana keuangan
+      tahunan pemerintahan negara yang disetujui oleh
+      Dewan Perwakilan Rakyat.
+12.   Klasifikasi Organisasi adalah pengelompokkan alokasi
+      sesuai dengan struktur organisasi kementerian
+      negara/lembaga dan bendahara umum negara.
+13.   Klasifikasi Fungsi adalah pengelompokkan alokasi
+      sesuai fungsi kepemerintahan yang dilaksanakan untuk
+      mencapai tujuan pembangunan nasional sesuai dengan
+      ketentuan peraturan perundang-undangan di bidang
+      keuangan negara.
+14.   Klasifikasi Jenis Belanja adalah pengelompokkan
+      Belanja Negara berdasarkan jenis belanja dan transfer
+      ke daerah.
+15.   Klasifikasi   Pembiayaan     adalah    pengelompokkan
+      pengeluaran       pembiayaan      berdasarkan     jenis
+      pengeluaran pembiayaan.
+16.   Belanja Pegawai adalah kompensasi terhadap pegawai,
+      baik dalam bentuk uang atau barang, yang harus
+      dibayarkan kepada pegawai pemerintah dalam maupun
+      luar negeri baik kepada pejabat negara, pegawai negeri
+      sipil, dan pegawai yang dipekerjakan oleh Pemerintah
+      yang belum berstatus pegawai negeri sipil sebagai
+      imbalan atas pekerjaan yang telah dilaksanakan dalam
+      rangka untuk mendukung tugas fungsi unit organisasi
+      pemerintah selama periode tertentu, kecuali pekerjaan
+      yang berkaitan dengan pembentukan modal.
+17.   Belanja Barang dan Jasa adalah pengeluaran untuk
+      menampung pembelian barang dan jasa yang habis
+      pakai untuk memproduksi barang dan jasa yang
+      dipasarkan maupun yang tidak dipasarkan serta
+      pengadaan      barang    yang    dimaksudkan     untuk
+      diserahkan atau dijual kepada masyarakat dan belanja
+      perjalanan.
+18.   Belanja Modal adalah pengeluaran anggaran dalam
+      rangka memperoleh atau menambah aset tetap
+                    -5-
+
+
+      dan/atau aset lainnya yang memberi manfaat ekonomis
+      lebih dari satu periode akuntansi (12 (dua belas) bulan)
+      serta melebihi batasan nilai minimum kapitalisasi aset
+      tetap atau aset lainnya yang ditetapkan Pemerintah.
+19.   Belanja Bantuan Sosial adalah pengeluaran berupa
+      transfer uang, barang atau jasa yang diberikan oleh
+      Pemerintah kepada masyarakat miskin atau tidak
+      mampu       guna      melindungi     masyarakat       dari
+      kemungkinan terjadinya risiko sosial, meningkatkan
+      kemampuan        ekonomi     dan/atau      kesejahteraan
+      masyarakat.
+20.   Pemberian Pinjaman adalah pinjaman Pemerintah
+      Pusat kepada Pemerintah Daerah, badan usaha milik
+      negara, lembaga, pemerintah asing, lembaga asing,
+      dan/atau badan lainnya yang harus dibayar kembali
+      dengan ketentuan dan persyaratan tertentu.
+21.   Menteri/Pimpinan Lembaga adalah pejabat yang
+      bertanggung jawab atas pengelolaan keuangan pada
+      kementerian negara/lembaga yang bersangkutan.
+22.   Bendahara Umum Negara yang selanjutnya disingkat
+      BUN adalah pejabat yang diberi tugas untuk
+      melaksanakan fungsi bendahara umum negara.
+23.   Pengguna Anggaran yang selanjutnya disingkat PA
+      adalah pejabat pemegang kewenangan penggunaan
+      anggaran kementerian negara/lembaga.
+24.   Pembantu Pengguna Anggaran Bendahara Umum
+      Negara yang selanjutnya disingkat PPA BUN adalah unit
+      eselon I di lingkungan Kementerian Keuangan yang
+      ditetapkan oleh Menteri Keuangan dan bertanggung
+      jawab atas pengelolaan anggaran yang berasal dari
+      Bagian Anggaran BUN.
+25.   Kuasa Pengguna Anggaran yang selanjutnya disingkat
+      KPA adalah pejabat yang memperoleh kuasa dari PA
+      untuk melaksanakan sebagian kewenangan dan
+      tanggung      jawab    penggunaan      anggaran      pada
+      kementerian negara/lembaga yang bersangkutan.
+26.   Kementerian      Negara    yang   selanjutnya     disebut
+      Kementerian adalah perangkat Pemerintah yang
+      membidangi urusan tertentu dalam pemerintahan.
+27.   Lembaga adalah organisasi nonkementerian negara dan
+      instansi lain pengguna anggaran yang dibentuk untuk
+      melaksanakan tugas tertentu berdasarkan Undang-
+      Undang Dasar Negara Republik Indonesia Tahun 1945
+      atau peraturan perundang-undangan lainnya.
+28.   Direktorat Anggaran Bidang adalah unit eselon II di
+      lingkungan Direktorat Jenderal Anggaran yang terdiri
+      dari Direktorat Anggaran Bidang Perekonomian dan
+      Kemaritiman,        Direktorat     Anggaran       Bidang
+      Pembangunan Manusia dan Kebudayaan, dan/atau
+      Direktorat     Anggaran     Bidang    Politik,   Hukum,
+      Pertahanan dan Keamanan, dan Bagian Anggaran
+      Bendahara Umum Negara.
+29.   Satuan Kerja yang selanjutnya disebut Satker adalah
+      unit organisasi lini Kementerian/Lembaga atau unit
+      organisasi Pemerintah Daerah yang melaksanakan
+                    -6-
+
+
+      kegiatan      Kementerian/Lembaga       dan     memiliki
+      kewenangan dan tanggung jawab penggunaan
+      anggaran.
+30.   Satuan Kerja Bagian Anggaran BUN yang selanjutnya
+      disebut Satker BUN adalah unit organisasi lini BUN
+      yang melaksanakan kegiatan BUN dan memiliki
+      kewenangan dan tanggung jawab penggunaan anggaran
+      BUN.
+31.   Program RKA-K/L dan RKA-BUN yang selanjutnya
+      disebut Program adalah penjabaran kebijakan beserta
+      rencana         penerapannya         yang        dimiliki
+      Kementerian/Lembaga dan BUN untuk mengatasi
+      suatu masalah strategis dalam mencapai hasil (outcome)
+      tertentu     sesuai   dengan     tugas     dan    fungsi
+      Kementerian/Lembaga dan fungsi BUN dimaksud serta
+      visi dan misi Presiden.
+32.   Kegiatan RKA-K/L dan RKA-BUN yang selanjutnya
+      disebut Kegiatan adalah suatu aktivitas yang
+      dilaksanakan untuk menghasilkan keluaran dalam
+      mendukung terwujudnya sasaran Program.
+33.   Keluaran adalah barang atau jasa yang merupakan
+      hasil akhir dari pelaksanaan Kegiatan dalam
+      mendukung       pencapaian     sasaran    pembangunan
+      nasional.
+34.   Klasifikasi Rincian Output yang selanjutnya disingkat
+      KRO adalah kumpulan atas rincian output yang disusun
+      dengan mengelompokkan muatan rincian output yang
+      sejenis        atau        serumpun         berdasarkan
+      sektor/bidang/jenis tertentu secara sistematis.
+35.   Rincian Output yang selanjutnya disingkat RO
+      merupakan Keluaran riil yang dihasilkan oleh unit kerja
+      Kementerian/Lembaga yang berfokus pada isu tertentu
+      serta berkaitan langsung dengan tugas dan fungsi unit
+      kerja tersebut dalam mendukung pencapaian sasaran
+      Kegiatan yang telah ditetapkan.
+36.   Sistem Informasi adalah sistem yang dibangun, dikelola,
+      dan/atau dikembangkan oleh Kementerian Keuangan
+      guna memfasilitasi proses penganggaran, pelaksanaan,
+      pelaporan      dan   pertanggungjawaban,       dan/atau
+      monitoring dan evaluasi anggaran yang merupakan
+      bagian dari sistem pengelolaan keuangan negara.
+37.   Belanja Berkualitas adalah belanja yang direncanakan
+      dan dilaksanakan dengan prinsip efisiensi, efektivitas,
+      prioritas, transparansi, dan akuntabilitas.
+38.   Aparat Pengawasan Intern Pemerintah Kementerian/
+      Lembaga yang selanjutnya disingkat APIP K/L adalah
+      Inspektorat Jenderal/Inspektorat Utama/Inspektorat
+      atau nama lain yang secara fungsional melaksanakan
+      pengawasan intern yang bertanggung jawab langsung
+      kepada Menteri/Pimpinan Lembaga.
+39.   Pinjaman Luar Negeri yang selanjutnya disingkat PLN
+      adalah setiap pembiayaan melalui utang yang diperoleh
+      Pemerintah dari pemberi pinjaman luar negeri yang
+      diikat oleh suatu perjanjian pinjaman dan tidak
+                   -7-
+
+
+      berbentuk surat berharga negara, yang harus dibayar
+      kembali dengan persyaratan tertentu.
+40.   Pinjaman Dalam Negeri yang selanjutnya disingkat PDN
+      adalah setiap pinjaman oleh Pemerintah yang diperoleh
+      dari pemberi pinjaman dalam negeri yang harus dibayar
+      kembali dengan persyaratan tertentu sesuai dengan
+      masa berlakunya.
+41.   Hibah Pemerintah yang selanjutnya disebut Hibah
+      adalah setiap penerimaan negara dalam bentuk devisa,
+      devisa yang dirupiahkan, rupiah, barang, jasa dan/atau
+      surat berharga yang diperoleh dari pemberi hibah yang
+      tidak perlu dibayar kembali, yang berasal dari dalam
+      negeri atau luar negeri.
+42.   Surat Berharga Syariah Negara yang selanjutnya
+      disingkat SBSN atau dapat disebut Sukuk Negara,
+      adalah surat berharga negara yang diterbitkan
+      berdasarkan prinsip syariah, sebagai bukti atas bagian
+      penyertaan terhadap aset SBSN, baik dalam mata uang
+      rupiah maupun valuta asing.
+43.   Penerimaan Negara Bukan Pajak yang selanjutnya
+      disingkat PNBP adalah pungutan yang dibayar oleh
+      orang pribadi atau badan dengan memperoleh manfaat
+      langsung maupun tidak langsung atas layanan atau
+      pemanfaatan sumber daya dan hak yang diperoleh
+      negara, berdasarkan peraturan perundang-undangan,
+      yang menjadi penerimaan Pemerintah Pusat di luar
+      penerimaan perpajakan dan hibah dan dikelola dalam
+      mekanisme APBN.
+44.   Rupiah Murni Pendamping yang selanjutnya disingkat
+      RMP adalah dana rupiah murni yang harus disediakan
+      Pemerintah untuk mendampingi pinjaman dan/atau
+      hibah luar negeri.
+45.   Kantor Pelayanan Perbendaharaan Negara yang
+      selanjutnya disingkat KPPN adalah instansi vertikal
+      Direktorat Jenderal Perbendaharaan yang berada di
+      bawah dan bertanggung jawab kepada Kepala Kantor
+      Wilayah Direktorat Jenderal Perbendaharaan.
+46.   Badan Layanan Umum yang selanjutnya disingkat BLU
+      adalah instansi di lingkungan Pemerintah yang
+      dibentuk untuk memberikan pelayanan kepada
+      masyarakat berupa penyediaan barang dan/atau jasa
+      yang dijual tanpa mengutamakan mencari keuntungan
+      dan dalam melakukan kegiatannya didasarkan pada
+      prinsip efisiensi dan produktivitas.
+47.   Rencana      Pembangunan      Tahunan    Kementerian/
+      Lembaga atau Rencana Kerja Kementerian/Lembaga
+      yang selanjutnya disebut Renja K/L adalah dokumen
+      perencanaan Kementerian/Lembaga untuk periode 1
+      (satu) tahun.
+48.   Indikasi Kebutuhan Dana Pengeluaran Bendahara
+      Umum Negara yang selanjutnya disebut Indikasi
+      Kebutuhan Dana BUN adalah indikasi dana dalam
+      rangka untuk pemenuhan kewajiban Pemerintah yang
+      penganggarannya hanya ditampung pada BA BUN.
+                  -8-
+
+
+
+
+49. Transfer ke Daerah yang selanjutnya disingkat TKD
+    adalah dana yang bersumber dari APBN dan merupakan
+    bagian dari Belanja Negara yang dialokasikan dan
+    disalurkan kepada daerah untuk dikelola oleh daerah
+    dalam rangka mendanai penyelenggaraan urusan
+    pemerintahan yang menjadi kewenangan daerah.
+50. Dana Alokasi Khusus yang selanjutnya disingkat DAK
+    adalah bagian dari TKD yang dialokasikan dengan
+    tujuan untuk mendanai program, kegiatan, dan/atau
+    kebijakan tertentu yang menjadi prioritas nasional dan
+    membantu operasionalisasi layanan publik, yang
+    penggunaannya telah ditentukan oleh Pemerintah.
+51. Dana Alokasi Khusus Fisik yang selanjutnya disebut
+    DAK Fisik adalah bagian dari TKD yang dialokasikan
+    untuk mendukung pembangunan/pengadaan sarana
+    dan prasarana layanan publik daerah dalam rangka
+    mencapai       prioritas      nasional,     mempercepat
+    pembangunan       daerah,     mengurangi     kesenjangan
+    layanan publik, dan/atau mendorong pertumbuhan
+    perekonomian daerah.
+52. Dana Alokasi Khusus Nonfisik yang selanjutnya disebut
+    DAK Nonfisik adalah DAK yang dialokasikan untuk
+    membantu operasionalisasi layanan publik Daerah yang
+    penggunaannya telah ditentukan oleh Pemerintah.
+53. Urusan Pemerintahan adalah kekuasaan pemerintahan
+    yang     menjadi      kewenangan        Presiden     yang
+    pelaksanaannya dilakukan oleh Kementerian dan
+    penyelenggara pemerintahan daerah untuk melindungi,
+    melayani, memberdayakan dan menyejahterakan
+    masyarakat.
+54. Dekonsentrasi Kepada Gubernur Sebagai Wakil
+    Pemerintah     Pusat      yang     selanjutnya    disebut
+    Dekonsentrasi Kepada GWPP adalah pelimpahan
+    sebagian    Urusan      Pemerintahan      yang   menjadi
+    kewenangan Pemerintah Pusat kepada Gubernur
+    sebagai wakil Pemerintah Pusat.
+55. Gubernur sebagai wakil pemerintah pusat yang
+    selanjutnya disingkat GWPP adalah penyelenggara
+    Urusan Pemerintahan yang menjadi kewenangan
+    Pemerintah Pusat di daerah berdasarkan asas
+    dekonsentrasi dan dalam rangka pelaksanaan tugas
+    dan wewenang GWPP sesuai dengan ketentuan
+    peraturan perundang-undangan.
+56. Tugas Pembantuan adalah penugasan dari Pemerintah
+    Pusat kepada daerah otonom untuk melaksanakan
+    sebagian    Urusan      Pemerintahan      yang   menjadi
+    kewenangan Pemerintah Pusat atau dari Pemerintah
+    Daerah provinsi kepada daerah kabupaten/kota untuk
+    melaksanakan sebagian Urusan Pemerintahan yang
+    menjadi kewenangan daerah provinsi.
+57. Bantuan Pemerintah adalah bantuan yang tidak
+    memenuhi kriteria bantuan sosial yang diberikan oleh
+    Pemerintah      kepada       perseorangan,      kelompok
+    masyarakat atau lembaga pemerintah/nonpemerintah.
+                  -9-
+
+
+58. Pegawai Aparatur Sipil Negara yang selanjutnya disebut
+    Pegawai ASN adalah pegawai negeri sipil dan pegawai
+    pemerintah dengan perjanjian kerja yang diangkat oleh
+    pejabat pembina kepegawaian dan diserahi tugas dalam
+    suatu jabatan pemerintahan atau diserahi tugas negara
+    lainnya dan digaji berdasarkan peraturan perundang-
+    undangan.
+59. Standar Biaya Masukan yang selanjutnya disingkat
+    SBM adalah standar biaya yang digunakan sebagai
+    masukan (input) untuk menyusun rincian biaya dalam
+    suatu Keluaran.
+60. Standar Biaya Keluaran yang selanjutnya disingkat SBK
+    adalah     indeks   biaya   yang   ditetapkan     untuk
+    menghasilkan 1 (satu) volume keluaran.
+61. Standar Struktur Biaya yang selanjutnya disingkat SSB
+    adalah batasan besaran atau persentase komposisi
+    biaya dalam 1 (satu) Keluaran.
+62. Non-Aparatur Sipil Negara yang selanjutnya disebut
+    Non-ASN adalah warga negara Indonesia yang
+    memenuhi syarat tertentu, melaksanakan tugas dan
+    fungsi instansi pemerintah, diangkat oleh pejabat yang
+    berwenang sebagai pegawai pada instansi pemerintah
+    berdasarkan surat keputusan/perjanjian kerja/kontrak
+    kerja untuk jangka waktu tertentu dan dibiayai dari
+    APBN.
+63. Rencana Bisnis dan Anggaran BLU yang selanjutnya
+    disebut RBA adalah dokumen perencanaan bisnis dan
+    penganggaran yang berisi program, kegiatan, target
+    kinerja, dan anggaran suatu BLU.
+64. Standar Biaya Keluaran Umum yang selanjutnya
+    disingkat SBKU adalah SBK yang berlaku untuk
+    beberapa/seluruh Kementerian/Lembaga.
+65. Standar Biaya Keluaran Khusus yang selanjutnya
+    disingkat SBKK adalah SBK yang berlaku untuk 1 (satu)
+    Kementerian/Lembaga.
+66. Arah      Kebijakan    adalah    penjabaran     urusan
+    pemerintahan dan/atau prioritas pembangunan sesuai
+    dengan visi dan misi Presiden yang rumusannya
+    mencerminkan       bidang   urusan    tertentu    dalam
+    pemerintahan      yang    menjadi   tanggung      jawab
+    Kementerian/Lembaga, berisi satu atau beberapa
+    program      untuk     mencapai    sasaran     strategis
+    penyelenggaraan pemerintahan dan pembangunan
+    dengan indikator kinerja yang terukur.
+67. Prakiraan Maju adalah perhitungan kebutuhan dana
+    untuk tahun anggaran berikutnya dari tahun yang
+    direncanakan guna memastikan kesinambungan
+    Program dan Kegiatan yang telah disetujui dan menjadi
+    dasar penyusunan anggaran tahun berikutnya.
+68. Angka Dasar adalah indikasi pagu Prakiraan Maju dari
+    Kegiatan-Kegiatan yang berulang dan/atau Kegiatan-
+    Kegiatan tahun jamak berdasarkan kebijakan yang
+    telah ditetapkan dan menjadi acuan penyusunan pagu
+    indikatif dari tahun anggaran yang direncanakan.
+                 - 10 -
+
+
+69. Rencana       Strategis   Kementerian/Lembaga    yang
+    selanjutnya disebut Renstra K/L adalah dokumen
+    perencanaan Kementerian/Lembaga untuk periode 5
+    (lima) tahun.
+70. Pagu Indikatif Kementerian/Lembaga yang selanjutnya
+    disebut Pagu Indikatif K/L adalah indikasi pagu
+    anggaran       yang     akan     dialokasikan  kepada
+    Kementerian/Lembaga         sebagai   pedoman   dalam
+    penyusunan Renja K/L.
+71. Pagu Anggaran Kementerian/Lembaga yang selanjutnya
+    disebut Pagu Anggaran K/L adalah batas tertinggi
+    anggaran yang dialokasikan kepada Kementerian/
+    Lembaga untuk penyusunan RKA-K/L.
+72. Kerangka Anggaran Jangka Menengah yang selanjutnya
+    disingkat KAJM adalah rencana APBN jangka menengah
+    yang memuat kerangka pendapatan, belanja, dan
+    pembiayaan untuk menjaga kesinambungan dan
+    disiplin fiskal Pemerintah.
+73. Rencana Pembangunan Jangka Menengah Nasional
+    yang selanjutnya disingkat RPJMN adalah dokumen
+    perencanaan pembangunan nasional untuk periode 5
+    (lima) tahun.
+74. Alokasi      Anggaran     Kementerian/Lembaga    yang
+    selanjutnya disebut Alokasi Anggaran K/L adalah batas
+    tertinggi anggaran pengeluaran yang dialokasikan
+    kepada Kementerian/Lembaga berdasarkan hasil
+    pembahasan rancangan APBN yang dituangkan dalam
+    hasil kesepakatan pembahasan rancangan APBN antara
+    Pemerintah dan Dewan Perwakilan Rakyat.
+75. Daftar Isian Pelaksanaan Anggaran yang selanjutnya
+    disingkat DIPA adalah dokumen pelaksanaan anggaran
+    yang digunakan sebagai acuan pengguna anggaran
+    dalam melaksanakan kegiatan pemerintahan sebagai
+    pelaksanaan APBN.
+76. DIPA Petikan adalah DIPA per Satker yang dicetak
+    secara otomatis melalui sistem, yang berisi mengenai
+    informasi Kinerja, rincian pengeluaran, rencana
+    penarikan dana dan perkiraan penerimaan, dan
+    catatan, yang berfungsi sebagai dasar dalam
+    pelaksanaan kegiatan Satker.
+77. Petunjuk Operasional Kegiatan yang selanjutnya
+    disingkat POK adalah dokumen yang memuat uraian
+    rencana kerja dan biaya yang diperlukan untuk
+    pelaksanaan kegiatan, disusun oleh KPA sebagai
+    penjabaran lebih lanjut dari DIPA.
+78. Kuasa Bendahara Umum Negara yang selanjutnya
+    disebut Kuasa BUN adalah pejabat yang diangkat oleh
+    BUN untuk melaksanakan tugas kebendaharaan dalam
+    rangka pelaksanaan APBN dalam wilayah kerja yang
+    ditetapkan.
+79. Pagu Indikatif Bendahara Umum Negara yang
+    selanjutnya disebut Pagu Indikatif BUN adalah indikasi
+    dana yang akan dialokasikan untuk memenuhi
+    kebutuhan BUN.
+                - 11 -
+
+
+80. Pagu Anggaran Bendahara Umum Negara yang
+    selanjutnya disebut Pagu Anggaran BUN adalah batas
+    tertinggi anggaran yang dialokasikan kepada BUN
+    sebagai dasar penyusunan RKA-BUN.
+81. Alokasi Anggaran Bendahara Umum Negara yang
+    selanjutnya disebut Alokasi Anggaran BUN adalah batas
+    tertinggi anggaran pengeluaran yang dialokasikan
+    kepada Menteri Keuangan sebagai BUN berdasarkan
+    hasil pembahasan rancangan APBN yang dituangkan
+    dalam hasil kesepakatan pembahasan rancangan APBN
+    antara Pemerintah dan Dewan Perwakilan Rakyat.
+82. Kuasa Pengguna Anggaran Bendahara Umum Negara
+    yang selanjutnya disingkat KPA BUN adalah pejabat
+    pada Satker dari masing-masing PPA BUN baik di
+    kantor pusat maupun kantor daerah atau Satker di
+    Kementerian/Lembaga yang memperoleh penugasan
+    dari    Menteri   Keuangan      untuk   melaksanakan
+    kewenangan dan tanggung jawab pengelolaan anggaran
+    yang berasal dari BA BUN.
+83. Rencana Kerja dan Anggaran Satuan Kerja Bendahara
+    Umum Negara yang selanjutnya disebut RKA Satker
+    BUN adalah dokumen perencanaan anggaran BA BUN
+    yang memuat rincian kebutuhan dana baik yang
+    berbentuk anggaran belanja maupun pembiayaan
+    dalam rangka pemenuhan kewajiban Pemerintah Pusat
+    dan TKD tahunan yang disusun oleh KPA BUN.
+84. Pemimpin Pembantu Pengguna Anggaran Bendahara
+    Umum Negara yang selanjutnya disebut Pemimpin PPA
+    BUN adalah pejabat eselon I di lingkungan Kementerian
+    Keuangan yang bertanggung jawab atas program BA
+    BUN dan bertindak untuk menandatangani daftar isian
+    pelaksanaan anggaran BUN.
+85. Daftar Hasil Penelaahan Rencana Kerja dan Anggaran
+    Bendahara Umum Negara yang selanjutnya disingkat
+    DHP RKA-BUN adalah dokumen hasil penelaahan RKA-
+    BUN yang memuat alokasi anggaran menurut unit
+    organisasi, fungsi, dan Program yang ditetapkan oleh
+    Direktur Jenderal Anggaran atau pejabat yang ditunjuk
+    oleh Direktur Jenderal Anggaran.
+86. Daftar Isian Pelaksanaan Anggaran Bendahara Umum
+    Negara yang selanjutnya disingkat DIPA BUN adalah
+    dokumen pelaksanaan anggaran yang disusun oleh KPA
+    BUN.
+87. Tunggakan adalah tagihan atas pekerjaan/penugasan
+    yang telah diselesaikan dan telah tersedia alokasi
+    anggarannya tetapi belum dibayarkan sampai dengan
+    berakhirnya tahun anggaran berkenaan.
+88. Surat Penetapan Pergeseran Anggaran Belanja
+    Antarsubbagian Anggaran pada Bagian Anggaran
+    Bendahara Umum Negara yang selanjutnya disingkat
+    SPP BA BUN adalah dokumen alokasi anggaran yang
+    ditetapkan dalam rangka pergeseran anggaran belanja
+    antarsubbagian anggaran pada BA BUN untuk suatu
+    kegiatan.
+                 - 12 -
+
+
+89. Surat Penetapan Satuan Anggaran Bagian Anggaran
+    yang selanjutnya disingkat SP SABA adalah dokumen
+    alokasi anggaran yang ditetapkan untuk suatu
+    kegiatan, yang dilakukan pergeseran anggaran
+    belanjanya dari BA BUN Belanja Lainnya ke BA K/L.
+90. Mitra Pembantu Pengguna Anggaran Bendahara Umum
+    Negara yang selanjutnya disebut Mitra PPA BUN adalah
+    Direktorat    Anggaran      Bidang    Politik, Hukum,
+    Pertahanan dan Keamanan, dan Bagian Anggaran
+    Bendahara Umum Negara selaku unit eselon II di
+    lingkungan Direktorat Jenderal Anggaran yang bertugas
+    sebagai mitra penganggaran PPA BUN.
+91. Penyesuaian Belanja Negara adalah melakukan
+    pengutamaan penggunaan anggaran yang disesuaikan
+    secara otomatis (automatic adjustment), realokasi
+    anggaran, pemotongan anggaran belanja negara,
+    dan/atau pergeseran anggaran antar-Program.
+92. Revisi Anggaran adalah perubahan RKA berupa
+    penyesuaian rincian anggaran dan/atau informasi
+    Kinerja yang telah ditetapkan berdasarkan Undang-
+    Undang mengenai APBN, termasuk revisi atas DIPA
+    yang telah disahkan pada tahun anggaran berkenaan.
+93. Laporan Hasil Reviu yang selanjutnya disingkat LHR
+    adalah laporan yang disusun pada tingkatan unit
+    akuntansi tertentu sebagai gabungan dari catatan hasil
+    reviu dan ikhtisar hasil reviu unit akuntansi di
+    bawahnya.
+94. Unit Pendukung PPA BUN Belanja Lainnya adalah
+    Direktorat    Anggaran      Bidang    Politik, Hukum,
+    Pertahanan dan Keamanan, dan Bagian Anggaran
+    Bendahara Umum Negara selaku unit eselon II di
+    lingkungan Direktorat Jenderal Anggaran yang bertugas
+    sebagai unit Pembantu Pemimpin PPA BUN Belanja
+    Lainnya.
+95. Kantor Wilayah Direktorat Jenderal Perbendaharaan
+    adalah     instansi    vertikal   Direktorat   Jenderal
+    Perbendaharaan yang berada di bawah dan bertanggung
+    jawab     langsung      kepada     Direktur    Jenderal
+    Perbendaharaan.
+96. Lanjutan Pelaksanaan Kegiatan/Proyek Pinjaman Luar
+    Negeri dan/atau Pinjaman Dalam Negeri yang
+    selanjutnya disebut Lanjutan Pelaksanaan Kegiatan
+    Pinjaman adalah penggunaan kembali sisa pagu
+    anggaran satu tahun anggaran sebelumnya yang
+    bersumber dari PLN dan/atau PDN sepanjang masih
+    terdapat sisa alokasi komitmen PLN dan/atau PDN serta
+    masih dalam masa penarikan.
+97. Percepatan Pelaksanaan Kegiatan/Proyek Pinjaman
+    Luar Negeri dan/atau Pinjaman Dalam Negeri yang
+    selanjutnya disebut Percepatan Pelaksanaan Kegiatan
+    Pinjaman adalah tambahan pagu anggaran yang berasal
+    dari sisa komitmen PLN dan/atau PDN yang belum
+    ditarik untuk memenuhi kebutuhan pendanaan
+    kegiatan untuk percepatan penyelesaian pekerjaan
+                  - 13 -
+
+
+     dan/atau memenuhi kebutuhan anggaran yang belum
+     tersedia pada tahun anggaran berkenaan.
+98. Pengadaan Barang/Jasa Pemerintah yang selanjutnya
+     disebut dengan Pengadaan Barang/Jasa adalah
+     kegiatan    untuk     memperoleh     barang/jasa    oleh
+     Kementerian/Lembaga/Satker                    Perangkat
+     Daerah/Institusi    yang     prosesnya   dimulai    dari
+     perencanaan kebutuhan sampai diselesaikannya
+     seluruh kegiatan untuk memperoleh barang/jasa.
+99. Penerusan Hibah adalah hibah yang diterima oleh
+     Pemerintah yang diterushibahkan atau diterus
+     pinjamkan      kepada     Pemerintah     Daerah    atau
+     dipinjamkan kepada Badan Usaha Milik Negara
+     sebagaimana diatur dalam Peraturan Pemerintah
+     mengenai tata cara penerimaan hibah sepanjang diatur
+     dalam perjanjian hibah.
+100. Lanjutan Pelaksanaan Kegiatan/Proyek Hibah Luar
+     Negeri dan/atau Hibah Dalam Negeri yang selanjutnya
+     disebut Lanjutan Pelaksanaan Kegiatan Hibah adalah
+     penggunaan kembali sisa pagu anggaran satu tahun
+     anggaran sebelumnya yang bersumber dari hibah luar
+     negeri dan/atau hibah dalam negeri sepanjang masih
+     terdapat sisa alokasi komitmen hibah luar negeri
+     dan/atau hibah dalam negeri serta masih dalam masa
+     penarikan.
+101. Percepatan Pelaksanaan Kegiatan/Proyek Hibah Luar
+     Negeri dan/atau Hibah Dalam Negeri yang selanjutnya
+     disebut Percepatan Pelaksanaan Kegiatan Hibah adalah
+     tambahan pagu anggaran yang berasal dari sisa
+     komitmen hibah luar negeri dan/atau hibah dalam
+     negeri yang belum ditarik untuk memenuhi kebutuhan
+     pendanaan kegiatan untuk percepatan penyelesaian
+     pekerjaan dan/atau memenuhi kebutuhan anggaran
+     yang belum tersedia pada tahun anggaran berkenaan.
+102. Pemberi Hibah adalah pihak yang berasal dari dalam
+     negeri atau luar negeri yang memberikan Hibah kepada
+     Pemerintah.
+103. Sisa Anggaran Kontraktual adalah selisih lebih antara
+     alokasi anggaran rincian Keluaran (output) yang
+     tercantum dalam DIPA dengan nilai kontrak Pengadaan
+     Barang/Jasa untuk menghasilkan rincian Keluaran
+     (output) sesuai dengan volume rincian Keluaran (output)
+     yang ditetapkan dalam DIPA.
+104. Belanja Operasional adalah anggaran yang dibutuhkan
+     untuk     penyelenggaraan     sebuah    Satker    dalam
+     melaksanakan tugas dan fungsinya berupa belanja
+     pegawai operasional dan belanja barang operasional.
+105. Swakelola adalah cara memperoleh barang/jasa yang
+     dikerjakan    sendiri    oleh    Kementerian/Lembaga/
+     Perangkat Daerah, Kementerian/Lembaga/Perangkat
+     Daerah lain, organisasi kemasyarakatan, atau kelompok
+     masyarakat.
+106. Rumusan Informasi Kinerja adalah rumusan yang
+     ditetapkan sebagai acuan dalam pelaksanaan Program
+     dan Kegiatan termasuk sasaran Kinerja yang akan
+                 - 14 -
+
+
+     dicapai serta indikator sebagai alat ukur pencapaian
+     kinerja meliputi rumusan Program, hasil (outcome),
+     Kegiatan, Keluaran (output), indikator Kinerja utama,
+     dan indikator Kinerja kegiatan.
+107. Pejabat Pembuat Komitmen yang selanjutnya disingkat
+     PPK adalah pejabat yang melaksanakan kewenangan
+     PA/KPA untuk mengambil keputusan dan/atau
+     tindakan yang dapat mengakibatkan pengeluaran atas
+     beban APBN.
+108. Pejabat Penanda Tangan Surat Perintah Membayar yang
+     selanjutnya disingkat PPSPM adalah pejabat yang diberi
+     kewenangan oleh PA/KPA untuk melakukan pengujian
+     atas permintaan pembayaran dan menerbitkan perintah
+     pembayaran.
+109. Pegawai Negeri Sipil yang selanjutnya disingkat PNS
+     adalah warga negara Indonesia yang memenuhi syarat
+     tertentu, diangkat sebagai Pegawai ASN secara tetap
+     oleh pejabat pembina kepegawaian untuk menduduki
+     jabatan pemerintahan.
+110. Bendahara Pengeluaran adalah orang yang ditunjuk
+     untuk     menerima,     menyimpan,     membayarkan,
+     menatausahakan, dan mempertanggungjawabkan uang
+     untuk keperluan Belanja Negara dalam pelaksanaan
+     APBN pada kantor/Satker Kementerian/Lembaga.
+111. Surat Perintah Membayar Langsung yang selanjutnya
+     disingkat SPM-LS adalah dokumen yang diterbitkan
+     oleh PPSPM untuk mencairkan dana yang bersumber
+     dari DIPA dalam rangka pembayaran tagihan kepada
+     penerima hak/Bendahara Pengeluaran.
+112. Surat Permintaan Pembayaran yang selanjutnya
+     disingkat SPP adalah dokumen yang diterbitkan oleh
+     PPK, yang berisi permintaan pembayaran tagihan
+     kepada negara.
+113. Pengelola Basis Data Kepegawaian yang selanjutnya
+     disingkat PBDK adalah pejabat atau pegawai yang
+     ditunjuk oleh kepala Satker untuk diberi tugas dan
+     tanggung jawab dalam mengelola data kepegawaian
+     pada aplikasi kepegawaian Satker.
+114. Petugas Pengelolaan Administrasi Belanja Pegawai yang
+     selanjutnya disingkat PPABP adalah pembantu KPA
+     yang diberi tugas dan tanggung jawab untuk
+     melaksanakan      pengelolaan   administrasi   Belanja
+     Pegawai.
+115. Surat Perintah Membayar yang selanjutnya disingkat
+     SPM adalah dokumen yang diterbitkan oleh PPSPM
+     untuk mencairkan dana yang bersumber dari DIPA.
+116. Surat Perintah Pencairan Dana yang selanjutnya
+     disingkat SP2D adalah surat perintah yang diterbitkan
+     oleh KPPN selaku Kuasa BUN untuk pelaksanaan
+     pengeluaran atas beban APBN berdasarkan SPM.
+117. Kontrak Pengadaan Barang/Jasa yang selanjutnya
+     disebut Kontrak adalah perjanjian tertulis antara
+     PA/KPA/PPK dengan Penyedia Barang/Jasa atau
+     pelaksana Swakelola.
+                 - 15 -
+
+
+118. Kas Negara adalah tempat penyimpanan uang negara
+     yang ditentukan oleh Menteri Keuangan selaku BUN
+     untuk menampung seluruh penerimaan negara dan
+     membayar seluruh pengeluaran negara.
+119. Penyedia Barang/Jasa Pemerintah yang selanjutnya
+     disebut Penyedia adalah pelaku usaha yang
+     menyediakan barang/jasa berdasarkan Kontrak.
+120. Uang Makan adalah uang yang diberikan kepada
+     Pegawai ASN berdasarkan tarif dan dihitung secara
+     harian untuk keperluan makan Pegawai ASN.
+121. Pembayaran Langsung yang selanjutnya disebut
+     Pembayaran LS adalah pembayaran yang dilakukan
+     langsung kepada Bendahara Pengeluaran/penerima
+     hak lainnya atas dasar perjanjian kerja, surat
+     keputusan, surat tugas atau surat perintah kerja
+     lainnya melalui penerbitan SPM-LS.
+122. Bank/Pos Penyalur adalah bank/pos mitra kerja
+     sebagai tempat dibukanya rekening atas nama Satker
+     untuk menampung dana Belanja Bantuan Sosial/
+     Bantuan Pemerintah yang akan disalurkan kepada
+     penerima bantuan sosial/Bantuan Pemerintah.
+123. Uang Persediaan yang selanjutnya disingkat UP adalah
+     uang muka kerja dalam jumlah tertentu yang diberikan
+     kepada Bendahara Pengeluaran untuk membiayai
+     kegiatan operasional sehari-hari Satker atau membiayai
+     pengeluaran yang menurut sifat dan tujuannya tidak
+     mungkin dilakukan melalui mekanisme Pembayaran
+     LS.
+124. Surat Perintah Membayar Uang Persediaan yang
+     selanjutnya disingkat SPM-UP adalah dokumen yang
+     diterbitkan oleh PPSPM untuk mencairkan UP.
+125. Tambahan Uang Persediaan yang selanjutnya disingkat
+     TUP adalah uang muka yang diberikan kepada
+     Bendahara Pengeluaran untuk kebutuhan yang sangat
+     mendesak dalam 1 (satu) bulan melebihi UP yang telah
+     ditetapkan.
+126. Surat Permintaan Pembayaran Langsung yang
+     selanjutnya disingkat SPP-LS adalah dokumen yang
+     diterbitkan oleh PPK dalam rangka pembayaran tagihan
+     kepada penerima hak/Bendahara Pengeluaran.
+127. Surat Permintaan Pembayaran Uang Persediaan yang
+     selanjutnya disingkat SPP-UP adalah dokumen yang
+     diterbitkan oleh PPK, yang berisi permintaan
+     pembayaran UP.
+128. Surat Permintaan Pembayaran Tambahan Uang
+     Persediaan yang selanjutnya disingkat SPP-TUP adalah
+     dokumen yang diterbitkan oleh PPK, yang berisi
+     permintaan pembayaran TUP.
+129. Surat Permintaan Pembayaran Penggantian Uang
+     Persediaan yang selanjutnya disingkat SPP-GUP adalah
+     dokumen yang diterbitkan oleh PPK, yang berisi
+     pertanggungjawaban       dan    permintaan     kembali
+     pembayaran UP.
+130. Surat Permintaan Pembayaran Penggantian Uang
+     Persediaan Nihil yang selanjutnya disebut SPP-GUP
+                 - 16 -
+
+
+     Nihil adalah dokumen yang diterbitkan oleh PPK, yang
+     berisi pertanggungjawaban UP.
+131. Surat Permintaan Pembayaran Pertanggungjawaban
+     Tambahan Uang Persediaan yang selanjutnya disingkat
+     SPP-PTUP adalah dokumen yang diterbitkan oleh PPK,
+     yang berisi permintaan pertanggungjawaban atas TUP.
+132. Surat Perintah Pembayaran yang selanjutnya disingkat
+     SPBy adalah dokumen yang diterbitkan oleh PPK atas
+     nama KPA yang berguna untuk mengeluarkan uang
+     persediaan yang dikelola oleh Bendahara Pengeluaran
+     kepada pihak yang dituju.
+133. Tanda Tangan Elektronik adalah tanda tangan yang
+     terdiri atas informasi elektronik yang dilekatkan,
+     terasosiasi, atau terkait dengan informasi elektronik
+     lainnya yang digunakan sebagai alat verifikasi dan
+     autentikasi.
+134. Surat Perintah Membayar Penggantian Uang Persediaan
+     yang selanjutnya disingkat SPM-GUP adalah dokumen
+     yang diterbitkan oleh PPSPM dengan membebani DIPA,
+     yang dananya dipergunakan untuk menggantikan UP
+     yang telah dipakai.
+135. Surat Perintah Membayar Penggantian Uang Persediaan
+     Nihil yang selanjutnya disebut SPM-GUP Nihil adalah
+     dokumen yang diterbitkan oleh PPSPM sebagai
+     pertanggungjawaban UP yang membebani DIPA.
+136. Surat Perintah Membayar Tambahan Uang Persediaan
+     yang selanjutnya disingkat SPM-TUP adalah dokumen
+     yang diterbitkan oleh PPSPM untuk mencairkan TUP.
+137. Surat     Perintah   Membayar     Pertanggungjawaban
+     Tambahan Uang Persediaan yang selanjutnya disingkat
+     SPM-PTUP adalah dokumen yang diterbitkan oleh
+     PPSPM sebagai pertanggungjawaban atas TUP yang
+     membebani DIPA.
+138. Rencana Kerja Pemerintah yang selanjutnya disingkat
+     RKP adalah dokumen perencanaan pembangunan
+     nasional untuk periode 1 (satu) tahun yang dimulai
+     pada tanggal 1 Januari dan berakhir pada tanggal 3
+     Desember.
+139. Rincian Output Khusus yang selanjutnya disebut RO
+     Khusus      adalah    RO    yang   digunakan    pada
+     Kementerian/Lembaga dalam rangka melaksanakan
+     arahan Presiden yang bersifat strategis dan mendesak
+     berdasarkan hasil rapat terbatas atau dokumen/bukti
+     lain yang memuat perintah kepada Menteri/Pimpinan
+     Lembaga dan memerlukan alokasi anggaran pada tahun
+     pelaksanaan.
+140. Komponen       Khusus    adalah   nomenklatur    yang
+     menggambarkan aktivitas yang dilakukan oleh unit
+     kerja Kementerian/Lembaga dalam rangka pencapaian
+     RO Khusus.
+141. Izin Presiden adalah persetujuan yang diberikan oleh
+     Presiden kepada Menteri/Pimpinan Lembaga untuk
+     melaksanakan kegiatan tertentu yang dimuat dalam
+     instruksi Presiden, risalah sidang/rapat terbatas
+     kabinet yang diterbitkan oleh Kementerian yang
+                      - 17 -
+
+
+         menyelenggarakan urusan pemerintahan di bidang
+         kesekretariatan negara, atau surat pernyataan
+         Menteri/Pimpinan Lembaga yang menyatakan bahwa
+         kegiatan tersebut telah mendapatkan izin Presiden.
+
+2. Ketentuan ayat (1) huruf b angka 1 Pasal 5 diubah, sehingga
+   berbunyi sebagai berikut:
+
+                                Pasal 5
+   (1)   Bagian Anggaran diberikan kepada:
+         a. Kementerian yang dibentuk berdasarkan amanat
+              Undang-Undang, Peraturan Pemerintah, atau
+              Peraturan Presiden; dan
+         b. Lembaga yang dibentuk berdasarkan amanat
+              Undang-Undang, Peraturan Pemerintah, atau
+              Peraturan Presiden, yang memenuhi persyaratan
+              sebagai berikut:
+              1. Pimpinan Lembaga bertanggung jawab kepada
+                    Presiden;
+              2. memiliki entitas/unit yang melaksanakan
+                    fungsi       perencanaan,       pelaksanaan,
+                    pengawasan, pelaporan, dan akuntansi dalam
+                    struktur organisasi yang ditetapkan oleh
+                    Kementerian yang menyelenggarakan urusan
+                    pemerintahan di bidang pendayagunaan
+                    aparatur negara dan reformasi birokrasi;
+              3. bukan lembaga ad hoc;
+              4. Pimpinan Lembaga/Sekretaris Lembaga telah
+                    ditetapkan sebagai PA yang mendapat kuasa
+                    dari Presiden untuk mengelola keuangan
+                    negara dari Lembaga yang dipimpinnya; dan
+              5. mendapatkan rekomendasi persetujuan dari
+                    Direktorat Anggaran Bidang.
+   (2)   Rekomendasi persetujuan dari Direktorat Anggaran
+         Bidang sebagaimana dimaksud pada ayat (1) huruf b
+         angka 5, diberikan berdasarkan usulan yang
+         disampaikan oleh Sekretaris Jenderal/Sekretaris
+         Utama atas nama Pimpinan Lembaga, dengan
+         mempertimbangkan:
+         a. pemenuhan ketentuan sebagaimana diatur pada
+              ayat (1) huruf b angka 1 sampai dengan angka 4;
+         b. efisiensi alokasi anggaran yang dikelola;
+         c.   rancangan informasi Kinerja yang diusulkan; dan
+         d. capaian Kinerja anggaran Satker tersebut dalam
+              jangka waktu 2 (dua) tahun terakhir memiliki nilai
+              sangat baik, dalam hal Bagian Anggaran yang
+              diusulkan        merupakan        Satker       pada
+              Kementerian/Lembaga.
+   (3)   Berdasarkan hasil analisis sebagaimana dimaksud pada
+         ayat (2), Direktur Anggaran Bidang atas nama Direktur
+         Jenderal Anggaran menyampaikan persetujuan/
+         penolakan atas usulan permohonan Bagian Anggaran
+         kepada Lembaga yang mengajukan permohonan Bagian
+         Anggaran.
+                      - 18 -
+
+
+   (4)   Dalam hal ketentuan sebagaimana dimaksud pada ayat
+         (1) huruf b belum terpenuhi, maka Lembaga yang
+         mengajukan permohonan Bagian Anggaran dapat
+         menjadi Satker pada Kementerian yang relevan.
+
+3. Ketentuan ayat (2) dan ayat (3) Pasal 16 diubah, diantara
+   ayat (2) dan ayat (3) disisipkan 2 (dua) ayat, yakni ayat (2a)
+   dan ayat (2b), dan setelah ayat (3) ditambahkan 2 (dua) ayat,
+   yakni ayat (4) dan ayat (5) sehingga Pasal 16 berbunyi
+   sebagai berikut:
+
+                               Pasal 16
+   (1)   Pemenuhan alokasi dasar sebagaimana dimaksud
+         dalam Pasal 14 huruf b, paling sedikit untuk:
+         a. kebutuhan anggaran untuk biaya operasional
+              Satker yang mendasar, berupa:
+              1. pembayaran gaji dan tunjangan;
+              2. operasional dan pemeliharaan kantor; dan
+              3. operasional dan pemeliharaan sarana dan
+                   prasarana      teknologi      informasi       dan
+                   komunikasi;
+         b. penyediaan dana untuk pelaksanaan pelayanan
+              publik;
+         c.   kebutuhan dana pendamping untuk kegiatan yang
+              anggarannya bersumber dari pinjaman dan/atau
+              Hibah;
+         d. kebutuhan anggaran untuk Kegiatan atau
+              Keluaran berlanjut, penyelesaian pekerjaan tahun-
+              tahun sebelumnya, dan penyelesaian kewajiban
+              kepada pihak ketiga;
+         e.   penyediaan dana untuk penyelesaian Tunggakan;
+              dan/atau
+         f.   penyediaan dana untuk program prioritas
+              nasional/kegiatan     prioritas/proyek      prioritas/
+              proyek prioritas strategis (major project).
+   (2)   Penyediaan dana untuk penyelesaian Tunggakan
+         sebagaimana dimaksud pada ayat (1) huruf e,
+         dilaksanakan dengan ketentuan:
+         a. untuk jumlah Tunggakan per tagihan dengan nilai
+              sampai dengan Rp3.000.000.000,00 (tiga miliar
+              rupiah), harus dilampiri surat pernyataan dari
+              KPA;
+         b. untuk jumlah Tunggakan per tagihan di atas
+              Rp3.000.000.000,00 (tiga miliar rupiah) sampai
+              dengan Rp30.000.000.000,00 (tiga puluh miliar
+              rupiah), harus dilampiri hasil reviu dari APIP K/L;
+         c.   untuk jumlah Tunggakan per tagihan di atas
+              Rp30.000.000.000,00 (tiga puluh miliar rupiah),
+              harus dilampiri hasil reviu dari Badan Pengawasan
+              Keuangan dan Pembangunan; dan/atau
+         d. Tunggakan SPM belanja subsidi yang belum
+              direalisasikan hingga akhir tahun anggaran, harus
+              dilampiri surat keterangan KPA yang menyatakan
+              bahwa SPM belanja subsidi telah diajukan kepada
+                     - 19 -
+
+
+             KPPN pembayar namun belum direalisasikan dan
+             SPM berkenaan.
+   (2a) Dalam hal diperlukan, APIP K/L dapat meminta
+        penjaminan kualitas atas hasil reviu sebagaimana
+        dimaksud pada ayat (2) huruf b kepada Badan
+        Pengawasan Keuangan dan Pembangunan.
+   (2b) Penyediaan dana atas SPM belanja subsidi yang belum
+        direalisasikan   hingga    akhir     tahun    anggaran
+        sebagaimana dimaksud pada ayat (2) huruf d dilakukan
+        terhadap SPM yang telah memenuhi seluruh
+        persyaratan pada saat pengajuan proses pembayaran di
+        tahun sebelumnya.
+   (3) Dalam hal Tunggakan sebagaimana dimaksud pada
+        ayat (2) sudah dilakukan audit oleh Badan Pemeriksa
+        Keuangan, hasil audit tersebut digunakan sebagai
+        dokumen pendukung pengganti surat pernyataan dari
+        KPA atau pengganti hasil reviu dari APIP K/L atau reviu
+        Badan Pengawasan Keuangan dan Pembangunan atau
+        surat keterangan KPA sebagaimana dimaksud pada ayat
+        (2).
+   (4) Besaran dana yang diusulkan untuk penyelesaian
+        Tunggakan sebagaimana dimaksud pada ayat (2) huruf
+        d sebesar SPM belanja subsidi yang sudah diajukan
+        kepada KPPN pembayar namun belum direalisasikan
+        pada tahun anggaran sebelumnya.
+   (5) Penyediaan dana untuk penyelesaian Tunggakan
+        sebagaimana dimaksud pada ayat (2) huruf d dilakukan
+        sesuai dengan hasil keputusan rapat pimpinan
+        Kementerian Keuangan mengenai kondisi sektor fiskal
+        yang berdampak pada APBN dengan memperhatikan
+        kemampuan keuangan negara.
+
+4. Ketentuan Pasal 40 diubah sehingga berbunyi sebagai
+   berikut:
+
+                               Pasal 40
+   (1)   Pengalokasian anggaran untuk pelaksanaan Bantuan
+         Pemerintah sebagaimana dimaksud dalam Pasal 14
+         huruf j angka 2, dilaksanakan dengan memenuhi
+         syarat:
+         a. tercantum dalam RKP;
+         b. diamanatkan dalam Undang-Undang, Peraturan
+               Pemerintah,    dan/atau    Peraturan   Presiden;
+               dan/atau
+         c.    mendapat penugasan Presiden.
+   (2)   Bantuan Pemerintah sebagaimana dimaksud pada ayat
+         (1), diberikan dalam bentuk:
+         a. uang;
+         b. barang; dan/atau
+         c.    jasa.
+   (3)   Bantuan Pemerintah, diberikan kepada:
+         a. perseorangan non-Pegawai ASN, non-prajurit TNI,
+               dan/atau non-anggota POLRI, kecuali diatur
+               tersendiri dalam ketentuan peraturan perundang-
+               undangan;
+                     - 20 -
+
+
+         b. kelompok masyarakat; dan/atau
+         c.   Lembaga pemerintah/nonpemerintah.
+   (4)   Lembaga pemerintah/nonpemerintah sebagaimana
+         dimaksud pada ayat (3) huruf c harus memenuhi
+         kriteria sebagai berikut:
+         a. bukan merupakan organisasi perangkat daerah di
+              bawah pemerintah daerah;
+         b. merupakan lembaga nirlaba; dan/atau
+         c.   merupakan lembaga selain huruf b yang dapat
+              menerima Bantuan Pemerintah sesuai dengan
+              ketentuan peraturan perundang-undangan.
+   (5)   Peruntukan        anggaran      Bantuan     Pemerintah
+         sebagaimana dimaksud pada ayat (1) meliputi:
+         a. pemberian penghargaan;
+         b. beasiswa;
+         c.   tunjangan profesi guru dan tunjangan lainnya;
+         d. bantuan operasional;
+         e.   bantuan sarana/prasarana;
+         f.   bantuan      rehabilitasi/pembangunan    gedung/
+              bangunan; dan
+         g.   bantuan lainnya yang memiliki karakteristik
+              Bantuan Pemerintah yang ditetapkan oleh PA.
+   (6)   Bantuan lainnya sebagaimana dimaksud pada ayat (5)
+         huruf g dialokasikan untuk menindaklanjuti kebijakan
+         pemerintah      pusat     atau    penugasan   Presiden
+         sebagaimana dimaksud pada ayat (1).
+   (7)   Pengalokasian anggaran untuk pelaksanaan Bantuan
+         Pemerintah dilaksanakan sesuai dengan akun
+         peruntukannya.
+   (8)   Pengalokasian anggaran Bantuan Pemerintah berupa
+         barang sebagaimana dimaksud pada ayat (2) huruf b
+         yang akan diserahkan kepada masyarakat atau
+         Pemerintah Daerah dan berbasis proposal, dilengkapi
+         dengan surat pernyataan pejabat eselon I yang
+         menyatakan bahwa alokasi tersebut telah berdasarkan
+         proposal yang diterima.
+
+5. Ketentuan ayat (4) Pasal 49 diubah, sehingga berbunyi
+   sebagai berikut:
+
+                              Pasal 49
+   (1)   Satuan biaya selain yang diatur dalam SBM
+         sebagaimana dimaksud dalam Pasal 48 ayat (1), dapat
+         menggunakan:
+         a. harga pasar; dan
+         b. satuan        harga    yang    ditetapkan    oleh
+             Menteri/Pimpinan Lembaga/instansi teknis yang
+             berwenang.
+   (2)   Penggunaan satuan biaya sebagaimana dimaksud pada
+         ayat (1), dikecualikan terhadap satuan biaya yang
+         menambah penghasilan dan/atau fasilitas bagi pejabat
+         negara, prajurit TNI/anggota POLRI, ASN dan Non-ASN
+         yang dipekerjakan untuk melaksanakan tugas rutin
+         Kementerian/Lembaga.
+                   - 21 -
+
+
+(3)   Penggunaan satuan biaya sebagaimana dimaksud pada
+      ayat (1) yang menambah penghasilan dan/atau fasilitas
+      sebagaimana dimaksud pada ayat (2), harus mendapat
+      persetujuan Menteri Keuangan.
+(4)   Satuan biaya yang menambah penghasilan dan/atau
+      fasilitas sebagaimana dimaksud pada ayat (2), untuk:
+      a. honorarium        bagi   pejabat   negara,   prajurit
+            TNI/anggota POLRI, ASN atas pelaksanaan tugas
+            tertentu yang membutuhkan upaya yang lebih
+            besar;
+      b. honorarium bagi Non-ASN yang ditugaskan atas
+            amanat Undang-Undang/Peraturan Pemerintah/
+            Peraturan Presiden dan yang hak keuangannya
+            belum diatur; dan/atau
+      c. fasilitas tambahan bagi pejabat negara, prajurit
+            TNI/anggota POLRI, ASN, dan non-ASN, yang
+            diamanatkan dalam:
+            1. Undang-Undang/ Peraturan Pemerintah/
+                 Peraturan Presiden/ Keputusan Presiden/
+                 Instruksi Presiden; atau
+            2. risalah sidang/rapat terbatas kabinet yang
+                 memuat direktif Presiden yang diterbitkan
+                 oleh Kementerian yang menyelenggarakan
+                 urusan       pemerintahan      di     bidang
+                 kesekretariatan negara.
+(5)   Honorarium bagi pejabat negara, prajurit TNI/anggota
+      POLRI, ASN atas pelaksanaan tugas tertentu yang
+      membutuhkan upaya yang lebih besar sebagaimana
+      dimaksud pada ayat (4) huruf a, paling lama selama 3
+      (tiga) tahun.
+(6)   Dalam hal honorarium sebagaimana dimaksud pada
+      ayat (5), telah berlaku selama 3 (tiga) tahun berturut-
+      turut, Kementerian/Lembaga melakukan evaluasi
+      terhadap urgensi dan efektivitas keberadaan tugas
+      tertentu tersebut untuk dipertimbangkan menjadi tugas
+      dan fungsi suatu unit organisasi.
+(7)   Satuan biaya sebagaimana dimaksud pada ayat (2),
+      diusulkan Menteri/Pimpinan Lembaga atau pejabat
+      yang berwenang atas nama Menteri/Pimpinan Lembaga
+      kepada Menteri Keuangan.
+(8)   Usulan sebagaimana dimaksud pada ayat (7), disertai
+      kajian yang memuat:
+      a. latar belakang;
+      b. dasar hukum;
+      c.    relevansi satuan biaya dengan keluaran yang ingin
+            dicapai;
+      d. waktu penerapan satuan biaya;
+      e.    kepada siapa satuan biaya diterapkan;
+      f.    alasan diperlukan satuan biaya;
+      g.    dasar perhitungan atau justifikasi besaran satuan
+            biaya;
+      h. dampak anggaran atas penerapan satuan biaya;
+      i.    kesimpulan; dan
+      j.    data dukung.
+                      - 22 -
+
+
+6. Ketentuan ayat (8) Pasal 58 diubah, sehingga berbunyi
+   sebagai berikut:
+
+                                Pasal 58
+   (1)   RKA-K/L disusun berdasarkan RKP, Renja K/L, Pagu
+         Anggaran K/L, dan Standar Biaya.
+   (2)   Penyusunan RKA-K/L sebagaimana dimaksud pada
+         ayat    (1),   memperhatikan      rancangan       RKA-K/L
+         sebagaimana dimaksud dalam Pasal 57.
+   (3)   RKA-K/L sebagaimana dimaksud pada ayat (1), disusun
+         sesuai dengan muatan dalam format RKA sebagaimana
+         dimaksud dalam Pasal 8 dan rincian alokasi
+         berdasarkan:
+         a. Angka Dasar; dan
+         b. Kegiatan/Keluaran baru.
+   (4)   Dalam hal terdapat perubahan Angka Dasar dan/atau
+         usulan Kegiatan/Keluaran baru yang termuat dalam
+         RKA-K/L sebagaimana dimaksud pada ayat (2), maka
+         pengalokasian anggarannya harus dilengkapi dengan
+         dokumen pendukung antara lain berupa kerangka
+         acuan kerja, rincian anggaran biaya, dan dokumen
+         terkait lainnya.
+   (5)   Penyusunan RKA-K/L sebagaimana dimaksud pada
+         ayat (1), disertai Prakiraan Maju 3 (tiga) tahun ke depan
+         yang mengacu pada KAJM.
+   (6)   Penyusunan RKA-K/L sebagaimana dimaksud pada
+         ayat (1), juga mempertimbangkan rencana kebutuhan
+         barang milik negara hasil penelaahan dalam hal usulan
+         anggaran berkaitan dengan pengadaan barang milik
+         negara yang menjadi objek perencanaan kebutuhan
+         barang milik negara dan/atau pemeliharaan barang
+         milik negara sesuai dengan Peraturan Menteri
+         Keuangan mengenai perencanaan kebutuhan barang
+         milik negara dan/atau pemeliharaan barang milik
+         negara.
+   (7)   Pedoman umum, tata cara mengenai penyusunan RKA-
+         K/L, dan standardisasi penggunaan KRO tercantum
+         dalam Lampiran II yang merupakan bagian tidak
+         terpisahkan dari Peraturan Menteri ini.
+   (8)   Standardisasi penggunaan KRO sebagaimana dimaksud
+         pada ayat (7) mengacu pada pedoman penyusunan dan
+         pemanfaatan KRO dan RO dalam perencanaan dan
+         penganggaran yang ditetapkan oleh Kementerian
+         Keuangan         dan       Kementerian        Perencanaan
+         Pembangunan Nasional/Badan Perencanaan dan
+         Pembangunan Nasional.
+
+7. Ketentuan ayat (3) dan ayat (6) Pasal 110 diubah, sehingga
+   berbunyi sebagai berikut:
+
+                            Pasal 110
+   (1)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud dalam Pasal 108 ayat
+         (2) huruf a, merupakan pergeseran anggaran belanja
+                     - 23 -
+
+
+         antarsubbagian anggaran dalam BA BUN untuk
+         keperluan tertentu.
+   (2)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud pada ayat (1) dapat
+         dilakukan dari:
+         a. sub BA BUN Belanja Lainnya ke:
+              1. sub BA BUN Hibah;
+              2. sub BA BUN TKD;
+              3. sub BA BUN Subsidi; dan/atau
+              4. sub BA BUN Transaksi Khusus;
+         b. sub BA BUN Utang ke sub BA BUN Belanja
+              Lainnya; dan
+         c.   sub BA BUN Subsidi ke sub BA BUN Belanja
+              Lainnya.
+   (3)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud pada ayat (2) huruf a
+         angka 1, dilakukan untuk:
+         a. pembayaran tagihan banking commission yang
+              belum dianggarkan pada tahun anggaran
+              berkenaan;
+         b. pemberian         hibah      kepada     pemerintah
+              asing/lembaga asing untuk tujuan kemanusiaan;
+              dan/atau
+         c.   pemberian       hibah      kepada     pemerintah
+              asing/lembaga asing untuk tujuan lainnya sesuai
+              dengan      ketentuan    peraturan    perundang-
+              undangan.
+   (4)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud pada ayat (2) huruf a
+         angka 2, dilakukan untuk:
+         a. kurang bayar TKD;
+         b. penambahan alokasi anggaran TKD untuk kegiatan
+              prioritas berdasarkan arahan Presiden atau
+              Menteri; dan/atau
+         c.   pemberian hibah kepada Pemerintah Daerah untuk
+              rehabilitasi dan rekonstruksi pascabencana.
+   (5)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud pada ayat (2) huruf a
+         angka 3, dilakukan untuk keperluan penambahan
+         alokasi subsidi.
+   (6)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud pada ayat (2) huruf a
+         angka 4 dilakukan untuk keperluan penambahan
+         alokasi belanja pada sub BA BUN Transaksi Khusus.
+   (7)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN sebagaimana dimaksud pada ayat (2) huruf b
+         dan huruf c dilakukan untuk keperluan menambah
+         alokasi belanja pada sub BA BUN Belanja Lainnya.
+   (8)   Pergeseran anggaran antarsubbagian anggaran dalam
+         BA BUN dan peruntukan pergeseran anggaran selain
+         sebagaimana dimaksud pada ayat (2) sampai dengan
+         ayat (7) ditetapkan dengan Keputusan Menteri
+         Keuangan.
+
+8. Paragraf 2 pada Bagian Kesembilan pada BAB IV dihapus.
+                     - 24 -
+
+
+9. Pasal 111 dihapus.
+
+10. Ketentuan ayat (8) huruf a angka 5 Pasal 114 dihapus, di
+    antara ayat (8) dan ayat (9) disisipkan 1 (satu) ayat, yakni
+    ayat (8a), ayat (8) huruf b angka 1 dan ayat (10) diubah, dan
+    ayat (9) dihapus, sehingga Pasal 114 berbunyi sebagai
+    berikut:
+
+                               Pasal 114
+   (1)   Menteri Keuangan selaku PA BUN berwenang
+         menetapkan penggunaan anggaran sub BA BUN Belanja
+         Lainnya pada tahun anggaran berjalan sebagaimana
+         ditetapkan dalam Undang-Undang mengenai APBN.
+   (2)   Alokasi anggaran sub BA BUN Belanja Lainnya
+         sebagaimana dimaksud dalam Pasal 113 ayat (1),
+         menurut jenis belanja terdiri atas:
+         a. Belanja Pegawai;
+         b. Belanja Bantuan Sosial; dan
+         c.   belanja lain-lain.
+   (3)   Penetapan Menteri Keuangan untuk penggunaan
+         anggaran sub BA BUN Belanja Lainnya sebagaimana
+         dimaksud pada ayat (2) huruf a dan huruf c,
+         dilaksanakan berdasarkan usulan Menteri/Pimpinan
+         Lembaga kepada Menteri Keuangan.
+   (4)   Penetapan Menteri Keuangan untuk penggunaan
+         anggaran sub BA BUN Belanja Lainnya sebagaimana
+         dimaksud pada ayat (2) huruf b, dilaksanakan
+         berdasarkan      usulan     Kepala  Badan   Nasional
+         Penanggulangan Bencana kepada Menteri Keuangan.
+   (5)   Alokasi anggaran sub BA BUN Belanja Lainnya jenis
+         Belanja Pegawai sebagaimana dimaksud pada ayat (2)
+         huruf a, digunakan untuk menampung cadangan
+         anggaran gaji dalam rangka tambahan pegawai baru,
+         honorarium, dan belanja pegawai lainnya sepanjang
+         telah ditetapkan dalam Undang-Undang mengenai
+         APBN tahun anggaran berkenaan.
+   (6)   Alokasi anggaran sub BA BUN Belanja Lainnya jenis
+         Belanja Bantuan Sosial sebagaimana dimaksud pada
+         ayat (2) huruf b, digunakan untuk menampung
+         cadangan tambahan dana tanggap darurat/siap pakai
+         dan bantuan penanggulangan pascabencana di daerah.
+   (7)   Alokasi anggaran sub BA BUN Belanja Lainnya jenis
+         belanja lain-lain sebagaimana dimaksud pada ayat (2)
+         huruf c, digunakan untuk menampung:
+         a. alokasi cadangan keperluan mendesak; dan
+         b. alokasi untuk pengeluaran lainnya.
+   (8)   Penggunaan anggaran sub BA BUN Belanja Lainnya
+         jenis belanja lain-lain untuk alokasi cadangan
+         keperluan mendesak sebagaimana dimaksud pada ayat
+         (7) huruf a, digunakan untuk membiayai kegiatan yang
+         diusulkan oleh Kementerian/Lembaga yang memenuhi
+         kriteria mendesak yang memenuhi unsur sebagai
+         berikut:
+                - 25 -
+
+
+   a.    kriteria umum, kegiatan yang diusulkan oleh
+         Kementerian/Lembaga harus memenuhi kriteria
+         sebagai berikut:
+         1. kegiatan tidak direncanakan pada proses
+              penyusunan anggaran Kementerian/Lembaga
+              atau kegiatan sudah ada pada DIPA
+              Kementerian/Lembaga namun alokasinya
+              tidak cukup tersedia;
+         2. kebutuhan         alokasi    kegiatan   tidak
+              memungkinkan untuk dipenuhi melalui
+              realokasi anggaran antarprogram maupun
+              antarkegiatan;
+         3. kegiatan yang diusulkan tidak untuk
+              pemenuhan belanja barang operasional
+              Kementerian/Lembaga,       kecuali  karena
+              adanya penambahan pegawai baru/Satker
+              baru;
+         4. kegiatan yang diusulkan tidak termasuk
+              dalam kebijakan penghematan/pencadangan
+              anggaran belanja Kementerian/Lembaga; dan
+         5. dihapus;
+         6. kegiatan yang diusulkan tidak memungkinkan
+              untuk diajukan melalui Undang-Undang
+              mengenai APBN; dan
+     b. kriteria khusus, kegiatan yang diusulkan oleh
+         Kementerian/Lembaga merupakan pelaksanaan
+         dari peraturan perundang-undangan atau direktif
+         Presiden yang belum dialokasikan pada DIPA
+         Kementerian/Lembaga harus dilampirkan:
+         1. peraturan        perundang-undangan      atau
+              ketetapan Presiden yang menjadi dasar
+              hukum;
+         2. risalah sidang/rapat terbatas kabinet yang
+              memuat direktif Presiden yang diterbitkan
+              oleh Kementerian yang menyelenggarakan
+              urusan      pemerintahan       di   bidang
+              kesekretariatan negara; atau
+         3. surat pernyataan Menteri/Pimpinan Lembaga
+              yang menyatakan bahwa kegiatan tersebut
+              merupakan arahan langsung Presiden kepada
+              Menteri/Pimpinan Lembaga, dan selanjutnya
+              disampaikan kepada Menteri Keuangan dan
+              menteri yang menyelenggarakan urusan
+              pemerintahan di bidang kesekretariatan
+              negara.
+(8a) Ketentuan kriteria umum sebagaimana dimaksud pada
+     ayat (8) huruf a dan kriteria khusus sebagaimana
+     dimaksud pada ayat (8) huruf b dapat dikecualikan
+     sebagian atau seluruhnya dalam hal:
+     a. kegiatan yang diusulkan merupakan akibat dari
+         keadaan kahar, dilampirkan surat pernyataan
+         keadaan kahar yang ditandatangani oleh pejabat
+         yang berwenang menetapkan keadaan kahar;
+     b. kegiatan yang diusulkan merupakan kewenangan
+         Pemerintah Pusat yang:
+                     - 26 -
+
+
+                1.    bersifat tidak terduga; dan
+                2.    berdampak besar dari segi politik,
+                      ekonomi, sosial, dan keamanan,
+                 dengan dilampiri surat pernyataan yang
+                 ditandatangani oleh pejabat eselon I, yang
+                 menjelaskan dampak risiko besar yang terjadi
+                 jika kegiatan tersebut tidak dipenuhi;
+                 dan/atau
+        c.  kegiatan tertentu yang telah mendapatkan
+            persetujuan Menteri Keuangan selaku Pengguna
+            Anggaran BUN.
+   (9) Dihapus.
+   (10) Alokasi untuk pengeluaran lainnya sebagaimana
+        dimaksud pada ayat (7) huruf b, terdiri atas:
+        a. alokasi terprogram, dialokasikan berdasarkan
+            penilaian atas Indikasi Kebutuhan Dana BUN dan
+            Angka Dasar; dan
+        b. alokasi tidak terprogram, berupa cadangan
+            anggaran yang pengalokasiannya tidak melalui
+            Indikasi Kebutuhan Dana BUN.
+
+11. Ketentuan Pasal 117 diubah sehingga berbunyi sebagai
+    berikut:
+
+                            Pasal 117
+  (1)   Penggunaan anggaran yang akan dilakukan melalui
+        penerbitan SPP BA BUN yang berasal dari sub BA BUN
+        Belanja Lainnya sebagaimana dimaksud dalam Pasal
+        108 ayat (2) huruf a dan Pasal 109 ayat (1) huruf b
+        dilakukan untuk memenuhi usulan tambahan
+        anggaran.
+  (2)   Penerbitan SPP BA BUN sebagaimana dimaksud pada
+        ayat (1) dilakukan dengan tahapan dan ketentuan
+        sebagai berikut:
+        a. Menteri Keuangan selaku PA BUN menyampaikan
+             usulan tambahan anggaran kepada Menteri
+             Keuangan;
+        b. dalam hal tambahan anggaran digunakan untuk
+             kebutuhan     rehabilitasi   dan   rekonstruksi
+             pascabencana di daerah, usulan disampaikan oleh
+             Kepala Badan Nasional Penanggulangan Bencana
+             kepada Menteri Keuangan;
+        c. usulan      tambahan      anggaran   sebagaimana
+             dimaksud dalam huruf a atau huruf b, dilampiri
+             dengan:
+             1. dasar hukum pengalokasian anggaran;
+             2. kerangka acuan kerja;
+             3. rincian anggaran belanja;
+             4. surat pernyataan telah dilakukan penelitian;
+             5. LHR APIP K/L;
+             6. realisasi kinerja anggaran atas tambahan
+                 anggaran dari sub BA BUN Belanja Lainnya
+                 yang diterima pada tahun sebelumnya
+                 dan/atau tahap sebelumnya pada tahun
+                 berjalan;
+             - 27 -
+
+
+     7.   surat pernyataan KPA BUN terkait atas
+          perhitungan usulan tambahan anggaran,
+          dalam hal usulan tambahan anggaran
+          diajukan untuk kebijakan subsidi Pajak
+          Ditanggung Pemerintah yang ditetapkan pada
+          tahun     berjalan    dan     belum    selesai
+          dilaksanakan; dan
+     8. dokumen pendukung lainnya dalam hal
+          diperlukan,
+d.   dokumen sebagaimana dimaksud dalam huruf c
+     angka 2, angka 3, angka 4, dan angka 6 untuk
+     usulan penggunaan anggaran yang berasal dari:
+     1. Menteri       Keuangan     selaku    PA    BUN
+          ditandatangani oleh KPA BUN; atau
+     2. Kepala Badan Nasional Penanggulangan
+          Bencana ditandatangani oleh pimpinan unit
+          eselon I yang bertanggung jawab terhadap
+          kegiatan yang diusulkan;
+e.   dalam     hal     usulan    tambahan     anggaran
+     sebagaimana dimaksud dalam huruf a atau huruf
+     b diajukan untuk kegiatan yang telah dilaksanakan
+     pada tahun sebelumnya/tahun-tahun sebelumnya
+     dan/atau tahun berjalan, dilampiri dengan reviu
+     dari    Badan      Pengawasan     Keuangan     dan
+     Pembangunan dan/atau hasil audit Badan
+     Pemeriksa Keuangan;
+f.   Menteri Keuangan selaku PA BUN atau Kepala
+     Badan     Nasional     Penanggulangan     Bencana
+     bertanggung jawab:
+     1.   terhadap      kebenaran     dokumen      yang
+          disampaikan sebagaimana dimaksud dalam
+          huruf c; dan
+     2.   atas substansi usulan kegiatan, volume
+          kegiatan, dan satuan biaya yang digunakan
+          pada usulan penggunaan anggaran;
+g.   berdasarkan      usulan     tambahan     anggaran
+     sebagaimana dimaksud dalam huruf a atau huruf
+     b, Direktur Jenderal Anggaran selaku Pemimpin
+     PPA BUN Belanja Lainnya melakukan penelitian
+     secara bersama-sama dengan pihak-pihak terkait
+     setelah mendapat disposisi atau arahan Menteri
+     Keuangan dan dokumen sebagaimana dimaksud
+     dalam huruf c diterima dengan lengkap dan benar;
+h.   dalam hal berdasarkan hasil penelitian usulan
+     tambahan anggaran sebagaimana dimaksud dalam
+     huruf g masih diperlukan tambahan dokumen
+     lainnya, Menteri Keuangan selaku PA BUN atau
+     Kepala Badan Nasional Penanggulangan Bencana
+     diminta menyampaikan kekurangan dokumen
+     dimaksud paling lama 2 (dua) hari kerja terhitung
+     setelah penelitian dilakukan;
+i.   hasil penelitian usulan tambahan anggaran
+     dituangkan dalam berita acara penelitian yang
+     disusun sesuai format tercantum dalam Lampiran
+            - 28 -
+
+
+   IV huruf B yang merupakan bagian tidak
+   terpisahkan dari Peraturan Menteri ini;
+j. dalam hal berdasarkan hasil penelitian usulan
+   sebagaimana dimaksud dalam huruf g tidak
+   disetujui, Menteri Keuangan menyampaikan surat
+   penolakan usulan kepada Menteri Keuangan
+   selaku PA BUN pengusul/Kepala Badan Nasional
+   Penanggulangan Bencana;
+k. dalam hal berdasarkan hasil penelitian usulan
+   sebagaimana dimaksud dalam huruf g disetujui
+   namun      alokasi   anggarannya     kurang/belum
+   tersedia, terlebih dahulu dilakukan pergeseran
+   dalam sub BA BUN Belanja Lainnya;
+l. dalam rangka pergeseran sub BA BUN Belanja
+   Lainnya sebagaimana dimaksud dalam huruf k,
+   Direktur Jenderal Anggaran mengajukan kepada
+   Menteri Keuangan berupa:
+   1.   izin penggunaan anggaran sub BA BUN
+        Belanja Lainnya;
+   2.   izin pergeseran dalam sub BA BUN Belanja
+        Lainnya; dan
+   3.   izin pergeseran dari sub BA BUN Belanja
+        Lainnya ke subbagian anggaran BUN yang
+        lainnya;
+m. berdasarkan persetujuan Menteri Keuangan
+   sebagaimana dimaksud dalam huruf l angka 2,
+   Direktur Jenderal Anggaran menetapkan revisi
+   surat Menteri Keuangan terkait alokasi anggaran
+   sub BA BUN Belanja Lainnya atas nama Menteri
+   Keuangan;
+n. dalam hal berdasarkan hasil penelitian usulan
+   sebagaimana dimaksud dalam huruf g disetujui
+   dan alokasi anggarannya sudah tersedia maka
+   Direktur Jenderal Anggaran mengajukan kepada
+   Menteri Keuangan berupa:
+   1. izin penggunaan anggaran sub BA BUN
+        Belanja Lainnya; dan
+   2. izin pergeseran dari subbagian anggaran BUN
+        Belanja Lainnya ke subbagian anggaran BUN
+        yang lainnya;
+o. berdasarkan      hasil    penelitian  sebagaimana
+   dimaksud dalam huruf g, dokumen yang
+   dilampirkan sebagaimana dimaksud dalam huruf c
+   dan huruf h, serta surat Menteri Keuangan terkait
+   alokasi anggaran, maka:
+   1. dalam hal Menteri Keuangan memberikan
+        persetujuan       atas     permohonan     izin
+        penggunaan      dan    pergeseran   anggaran
+        sebagaimana dimaksud dalam huruf l atau
+        huruf n, Direktur Anggaran Bidang Politik,
+        Hukum, Pertahanan dan Keamanan, dan BA
+        BUN atas nama Direktur Jenderal Anggaran
+        selaku Pemimpin PPA BUN Belanja Lainnya
+        menyampaikan usulan penerbitan SPP BA
+        BUN dari sub BA BUN Belanja Lainnya ke
+             - 29 -
+
+
+          subbagian anggaran BUN yang lainnya kepada
+          Direktur Jenderal Anggaran; atau
+     2. dalam       hal   Menteri    Keuangan      tidak
+          memberikan persetujuan atas permohonan
+          izin penggunaan dan pergeseran anggaran
+          sebagaimana dimaksud dalam huruf l atau
+          huruf n, Menteri Keuangan menyampaikan
+          surat penolakan usulan tambahan anggaran
+          kepada Menteri Keuangan selaku PA BUN atau
+          Kepala Badan Nasional Penanggulangan
+          Bencana;
+p.   usulan penerbitan SPP BA BUN sebagaimana
+     dimaksud dalam huruf o angka 1 dilampiri dengan:
+     1. nota      dinas   usulan    permohonan       izin
+          penggunaan dan pergeseran anggaran yang
+          disampaikan kepada Menteri Keuangan
+          berikut dengan persetujuan Menteri Keuangan
+          sebagaimana dimaksud dalam huruf l atau
+          huruf n; dan
+     2. berita acara penelitian sebagaimana dimaksud
+          dalam huruf I;
+q.   berdasarkan usulan penerbitan SPP BA BUN
+     sebagaimana dimaksud dalam huruf o angka 1,
+     Direktur Jenderal Anggaran atas nama Menteri
+     Keuangan menerbitkan SPP BA BUN;
+r.   SPP BA BUN sebagaimana dimaksud dalam huruf
+     q disusun sesuai format sebagaimana tercantum
+     dalam Lampiran IV huruf B yang merupakan
+     bagian tidak terpisahkan dari Peraturan Menteri
+     ini;
+s.   SPP BA BUN sebagaimana dimaksud dalam huruf
+     q     menjadi    dasar    pergeseran     anggaran
+     antarsubbagian anggaran dalam BA BUN dan
+     disampaikan kepada Pemimpin PPA BUN terkait,
+     dengan tembusan kepada Menteri Keuangan,
+     Direktur Penyusunan Anggaran Pendapatan dan
+     Belanja Negara Direktorat Jenderal Anggaran, dan
+     Direktur Akuntansi dan Pelaporan Keuangan
+     Direktorat Jenderal Perbendaharaan;
+t.   berdasarkan SPP BA BUN sebagaimana dimaksud
+     dalam huruf q, Pemimpin PPA BUN terkait sebagai
+     penerima alokasi anggaran menyusun dan
+     menyampaikan RKA-BUN sebagaimana dimaksud
+     dalam Pasal 89 dalam rangka penyusunan dan
+     pengesahan DIPA BUN;
+u.   penyusunan      dan    pengesahan    DIPA      BUN
+     sebagaimana      dimaksud     dalam     huruf      t,
+     dilaksanakan sesuai dengan ketentuan yang diatur
+     dalam Lampiran III yang merupakan bagian tidak
+     terpisahkan dari Peraturan Menteri ini; dan
+v.   SPP BA BUN sebagaimana dimaksud dalam huruf
+     q, dicatat sebagai realisasi pagu atas alokasi
+     cadangan yang dilakukan pergeseran.
+                       - 30 -
+
+
+12. Ketentuan ayat (2), ayat (6), ayat (7), ayat (8), ayat (9), ayat
+    (10) dan ayat (17) Pasal 118 diubah, ayat (4), ayat (5), ayat
+    (8a), ayat (8b), dan ayat (18) dihapus, di antara ayat (2) dan
+    ayat (3) disisipkan 1 (satu) ayat, yakni ayat (2a), di antara
+    ayat (7) dan ayat (8) disisipkan 5 (lima) ayat, yakni ayat (7a),
+    ayat (7b), ayat (7c), ayat (7d) dan ayat (7e), di antara ayat (9)
+    dan ayat (10) disisipkan 1 (satu) ayat, yakni ayat (9a), di
+    antara ayat (10) dan ayat (11) disisipkan 1 (satu) ayat, yakni
+    ayat (10a), dan di antara ayat (14) dan ayat (15) disisipkan 1
+    (satu) ayat, yakni ayat (14a), sehingga Pasal 118 berbunyi
+    sebagai berikut:
+
+                               Pasal 118
+   (1)   Pergeseran anggaran dari sub BA BUN Belanja Lainnya
+         ke BA K/L sebagaimana dimaksud dalam Pasal 108 ayat
+         (2) huruf b dilakukan untuk memberikan tambahan
+         anggaran ke BA K/L.
+   (2)   Mekanisme pengajuan usulan pergeseran anggaran dari
+         sub BA BUN Belanja Lainnya ke BA K/L dilakukan
+         dengan tahapan dan ketentuan sebagai berikut:
+         a. usulan       tambahan       anggaran     sebagaimana
+              dimaksud pada ayat (1) disampaikan oleh
+              Menteri/Pimpinan Lembaga kepada Menteri
+              Keuangan dengan tembusan kepada Direktur
+              Jenderal Anggaran;
+         b. usulan       tambahan       anggaran     sebagaimana
+              dimaksud dalam huruf a disampaikan kepada
+              Direktorat Jenderal Anggaran melalui Sistem
+              Informasi dengan dilampiri dokumen pendukung
+              sebagai berikut:
+              1. data dalam Sistem Informasi;
+              2. kerangka acuan kerja;
+              3. rincian anggaran belanja;
+              4. surat       pernyataan      hasil    optimalisasi
+                   sebagaimana dimaksud dalam Pasal 115 ayat
+                   (2);
+              5. surat pernyataan kesanggupan menyerap
+                   anggaran dan melaksanakan kegiatan pada
+                   tahun berjalan disusun sesuai dengan format
+                   tercantum      dalam    Lampiran     IV   yang
+                   merupakan bagian tidak terpisahkan dari
+                   Peraturan Menteri ini;
+              6. LHR APIP K/L;
+              7. rincian distribusi alokasi usulan tambahan
+                   anggaran per Program unit/provinsi/Satker
+                   disusun sesuai dengan format yang tercantum
+                   dalam Lampiran IV yang merupakan bagian
+                   tidak terpisahkan dari Peraturan Menteri ini;
+              8. realisasi kinerja anggaran atas tambahan
+                   anggaran dari sub BA BUN Belanja Lainnya
+                   yang diterima pada tahun sebelumnya
+                   dan/atau tahap sebelumnya pada tahun
+                   berjalan,    sesuai   dengan    format    yang
+                   tercantum      dalam    Lampiran     IV   yang
+                 - 31 -
+
+
+               merupakan bagian tidak terpisahkan dari
+               Peraturan Menteri ini;
+          9. surat pernyataan bahwa telah dilakukan
+               penelitian kelengkapan dokumen pendukung;
+          10. surat      usulan    Revisi  Anggaran     yang
+               ditandatangani oleh Sekretaris Jenderal/
+               Sekretaris Utama/Sekretaris/pejabat eselon I
+               Kementerian/Lembaga;
+          11. surat pernyataan pejabat eselon I; dan
+          12. dokumen pendukung lainnya dalam hal
+               diperlukan;
+     c.   dokumen sebagaimana dimaksud dalam huruf b
+          angka 2, angka 3, angka 4, angka 5, angka 7, dan
+          angka 8 ditandatangani oleh pejabat setingkat
+          eselon I yang bertanggung jawab terhadap kegiatan
+          yang diusulkan;
+     d. dokumen sebagaimana dimaksud dalam huruf b
+          angka 9 ditandatangani oleh Sekretaris Jenderal/
+          Sekretaris      Utama/Sekretaris     Kementerian/
+          Lembaga;
+     e.   dalam      hal    usulan    tambahan     anggaran
+          sebagaimana dimaksud dalam huruf a diajukan
+          untuk kegiatan yang telah dilaksanakan pada
+          tahun/tahun-tahun sebelumnya dan/atau tahun
+          berjalan, usulan penggunaan anggaran dilampiri
+          dengan hasil reviu dari Badan Pengawasan
+          Keuangan dan Pembangunan, dan/atau hasil audit
+          dari Badan Pemeriksa Keuangan; dan
+     f.   dokumen sebagaimana dimaksud dalam huruf b
+          angka 1, angka 2, angka 3, angka 6, angka 7, angka
+          8, dan angka 12 disusun berdasarkan kaidah-
+          kaidah perencanaan dan penganggaran.
+(2a) Dalam hal usulan tambahan anggaran belum dilengkapi
+     dokumen sebagaimana dimaksud pada ayat (2), Menteri
+     Keuangan melalui Direktur Jenderal Anggaran
+     menyampaikan         surat    pemberitahuan     kepada
+     Menteri/Pimpinan Lembaga agar menyampaikan
+     kelengkapan dokumen pendukung.
+(3) Direktorat Jenderal Anggaran melakukan penelaahan
+     terhadap usulan tambahan anggaran sebagaimana
+     dimaksud pada ayat (1) setelah dokumen sebagaimana
+     dimaksud pada ayat (2) diterima lengkap.
+(4) Dihapus.
+(5) Dihapus.
+(6) Penelaahan sebagaimana dimaksud pada ayat (3)
+     dilakukan secara terkoordinasi antara Direktorat
+     Jenderal     Anggaran      dan    Kementerian/Lembaga
+     pengusul, yang hasilnya dituangkan dalam Berita Acara
+     Penelaahan sesuai dengan format sebagaimana
+     tercantum pada Lampiran IV yang merupakan bagian
+     tidak terpisahkan dari Peraturan Menteri ini.
+(7) Dalam hal berdasarkan hasil penelaahan usulan
+     anggaran sebagaimana dimaksud pada ayat (6) terdapat
+     kekurangan dokumen pendukung di luar dokumen
+     yang dipersyaratkan sebagaimana dimaksud pada ayat
+                 - 32 -
+
+
+     (2) huruf b, Kementerian/Lembaga menyampaikan
+     kekurangan dokumen pendukung paling lama 2 (dua)
+     hari kerja setelah penelaahan dilakukan.
+(7a) Dalam        hal     Kementerian/Lembaga       belum
+     menyampaikan kekurangan dokumen pendukung
+     dalam jangka waktu sebagaimana dimaksud pada ayat
+     (7), Direktur Jenderal Anggaran menyampaikan
+     pemberitahuan kepada Kementerian/Lembaga agar
+     segera     menyampaikan      kelengkapan   dokumen
+     pendukung.
+(7b) Kementerian/Lembaga menyampaikan kekurangan
+     dokumen pendukung di luar dokumen yang
+     dipersyaratkan sebagaimana dimaksud pada ayat (7)
+     paling lama 2 (dua) hari kerja setelah menerima
+     pemberitahuan sebagaimana dimaksud pada ayat (7a).
+(7c) Dalam hal setelah jangka waktu sebagaimana dimaksud
+     pada ayat (7b), Kementerian/Lembaga            belum
+     melengkapi dokumen pendukung di luar dokumen yang
+     dipersyaratkan sebagaimana dimaksud pada ayat (7),
+     Direktur      Jenderal    Anggaran     menyampaikan
+     pemberitahuan kembali kepada Kementerian/Lembaga
+     agar segera menyampaikan kelengkapan dokumen
+     pendukung.
+(7d) Dalam hal Kementerian/Lembaga telah melengkapi
+     seluruhnya dan/atau sebagian dan/atau tidak
+     melengkapi dokumen pendukung di luar dokumen yang
+     dipersyaratkan sebagaimana dimaksud pada ayat (7),
+     Direktur Jenderal Anggaran memproses usulan
+     tambahan anggaran sebagaimana dimaksud pada ayat
+     (1) berdasarkan dokumen pendukung yang telah
+     disampaikan sebagaimana dimaksud pada ayat (2) dan
+     ayat (7).
+(7e) Dalam hal diperlukan, Direktur Jenderal Anggaran
+     dapat melakukan penelaahan kembali atas usulan
+     tambahan anggaran sebagaimana dimaksud pada ayat
+     (1) berdasarkan dokumen pendukung di luar dokumen
+     yang dipersyaratkan sebagaimana dimaksud pada ayat
+     (7) yang telah dilengkapi seluruhnya dan/atau
+     sebagian.
+(8) Berdasarkan hasil penelaahan atas usulan tambahan
+     anggaran sebagaimana dimaksud pada ayat (3)
+     dan/atau ayat (7e), Direktur Jenderal Anggaran
+     mengajukan izin penggunaan anggaran sub BA BUN
+     Belanja Lainnya dan pergeseran anggaran ke BA K/L
+     kepada Menteri Keuangan.
+(9) Dalam hal Menteri Keuangan telah memberikan
+     persetujuan penggunaan anggaran sub BA BUN Belanja
+     Lainnya dan/atau pergeseran anggaran dalam sub BA
+     BUN Belanja Lainnya, Direktur Anggaran Bidang Politik,
+     Hukum, Pertahanan dan Keamanan, dan Bagian
+     Anggaran Bendahara Umum Negara atas nama Direktur
+     Jenderal Anggaran selaku Pemimpin PPA BUN Belanja
+     Lainnya:
+     a. menyampaikan permintaan penyesuaian data
+          dengan menggunakan Sistem Informasi dan/atau
+                  - 33 -
+
+
+            dokumen       pendukung      lainnya      kepada
+            Kementerian/Lembaga dalam hal nilai dan
+            kegiatan yang mendapat persetujuan dari Menteri
+            Keuangan berbeda dengan yang diusulkan oleh
+            Kementerian/Lembaga      dengan     ditembuskan
+            kepada Direktur Jenderal Anggaran; atau
+      b. melanjutkan proses usulan penggunaan anggaran
+            melalui pergeseran anggaran dari sub BA BUN
+            Belanja Lainnya ke BA K/L dalam hal nilai dan
+            kegiatan yang mendapat persetujuan tidak ada
+            perbedaan    dengan    yang    diusulkan     oleh
+            Kementerian/Lembaga.
+(9a) Dalam hal usulan tambahan anggaran sebagaimana
+      dimaksud pada ayat (8) tidak termasuk dalam
+      perubahan anggaran tertentu yang tercantum dalam
+      Undang-Undang mengenai APBN tahun berkenaan,
+      Direktur Jenderal Anggaran a.n. Menteri Keuangan
+      menyampaikan permohonan rekomendasi kepada
+      Dewan Perwakilan Rakyat melalui alat kelengkapan
+      DPR RI yang khusus menangani urusan di bidang
+      anggaran.
+(10) Kementerian/Lembaga         menyampaikan        kembali
+      penyesuaian data yang telah diperbaiki melalui Sistem
+      Informasi dan/atau dokumen pendukung lainnya
+      kepada Direktur Jenderal Anggaran sebagaimana
+      dimaksud pada ayat (9) huruf a paling lama 2 (dua) hari
+      kerja.
+(10a) Dalam       hal   setelah   2    (dua)    hari    kerja
+      Kementerian/Lembaga         belum       menyampaikan
+      penyesuaian data yang telah diperbaiki melalui Sistem
+      Informasi dan/atau dokumen pendukung lainnya
+      sebagaimana dimaksud pada ayat (10), Direktur
+      Jenderal Anggaran menyampaikan kembali permintaan
+      penyesuaian data yang telah diperbaiki melalui sistem
+      Informasi dan/atau dokumen pendukung lainnya
+      kepada Kementerian/Lembaga.
+(11) Direktur Jenderal Anggaran atas nama Menteri
+      Keuangan menerbitkan SP SABA yang disampaikan
+      kepada Kementerian/Lembaga, dengan ditembuskan
+      kepada Menteri Keuangan, Direktur Jenderal Anggaran
+      c.q. Direktur Anggaran Bidang selaku mitra
+      Kementerian/Lembaga dan Direktur Anggaran Bidang
+      Politik, Hukum, Pertahanan dan Keamanan, dan Bagian
+      Anggaran Bendahara Umum Negara selaku Unit
+      Pendukung PPA BUN Belanja Lainnya, paling lama 1
+      (satu) hari kerja terhitung sejak usulan pergeseran
+      anggaran diterima lengkap dari Pemimpin PPA BUN
+      Belanja Lainnya.
+(12) Data dalam Sistem Informasi merupakan satu kesatuan
+      dengan dokumen SP SABA yang telah diterbitkan
+      sebagaimana dimaksud pada ayat (11).
+(13) Anggaran belanja yang dilakukan pergeseran dari sub
+      BA BUN Belanja Lainnya ke BA K/L melalui penerbitan
+      SP SABA digunakan untuk membiayai kegiatan yang
+                     - 34 -
+
+
+        dilaksanakan oleh Kementerian/Lembaga yang telah
+        mempunyai Bagian Anggaran.
+  (14) Anggaran belanja yang dilakukan pergeseran dari sub
+        BA BUN Belanja Lainnya ke BA K/L melalui penerbitan
+        SP SABA tidak diperkenankan untuk:
+        a. dihitung dalam pemenuhan target kebijakan
+             penghematan belanja Kementerian/Lembaga; dan
+        b. dilakukan pergeseran anggaran antar RO.
+  (14a) Pergeseran anggaran antar RO sebagaimana dimaksud
+        pada ayat (14) huruf b dapat dilakukan setelah
+        mendapatkan Izin Presiden.
+  (15) Menteri/Pimpinan Lembaga bertanggung jawab:
+        a. atas substansi usulan kegiatan, volume kegiatan,
+             dan satuan biaya yang digunakan pada usulan
+             penggunaan anggaran;
+        b. terhadap kebenaran dokumen yang disampaikan
+             pada usulan tambahan anggaran; dan
+        c.   secara formal dan materiil atas pelaksanaan
+             kegiatan yang dananya bersumber dari sub BA
+             BUN Belanja Lainnya yang telah dilakukan
+             pergeseran melalui penerbitan SP SABA.
+  (16) Berdasarkan SP SABA sebagaimana dimaksud pada
+        ayat (11), Direktorat Jenderal Anggaran menetapkan
+        revisi DIPA Kementerian/Lembaga.
+  (17) Dalam hal Menteri Keuangan tidak memberikan
+        persetujuan seluruhnya, Direktur Jenderal Anggaran
+        selaku Pemimpin PPA BUN Belanja Lainnya atas nama
+        Menteri Keuangan menyampaikan surat pemberitahuan
+        kepada Menteri/Pimpinan Lembaga, dengan tembusan
+        kepada Menteri Keuangan.
+  (18) Dihapus.
+
+13. Di antara Pasal 118 dan Pasal 119 disisipkan 2 (dua) pasal
+    yakni Pasal 118A dan Pasal 118B, yang berbunyi sebagai
+    berikut:
+
+                            Pasal 118A
+   (1)   Direktur Jenderal Anggaran dapat mengajukan izin
+         penggunaan anggaran sub BA BUN Belanja Lainnya
+         dan pergeseran anggaran ke BA K/L sebagaimana
+         dimaksud dalam Pasal 118 ayat (8) kepada Menteri
+         Keuangan dengan pergeseran anggaran melalui
+         penerbitan SP SABA secara bertahap.
+   (2)   Setelah mendapatkan izin penggunaan anggaran sub
+         BA BUN Belanja Lainnya dan pergeseran anggaran ke
+         BA K/L melalui penerbitan SP SABA secara bertahap
+         dari Menteri Keuangan sebagaimana dimaksud pada
+         ayat (1), Direktur Anggaran Bidang Politik, Hukum,
+         Pertahanan dan Keamanan, dan Bagian Anggaran
+         Bendahara Umum Negara atas nama Direktur Jenderal
+         Anggaran selaku Pemimpin PPA BUN Belanja Lainnya
+         menyampaikan permintaan penyesuaian data dengan
+         menggunakan Sistem Informasi dan/atau dokumen
+         pendukung lainnya kepada Kementerian/Lembaga.
+   (3)   Penyesuaian data sebagaimana dimaksud pada ayat (2)
+                  - 35 -
+
+
+      termasuk penyesuaian terhadap nilai SP SABA yang
+      akan diterbitkan pada tahap tersebut.
+(4)   Mekanisme sebagaimana dimaksud dalam Pasal 118
+      ayat (9) sampai dengan ayat (16) berlaku mutatis
+      mutandis terhadap proses penerbitan SP SABA untuk
+      keperluan usulan tambahan anggaran sebagaimana
+      dimaksud pada ayat (1).
+(5)   Mekanisme pergeseran anggaran dari sub BA BUN
+      Belanja Lainnya ke BA K/L dengan penerbitan SP
+      SABA pada tahap berikutnya dilakukan dengan
+      tahapan dan ketentuan sebagai berikut:
+      a. usulan tambahan anggaran melalui penerbitan SP
+          SABA tahap berikutnya disampaikan oleh
+          Menteri/Pimpinan Lembaga kepada Menteri
+          Keuangan dengan tembusan kepada Direktur
+          Jenderal Anggaran;
+      b. usulan      tambahan      anggaran    sebagaimana
+          dimaksud dalam huruf a disampaikan kepada
+          Direktorat Jenderal Anggaran melalui Sistem
+          Informasi dengan dilampiri dokumen pendukung:
+          1. data dalam Sistem Informasi;
+          2. rincian anggaran belanja sesuai dengan
+               rencana     pergeseran    anggaran    melalui
+               penerbitan SP SABA tahap berikutnya;
+          3. surat pernyataan kesanggupan menyerap
+               anggaran dan melaksanakan kegiatan pada
+               tahun berjalan disusun sesuai dengan format
+               tercantum dalam Lampiran IV yang
+               merupakan bagian tidak terpisahkan dari
+               Peraturan Menteri ini;
+          4. rincian distribusi alokasi usulan tambahan
+               anggaran per Program unit/provinsi/Satker
+               disusun sesuai dengan format tercantum
+               dalam Lampiran IV yang merupakan bagian
+               tidak terpisahkan dari Peraturan Menteri ini;
+          5. surat pernyataan bahwa telah dilakukan
+               penelitian       kelengkapan        dokumen
+               pendukung;
+          6. surat      usulan    Revisi   Anggaran    yang
+               ditandatangani         oleh        Sekretaris
+               Jenderal/Sekretaris        Utama/Sekretaris/
+               pejabat eselon I Kementerian/Lembaga;
+          7. surat pernyataan pejabat eselon I;
+      c.  dokumen sebagaimana dimaksud dalam huruf b
+          angka 2 dan angka 3, ditandatangani oleh pejabat
+          setingkat eselon I yang bertanggung jawab
+          terhadap kegiatan yang diusulkan;
+      d. dokumen sebagaimana dimaksud dalam huruf b
+          angka 7 ditandatangani oleh Sekretaris Jenderal/
+          Sekretaris     Utama/Sekretaris     Kementerian/
+          Lembaga;
+      e.  Direktorat    Jenderal    Anggaran     melakukan
+          penelitian terhadap usulan tambahan anggaran
+          melalui penerbitan SP SABA tahap berikutnya
+          sebagaimana dimaksud dalam huruf a dan huruf
+                   - 36 -
+
+
+          b setelah dokumen sebagaimana dimaksud dalam
+          huruf b diterima lengkap;
+      f.  dalam hal usulan tambahan anggaran melalui
+          penerbitan SP SABA tahap berikutnya belum
+          dilengkapi dokumen sebagaimana dimaksud
+          dalam huruf b, Direktur Jenderal Anggaran
+          menyampaikan surat pemberitahuan kepada
+          Menteri/Pimpinan       Lembaga      agar     segera
+          menyampaikan          kelengkapan         dokumen
+          pendukung dalam waktu 2 (dua) hari kerja sejak
+          disampaikannya surat pemberitahuan;
+      g.  dalam hal setelah 2 (dua) hari kerja sejak
+          disampaikannya         surat       pemberitahuan
+          sebagaimana     dimaksud      dalam     huruf     f,
+          Menteri/Pimpinan Lembaga belum melengkapi
+          dokumen pendukung, usulan tambahan anggaran
+          melalui penerbitan SP SABA tahap berikutnya
+          sebagaimana     dimaksud      dalam      huruf    a
+          dikembalikan kepada Menteri/Pimpinan Lembaga
+          melalui surat Direktur Jenderal Anggaran atas
+          nama Menteri Keuangan dengan tembusan
+          kepada Menteri Keuangan;
+      h. berdasarkan     hasil    penelitian    sebagaimana
+          dimaksud dalam huruf e, Direktur Jenderal
+          Anggaran dapat tidak menyetujui atau menyetujui
+          atas    seluruh/sebagian     usulan      tambahan
+          anggaran melalui penerbitan SP SABA tahap
+          berikutnya;
+      i.  dalam hal Direktur Jenderal Anggaran tidak
+          menyetujui usulan tambahan anggaran melalui
+          penerbitan    SP    SABA      tahap     berikutnya
+          sebagaimana dimaksud dalam huruf h, Direktur
+          Jenderal Anggaran atas nama Menteri Keuangan
+          menyampaikan surat pemberitahuan kepada
+          Menteri/Pimpinan Lembaga dengan tembusan
+          kepada Menteri Keuangan; dan
+      j.  dalam hal Direktur Jenderal Anggaran menyetujui
+          usulan tambahan anggaran melalui penerbitan SP
+          SABA tahap berikutnya sebagaimana dimaksud
+          pada huruf h, Direktur Jenderal Anggaran atas
+          nama Menteri menerbitkan SP SABA yang
+          disampaikan     kepada     Sekretaris    Jenderal/
+          Sekretaris Utama/Sekretaris/pejabat eselon I
+          Kementerian/Lembaga, dengan ditembuskan
+          kepada Menteri Keuangan, Direktur Jenderal
+          Anggaran c.q. Direktur Anggaran Bidang selaku
+          mitra    Kementerian/Lembaga       dan     Direktur
+          Anggaran Bidang Politik, Hukum, Pertahanan dan
+          Keamanan, dan Bagian Anggaran Bendahara
+          Umum Negara selaku Unit Pendukung PPA BUN
+          Belanja Lainnya, paling lama 1 (satu) hari kerja
+          terhitung sejak usulan pergeseran anggaran
+          diterima lengkap dari Pemimpin PPA BUN Belanja
+          Lainnya.
+(6)   Pergeseran anggaran dari sub BA BUN Belanja Lainnya
+                       - 37 -
+
+
+          ke BA K/L dengan penerbitan SP SABA pada tahap
+          berikutnya dapat dilakukan pada tahun anggaran
+          berjalan.
+
+                                Pasal 118B
+    (1)   Penyampaian permohonan rekomendasi kepada Dewan
+          Perwakilan Rakyat melalui alat kelengkapan DPR RI
+          yang khusus menangani urusan di bidang anggaran
+          sebagaimana dimaksud dalam Pasal 118 ayat (9a) dan
+          batas waktu pemberian rekomendasi oleh DPR
+          dilaksanakan sesuai dengan ketentuan dalam Undang-
+          Undang mengenai APBN tahun anggaran berkenaan.
+    (2)   Berdasarkan rekomendasi DPR sebagaimana dimaksud
+          pada ayat (1), Menteri Keuangan memberikan disposisi
+          kepada      Direktur     Jenderal    Anggaran      untuk
+          menindaklanjuti sesuai dengan mekanisme yang
+          berlaku.
+    (3)   Dalam hal setelah batas waktu yang ditentukan dalam
+          Undang-Undang mengenai APBN tahun anggaran
+          berkenaan tidak diterima rekomendasi dari alat
+          kelengkapan DPR RI yang khusus menangani urusan di
+          bidang anggaran sebagaimana dimaksud pada ayat (1),
+          mekanisme sebagaimana dimaksud dalam Pasal 118
+          ayat (9), ayat (10) sampai dengan ayat (16), dan ayat (18)
+          berlaku mutatis mutandis terhadap proses penerbitan
+          SP SABA untuk keperluan usulan tambahan anggaran
+          sebagaimana dimaksud pada ayat (1).
+    (4)   Jangka waktu yang ditentukan dalam Undang-Undang
+          mengenai       APBN     tahun    anggaran      berkenaan
+          sebagaimana dimaksud pada ayat (1) tidak termasuk
+          masa reses DPR yang ditetapkan sesuai dengan
+          ketentuan peraturan perundang-undangan.
+
+14. Ketentuan ayat (2), ayat (3), dan ayat (5) Pasal 119 diubah
+    sehingga berbunyi sebagai berikut:
+
+                               Pasal 119
+    (1)   Penggunaan anggaran yang akan dilakukan melalui
+          penerbitan DIPA BUN yang berasal dari sub BA BUN
+          Belanja Lainnya sebagaimana dimaksud dalam Pasal
+          108 ayat (2) huruf c dilakukan untuk memenuhi usulan
+          tambahan anggaran.
+    (2)   Mekanisme usulan tambahan anggaran sebagaimana
+          dimaksud pada ayat (1) dilakukan dengan tahapan dan
+          ketentuan sebagai berikut:
+          a. KPA BUN menyampaikan usulan tambahan
+              anggaran kepada Direktur Jenderal Anggaran
+              selaku Pemimpin PPA BUN Belanja Lainnya dengan
+              tembusan kepada Menteri/Pimpinan Lembaga
+              pengusul      dengan     melampirkan   dokumen
+              pendukung berupa:
+              1. dasar hukum pengalokasian anggaran;
+              2. kerangka acuan kerja ditandatangani KPA
+                    BUN;
+             - 38 -
+
+
+     3.   rincian anggaran belanja ditandatangani KPA
+          BUN;
+     4. LHR APIP K/L; dan
+     5. dokumen pendukung lainnya dalam hal
+          diperlukan;
+b.   dalam      hal     usulan    tambahan    anggaran
+     sebagaimana dimaksud dalam huruf a diajukan
+     untuk kegiatan yang telah dilaksanakan pada
+     tahun     sebelumnya/tahun-tahun       sebelumnya
+     dan/atau tahun berjalan, usulan tambahan
+     anggaran tersebut dilampiri dengan hasil reviu dari
+     Badan Pengawasan Keuangan dan Pembangunan
+     dan/atau hasil audit Badan Pemeriksa Keuangan;
+c.   ketentuan sebagaimana dimaksud dalam huruf b
+     dikecualikan dalam hal terdapat tunggakan
+     pembayaran belanja subsidi akibat adanya
+     kebijakan pemerintah;
+d.   usulan tambahan anggaran untuk penyelesaian
+     tunggakan sebagaimana dimaksud dalam huruf c
+     dilampiri surat keterangan KPA yang menyatakan
+     bahwa SPM belanja subsidi telah diajukan kepada
+     KPPN pembayar namun belum direalisasikan dan
+     SPM berkenaan;
+e.   berdasarkan usulan tambahan anggaran dan
+     dokumen sebagaimana dimaksud dalam huruf a,
+     dilakukan penelitian atas usulan tambahan
+     anggaran sub BA BUN Belanja Lainnya yang
+     dikoordinasikan oleh Unit Pendukung PPA BUN
+     Belanja Lainnya;
+f.   penelitian sebagaimana dimaksud dalam huruf e,
+     dilakukan bersama-sama dengan pihak terkait,
+     setelah dokumen sebagaimana dimaksud dalam
+     huruf a angka 1 sampai dengan angka 5 diterima
+     dengan lengkap dan benar;
+g.   berdasarkan       hasil   penelitian  sebagaimana
+     dimaksud dalam huruf f, Direktur Jenderal
+     Anggaran       selaku     Pemimpin    PPA     BUN
+     menyampaikan:
+     1.   surat pemberitahuan alokasi anggaran kepada
+          KPA BUN dan permintaan penyampaian RKA
+          Satker BUN dalam hal usulan tambahan
+          anggaran disetujui; atau
+     2.   surat penolakan kepada KPA BUN dalam hal
+          usulan tambahan anggaran tidak dapat
+          disetujui;
+h.   dalam hal berdasarkan hasil penelitian usulan
+     disetujui      namun       alokasi    anggarannya
+     kurang/belum tersedia, maka terlebih dahulu
+     dilakukan pergeseran dalam sub BA BUN Belanja
+     Lainnya;
+i.   dalam rangka pergeseran dalam sub BA BUN
+     Belanja Lainnya sebagaimana dimaksud dalam
+     huruf h, Direktur Jenderal Anggaran mengajukan
+     izin pergeseran dan penggunaan kepada Menteri
+     Keuangan;
+                  - 39 -
+
+
+      j.  berdasarkan persetujuan Menteri Keuangan
+          sebagaimana dimaksud dalam huruf i, Direktur
+          Jenderal Anggaran menetapkan revisi surat
+          Menteri Keuangan terkait alokasi anggaran sub BA
+          BUN Belanja Lainnya atas nama Menteri
+          Keuangan;
+      k. berdasarkan revisi surat Menteri Keuangan
+          sebagaimana dimaksud dalam huruf j, Direktur
+          Jenderal Anggaran selaku Pemimpin PPA BUN
+          menyampaikan pemberitahuan alokasi anggaran
+          serta permintaan penyampaian RKA Satker BUN
+          kepada KPA BUN; dan
+      l.  dalam hal Menteri Keuangan tidak menyetujui
+          permohonan izin pergeseran dan penggunaan
+          seluruhnya sebagaimana dimaksud dalam huruf i,
+          Direktur Jenderal Anggaran selaku Pemimpin PPA
+          BUN menyampaikan surat penolakan usulan
+          tambahan anggaran dimaksud kepada KPA BUN
+          dengan tembusan kepada Menteri Keuangan dan
+          Menteri/Pimpinan Lembaga pengusul.
+(3)   Berdasarkan pemberitahuan alokasi anggaran dan
+      permintaan    penyampaian      RKA     Satker   BUN
+      sebagaimana dimaksud pada ayat (2) huruf g angka 1
+      atau pada ayat (2) huruf k, KPA BUN menyampaikan
+      usulan RKA Satker BUN kepada Direktur Jenderal
+      Anggaran selaku Pemimpin PPA BUN Belanja Lainnya
+      dengan tembusan kepada Menteri/Pimpinan Lembaga
+      pengusul dengan melampirkan dokumen pendukung
+      berupa:
+      a. dasar hukum pengalokasian anggaran;
+      b. RKA Satker BUN ditandatangani oleh KPA BUN;
+      c.  kerangka acuan kerja ditandatangani KPA BUN;
+      d. rincian anggaran belanja ditandatangani KPA BUN;
+      e.  LHR APIP K/L yang sama pada saat pengusulan
+          tambahan anggaran; dan
+      f.  dokumen     pendukung     lainnya    dalam    hal
+          diperlukan.
+(4)   Berdasarkan usulan RKA Satker BUN sebagaimana
+      dimaksud pada ayat (3), Unit Pendukung PPA BUN
+      Belanja Lainnya melakukan penelitian, setelah
+      dokumen sebagaimana dimaksud pada ayat (3) diterima
+      dengan lengkap dan benar.
+(5)   Berdasarkan hasil penelitian sebagaimana dimaksud
+      pada ayat (4), Direktur Jenderal Anggaran selaku
+      Pemimpin PPA BUN Belanja Lainnya:
+      a. mengajukan izin penggunaan anggaran sub BA
+          BUN Belanja Lainnya kepada Menteri Keuangan
+          dalam hal penyampaian RKA Satker BUN
+          berdasarkan pemberitahuan alokasi anggaran dan
+          permintaan penyampaian RKA Satker BUN
+          sebagaimana dimaksud pada ayat (2) huruf g angka
+          1; atau
+      b. menyusun dan menyampaikan RKA-BUN kepada
+          Direktur    Jenderal    Anggaran    dalam     hal
+          penyampaian RKA Satker BUN berdasarkan
+                      - 40 -
+
+
+               pemberitahuan alokasi anggaran dan permintaan
+               penyampaian RKA Satker BUN sebagaimana
+               dimaksud pada ayat (2) huruf k.
+    (6)   Berdasarkan permohonan izin penggunaan anggaran
+          sub BA BUN Belanja Lainnya kepada Menteri Keuangan
+          sebagaimana dimaksud pada ayat (5) huruf a, Direktur
+          Jenderal Anggaran selaku Pemimpin PPA BUN
+          melakukan:
+          a. menyusun dan menyampaikan RKA-BUN kepada
+               Direktur Jenderal Anggaran dalam hal Menteri
+               Keuangan      memberikan     persetujuan   atas
+               permohonan izin penggunaan anggaran sub BA
+               BUN Belanja Lainnya; atau
+          b. menyampaikan surat penolakan usulan tambahan
+               anggaran dimaksud kepada KPA BUN dengan
+               tembusan     kepada   Menteri    Keuangan  dan
+               Menteri/Pimpinan Lembaga pengusul, dalam hal
+               Menteri Keuangan tidak memberikan persetujuan
+               atas permohonan izin penggunaan anggaran sub
+               BA BUN Belanja Lainnya.
+    (7)   Ketentuan penyusunan dan pengesahan DIPA BUN
+          dilaksanakan sesuai dengan ketentuan yang tercantum
+          dalam Lampiran III yang merupakan bagian tidak
+          terpisahkan dari Peraturan Menteri ini.
+
+15. Ketentuan ayat (1) Pasal 144 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                              Pasal 144
+    (1)   Revisi Anggaran terkait Belanja Operasional hanya
+          dapat dilakukan untuk memenuhi:
+          a. kekurangan Belanja Operasional; dan
+          b. kebutuhan alokasi belanja non operasional pada
+                RO Khusus.
+    (2)   Kekurangan      Belanja    Operasional     sebagaimana
+          dimaksud pada ayat (1) huruf a terdiri atas:
+          a. belanja pegawai operasional; dan
+          b. belanja barang operasional.
+    (3)   Belanja pegawai operasional sebagaimana dimaksud
+          pada ayat (2) huruf a termasuk untuk pemenuhan
+          selisih kurs untuk belanja pegawai di luar negeri.
+    (4)   Pemenuhan       kekurangan     Belanja      Operasional
+          sebagaimana dimaksud pada ayat (1) huruf a, tidak
+          dapat berasal dari dana bersama penanggulangan
+          bencana.
+
+16. Ketentuan ayat (3) Pasal 150 diubah sehingga berbunyi
+    sebagai berikut:
+
+                             Pasal 150
+    (1)   Revisi Anggaran terkait Tunggakan dilakukan untuk
+          memenuhi pembayaran Tunggakan melalui pergeseran
+          anggaran.
+                   - 41 -
+
+
+(2)   Alokasi Anggaran pembayaran Tunggakan sebagaimana
+      dimaksud pada ayat (1) dibebankan pada DIPA tahun
+      anggaran berkenaan.
+(3)   Pergeseran anggaran sebagaimana dimaksud pada ayat
+      (1) dilakukan dengan ketentuan sebagai berikut:
+      a. setiap Tunggakan harus dicantumkan dalam
+            catatan-catatan terpisah per akun dalam halaman
+            IVB DIPA pada setiap alokasi yang ditetapkan
+            untuk mendanai suatu kegiatan per DIPA per
+            Satker;
+      b. dalam hal kolom yang terdapat dalam Sistem
+            Informasi untuk mencantumkan catatan semua
+            Tunggakan tidak mencukupi, rincian detail tagihan
+            per akun dapat disampaikan dalam lembaran
+            terpisah, yang ditetapkan oleh KPA;
+      c. Tunggakan per tagihan, nilainya dilaksanakan
+            dengan ketentuan:
+            1. sampai dengan Rp3.000.000.000,00 (tiga
+                 miliar    rupiah),   harus   dilampiri    surat
+                 pernyataan dari KPA;
+            2. di atas Rp3.000.000.000,00 (tiga miliar
+                 rupiah) sampai dengan Rp30.000.000.000,00
+                 (tiga puluh miliar rupiah), harus dilampiri
+                 hasil reviu dari APIP K/L;
+            3. di atas Rp30.000.000.000,00 (tiga puluh
+                 miliar rupiah), harus dilampiri hasil reviu dari
+                 Badan       Pengawasan      Keuangan        dan
+                 Pembangunan; dan/atau
+            4. untuk Tunggakan SPM belanja subsidi yang
+                 belum direalisasikan hingga akhir tahun
+                 anggaran, harus dilampiri surat keterangan
+                 KPA yang menyatakan bahwa SPM belanja
+                 subsidi telah diajukan kepada KPPN pembayar
+                 namun belum direalisasikan dan SPM
+                 berkenaan.
+      d. dalam hal diperlukan, APIP K/L dapat meminta
+            penjaminan kualitas atas hasil reviu sebagaimana
+            dimaksud dalam huruf c angka 2 kepada Badan
+            Pengawasan Keuangan dan Pembangunan;
+      e. penyediaan dana atas SPM belanja subsidi yang
+            belum direalisasikan hingga akhir tahun anggaran
+            sebagaimana dimaksud dalam huruf c angka 4
+            dilakukan terhadap SPM yang telah memenuhi
+            seluruh persyaratan pada saat pengajuan proses
+            pembayaran di tahun sebelumnya;
+      f.    dalam hal Tunggakan sudah dilakukan audit oleh
+            Badan Pemeriksa Keuangan, usulan pergeseran
+            anggaran dapat dilampiri hasil audit dari Badan
+            Pemeriksa Keuangan tersebut sebagai dokumen
+            pendukung pengganti surat pernyataan dari KPA
+            atau pengganti hasil reviu dari APIP K/L atau audit
+            Badan Pengawasan Keuangan dan Pembangunan
+            atau surat keterangan KPA sebagaimana dimaksud
+            pada ayat (3) huruf c;
+                      - 42 -
+
+
+          g.   besaran dana yang diusulkan untuk penyelesaian
+               Tunggakan sebagaimana dimaksud dalam huruf c
+               angka 4 sebesar SPM belanja subsidi yang sudah
+               diajukan kepada KPPN pembayar namun belum
+               direalisasikan pada tahun anggaran sebelumnya;
+          h.   penyediaan dana untuk penyelesaian tunggakan
+               sebagaimana dimaksud dalam huruf c angka 4
+               sesuai     hasil  keputusan    rapat   pimpinan
+               Kementerian Keuangan mengenai kondisi sektor
+               fiskal yang berdampak pada APBN dengan
+               memperhatikan kemampuan keuangan negara;
+               dan
+          i.   besaran dana yang diusulkan untuk pergeseran
+               anggaran sebagaimana dimaksud dalam huruf e
+               sebesar SPM belanja subsidi yang sudah diajukan
+               kepada      KPPN    pembayar    namun     belum
+               direalisasikan pada tahun anggaran sebelumnya.
+
+17. Ketentuan ayat (6) dan ayat (7) Pasal 157 diubah, dan setelah
+    ayat (7) ditambah 3 (tiga) ayat yakni ayat (8), ayat (9), dan
+    ayat (10) sehingga Pasal 157 berbunyi sebagai berikut:
+
+                                 Pasal 157
+    (1)   Menteri Keuangan dapat melakukan penyesuaian
+          belanja pada tahun anggaran berkenaan.
+    (2)   Penyesuaian belanja sebagaimana dimaksud pada ayat
+          (1) dilakukan dalam hal terdapat:
+          a. kebijakan Penyesuaian Belanja Negara; dan/atau
+          b. kebijakan Pemerintah lainnya.
+    (3)   Kebijakan Penyesuaian Belanja Negara sebagaimana
+          dimaksud pada ayat (2) huruf a merupakan kebijakan
+          Pemerintah yang diatur dalam Undang-undang
+          mengenai APBN tahun anggaran berkenaan.
+    (4)   Kebijakan Penyesuaian Belanja Negara sebagaimana
+          dimaksud pada ayat (2) huruf a dapat berupa:
+          a. pengutamaan           penggunaan   anggaran    yang
+                disesuaikan       secara   otomatis    (automatic
+                adjustment), berupa pencadangan anggaran pada
+                DIPA Kementerian/Lembaga;
+          b. pergeseran anggaran berupa realokasi blokir
+                anggaran dari BA K/L ke sub BA BUN Belanja
+                Lainnya;
+          c.    pemotongan anggaran Belanja Negara; dan/atau
+          d. penyesuaian pagu.
+    (5)   Kebijakan Pemerintah lainnya sebagaimana dimaksud
+          pada ayat (2) huruf b merupakan kebijakan
+          penganggaran sebagai tindak lanjut antara lain dari:
+          a. kebijakan hasil pengendalian dan pemantauan
+                yang dilakukan oleh Menteri Keuangan terhadap
+                belanja Kementerian/Lembaga dan belanja BA
+                BUN;
+          b. peraturan perundang-perundangan; dan/atau
+          c.    direktif Presiden.
+    (6)   Kebijakan Pemerintah lainnya sebagaimana dimaksud
+          pada ayat (5) dilakukan melalui:
+                     - 43 -
+
+
+         a.   pencadangan atau pemblokiran anggaran;
+         b.   pergeseran anggaran dalam bentuk:
+              1. pergeseran anggaran antar BA K/L;
+              2. pergeseran anggaran dari BA K/L ke sub BA
+                   BUN Belanja Lainnya;
+              3. pemanfaatan dan pergeseran anggaran
+                   antarsubbagian anggaran dalam BA BUN
+                   untuk belanja yang belum ada/kurang
+                   tersedia alokasinya; dan/atau
+              4. pergeseran      anggaran    dalam   subbagian
+                   anggaran BA BUN; dan/atau
+         c.   pergeseran anggaran dalam rangka pengalokasian
+              dan pemanfaatan RO Khusus dalam bentuk:
+              1. pergeseran anggaran dalam BA K/L;
+              2. pergeseran anggaran dari RO Khusus pada BA
+                  K/L ke sub BA BUN Belanja Lainnya;
+                  dan/atau
+              3. pergeseran anggaran dari sub BA BUN Belanja
+                  Lainnya ke RO Khusus pada BA K/L.
+    (7) Pergeseran anggaran sebagaimana dimaksud pada ayat
+         (4) huruf b dan ayat (6) huruf b angka 1 dan angka 2
+         dilakukan         dengan         meminta       kepada
+         Kementerian/Lembaga mengusulkan Revisi Anggaran
+         untuk:
+         a.   direalokasi ke DIPA Kementerian/Lembaga lainnya
+              mengikuti mekanisme Revisi Anggaran antar
+              Kementerian/Lembaga; atau
+         b.   direalokasi ke BA BUN atas alokasi yang sudah
+              dicadangkan      mengikuti    mekanisme    Revisi
+              Anggaran dari BA K/L ke BA BUN.
+    (8) Pergeseran anggaran dalam BA K/L sebagaimana
+         dimaksud pada ayat (6) huruf c angka 1, dilakukan
+         dengan     meminta     kepada    Kementerian/Lembaga
+         mengusulkan Revisi Anggaran untuk melakukan
+         pergeseran anggaran ke RO Khusus.
+    (9) Pergeseran anggaran dari BA K/L ke sub BA BUN
+         Belanja Lainnya sebagaimana dimaksud pada ayat (6)
+         huruf c angka 2, dilakukan dengan meminta kepada
+         Kementerian/Lembaga mengusulkan Revisi Anggaran
+         untuk direalokasi ke sub BA BUN Belanja Lainnya
+         sesuai dengan mekanisme Revisi Anggaran dari BA K/L
+         ke sub BA BUN Belanja Lainnya.
+    (10) Pergeseran anggaran dari sub BA BUN Belanja Lainnya
+         ke RO Khusus pada BA K/L sebagaimana dimaksud
+         pada ayat (6) huruf c angka 3 dilaksanakan sesuai
+         dengan mekanisme pergeseran dari sub BA BUN Belanja
+         Lainnya ke BA K/L.
+
+18. Di antara Pasal 158 dan Pasal 159 disisipkan 1 (satu) pasal
+    yakni Pasal 158A, yang berbunyi sebagai berikut:
+
+                         Pasal 158A
+    Pergeseran anggaran dalam rangka pengalokasian dan
+    pemanfaatan RO Khusus sebagaimana dimaksud dalam
+                  - 44 -
+
+
+Pasal 157 ayat (6) huruf c dilakukan dengan ketentuan
+sebagai berikut:
+a. Kementerian/Lembaga menggunakan RO Khusus
+    sesuai dengan nomenklatur dan kodefikasi yang
+    ditentukan     dalam     Pedoman     Penyusunan      dan
+    Pemanfaatan KRO dan RO dalam Perencanaan dan
+    Penganggaran;
+b. Pergeseran anggaran dalam BA K/L dalam rangka
+    pengalokasian anggaran pada RO Khusus dilakukan
+    melalui pergeseran anggaran dari RO lain, sepanjang
+    tidak berupa pergeseran anggaran antar Program;
+c.  pengalokasian     RO     Khusus     dilakukan    dengan
+    membentuk Komponen Khusus disertai dengan
+    pencantuman catatan pada Halaman IV.B DIPA TA
+    berkenaan berupa “Pemanfaatan alokasi didasarkan
+    pada Keputusan Menteri/Pimpinan Lembaga”;
+d. besaran anggaran dari RO lain sebagaimana dimaksud
+    pada huruf b ditetapkan oleh Menteri Keuangan;
+e.  pemanfaatan alokasi anggaran pada RO Khusus
+    dilakukan dengan membentuk Komponen baru dengan
+    nomenklatur sesuai prioritas direktif Presiden yang
+    akan dilaksanakan;
+f.  pemenuhan       alokasi     untuk    Komponen       baru
+    sebagaimana dimaksud pada huruf e dilakukan melalui
+    pergeseran     anggaran     dari   Komponen      Khusus
+    sebagaimana dimaksud pada huruf c sesuai ketentuan
+    mekanisme Revisi Anggaran;
+g.  pemanfaatan alokasi anggaran pada RO Khusus
+    sebagaimana dimaksud pada huruf e dapat dilakukan
+    dengan ketentuan:
+    1. Terdapat Keputusan Menteri/Pimpinan Lembaga
+         yang paling sedikit memuat:
+         a) Dasar penetapan kegiatan yang akan
+              dilaksanakan      berupa      arahan/instruksi
+              Presiden;
+         b) Penanggung         jawab     dan     mekanisme
+              pelaksanaan kegiatan;
+         c)   Jumlah alokasi dana dan output kegiatan yang
+              akan dilaksanakan;
+         d) Pemenuhan persyaratan alokasi anggaran
+              antara lain Kerangka Acuan Kerja, Rincian
+              Anggaran      Biaya,   rekomendasi      teknis,
+              clearance, Rencana Kebutuhan Barang Milik
+              Negara, dasar penentuan lokus; dan
+         e)   Ketentuan laporan perkembangan fisik dan
+              keuangan;
+    2. Persyaratan pembayaran wajib melampirkan
+         salinan Keputusan Menteri/Pimpinan Lembaga
+         dan Surat Pernyataan Tanggung Jawab Mutlak
+         KPA yang menyatakan bahwa semua bukti dan
+         persyaratan telah dipenuhi secara lengkap dan
+         benar; dan
+    3. alokasi anggaran pada RO Khusus yang tidak
+         digunakan sampai dengan akhir triwulan III TA
+         berkenaan, dapat digunakan untuk kegiatan
+                       - 45 -
+
+
+               prioritas     Kementerian/Lembaga         yang
+               bersangkutan melalui mekanisme Revisi Anggaran
+               sesuai dengan ketentuan peraturan perundang-
+               undangan.
+
+19. Ketentuan ayat (2) dan ayat (3) Pasal 159 diubah dan ayat (4)
+    dihapus, sehingga Pasal 159 berbunyi sebagai berikut:
+
+                                 Pasal 159
+    (1)    Revisi Anggaran DIPA Kementerian/Lembaga yang
+           bersumber dari BA BUN dan DIPA BUN dapat dilakukan
+           dalam hal:
+           a. RO atas kegiatan yang didanai dari SP SABA atau
+                SPP BA BUN telah tercapai dan terdapat sisa
+                anggaran; atau
+           b. RO atas kegiatan yang didanai dari SP SABA atau
+                SPP BA BUN tidak tercapai sebagian atau
+                seluruhnya, dan masih terdapat sisa anggaran
+                yang tidak digunakan.
+    (2)    Revisi Anggaran sebagaimana dimaksud pada ayat (1)
+           dapat dilakukan dengan melakukan:
+           a. revisi sisa anggaran sepanjang menambah volume
+                RO yang sama;
+           b. revisi sisa anggaran untuk menambah alokasi RO
+                yang tidak sama dalam hal telah mendapatkan Izin
+                Presiden; dan/atau
+           c.   revisi sisa anggaran untuk dikembalikan ke sub BA
+                BUN Belanja Lainnya.
+     (3)   Revisi Anggaran sebagaimana dimaksud pada ayat (2)
+           huruf c dapat dilakukan dengan melakukan revisi
+           terhadap sisa anggaran yang tidak digunakan untuk
+           dikembalikan ke BA BUN sepanjang terdapat:
+           a. faktor eksternal di luar kewenangan atau kuasa
+                Kementerian/Lembaga yang bersangkutan;
+           b. perubahan kebijakan Pemerintah yang diputuskan
+                minimal dalam rapat koordinasi antar-menteri;
+           c.   force majeure/keadaan kahar; dan/atau
+           d. Izin Presiden, terhadap kegiatan yang merupakan
+                prioritas pemerintah/direktif presiden.
+     (4)   Dihapus.
+
+20. Paragraf 1 pada Bagian Keempat BAB V dihapus.
+
+21. Pasal 160 dihapus.
+
+22. Ketentuan ayat (1), ayat (2), ayat (8), ayat (13) dan ayat (14)
+    Pasal 165 diubah, di antara ayat (1) dan ayat (2) disisipkan 1
+    (ayat) yakni ayat (1a), dan di antara ayat (8) dan ayat (9)
+    disisipkan 2 (dua) ayat yakni ayat (8a) dan ayat (8b), di antara
+    ayat (14) dan ayat (15) disisipkan 2 (dua) ayat yakni ayat
+    (14a) dan ayat (14b), sehingga Pasal 165 berbunyi sebagai
+    berikut:
+                   - 46 -
+
+
+                          Pasal 165
+(1)   Mekanisme Revisi Anggaran pada Direktorat Jenderal
+      Anggaran untuk BA K/L dilakukan dengan tahapan dan
+      ketentuan sebagai berikut:
+      a. KPA menyampaikan surat usulan Revisi Anggaran
+          kepada Sekretaris Jenderal/Sekretaris Utama/
+          Sekretaris/pejabat eselon I Kementerian/Lembaga
+          dengan    melampirkan      dokumen        pendukung
+          berupa:
+          1. data dalam Sistem Informasi; dan
+          2. dokumen pendukung terkait lainnya;
+      b. Sekretaris Jenderal/Sekretaris Utama/Sekretaris/
+          pejabat eselon I Kementerian/Lembaga melakukan
+          penelitian atas usulan Revisi Anggaran dan
+          kelengkapan dokumen pendukung usulan Revisi
+          Anggaran yang disampaikan oleh KPA;
+      c.  dalam hal usulan revisi berkaitan dengan:
+          1. Revisi Anggaran dalam hal pagu anggaran
+               berubah;
+          2. Revisi     Anggaran    antar     Program      yang
+               berdampak     pada     pengurangan       volume
+               Keluaran (RO), kecuali dalam rangka
+               pemenuhan Belanja Operasional;
+          3. Revisi Anggaran dalam rangka reorganisasi
+               dan/atau     restrukturisasi      Kementerian/
+               Lembaga; dan/atau
+          4. Revisi     Anggaran     dalam      hal    terdapat
+               Program/Kegiatan/KRO/RO baru,
+          usulan    Revisi    Anggaran      terlebih    dahulu
+          disampaikan      Sekretaris     Jenderal/Sekretaris
+          Utama/Sekretaris/pejabat eselon I Kementerian/
+          Lembaga kepada APIP K/L untuk dilakukan reviu
+          atas kesesuaian dokumen pendukung dengan
+          kaidah perencanaan dan penganggaran;
+      d. hasil reviu yang dilakukan oleh APIP K/L
+          sebagaimana dimaksud dalam huruf c dituangkan
+          dalam LHR APIP K/L;
+      e.  berdasarkan hasil penelitian atas usulan Revisi
+          Anggaran sebagaimana dimaksud dalam huruf b
+          dan/atau LHR APIP K/L sebagaimana dimaksud
+          dalam huruf d, Sekretaris Jenderal/Sekretaris
+          Utama/Sekretaris/pejabat             eselon         I
+          Kementerian/Lembaga        menandatangani         dan
+          menyampaikan surat usulan Revisi Anggaran
+          kepada Direktur Jenderal Anggaran melalui Sistem
+          Informasi dengan mengunggah salinan digital atau
+          hasil pindaian dokumen pendukung sebagai
+          berikut:
+          1. data dalam Sistem Informasi;
+          2. surat pernyataan pejabat eselon I yang
+               menyatakan bahwa:
+               a)   usulan      Revisi     Anggaran        yang
+                    disampaikan oleh KPA telah disetujui
+                    oleh pejabat eselon I;
+          - 47 -
+
+
+     b)    usulan      Revisi     Anggaran       yang
+           disampaikan        beserta       dokumen
+           persyaratannya       telah      dilakukan
+           penelitian kelengkapan dokumennya
+           oleh    Sekretaris   Jenderal/Sekretaris
+           Utama/Sekretaris/pejabat        eselon    I
+           Kementerian/ Lembaga; dan
+     c)    Menteri/Pimpinan       Lembaga        telah
+           menyetujui usulan dalam hal usulan
+           Revisi Anggaran berkaitan dengan
+           pergeseran anggaran antar-Program,
+           kecuali dalam rangka pemenuhan
+           Belanja Operasional;
+3.   LHR APIP K/L sebagaimana dimaksud dalam
+     huruf d;
+4.   rencana kebutuhan barang milik negara hasil
+     penelaahan perubahan, dalam hal usulan
+     Revisi Anggaran berkaitan dengan pengadaan
+     barang milik negara yang menjadi objek
+     perencanaan kebutuhan barang milik negara
+     sesuai dengan Peraturan Menteri Keuangan
+     mengenai perencanaan kebutuhan barang
+     milik negara berupa:
+     a)    penambahan barang milik negara baru
+           yang belum tercantum di dalam rencana
+           kebutuhan      barang     milik    negara;
+           dan/atau
+     b)    perubahan objek dan/atau spesifikasi
+           barang milik negara yang tercantum
+           dalam rencana kebutuhan barang milik
+           negara;
+5.   rekomendasi (clearance) dari Kementerian
+     yang          menyelenggarakan           urusan
+     pemerintahan di bidang komunikasi dan
+     digital    dan/atau      Kementerian        yang
+     menyelenggarakan urusan pemerintahan di
+     bidang pendayagunaan aparatur negara dan
+     reformasi       birokrasi       dalam         hal
+     Kementerian/Lembaga              bersangkutan
+     mengajukan       usulan     Revisi     Anggaran
+     berkaitan dengan belanja teknologi informasi
+     komunikasi;
+6.   dalam hal usulan Revisi Anggaran terkait
+     dengan akun 526 berupa barang yang akan
+     diserahkan kepada masyarakat/Pemerintah
+     Daerah dan pengalokasiannya didasarkan
+     pada usulan proposal, usulan Revisi Anggaran
+     dilengkapi dengan surat pernyataan dari
+     pejabat eselon I;
+7.   dalam hal usulan revisi berkaitan dengan:
+     a)    pergeseran anggaran antar RO pada BA
+           K/L yang bersumber dari sub BA BUN
+           Belanja Lainnya melalui penerbitan SP
+           SABA;
+                   - 48 -
+
+
+              b)    revisi   sisa    anggaran    pada   DIPA
+                    Kementerian/Lembaga yang bersumber
+                    dari BA BUN dan DIPA BUN untuk
+                    menambah alokasi pada RO yang tidak
+                    sama; dan
+               c)   revisi sisa anggaran kegiatan yang
+                    merupakan prioritas pemerintah/direktif
+                    presiden pada DIPA Kementerian/
+                    Lembaga yang bersumber dari BA BUN
+                    dan DIPA BUN untuk dikembalikan ke
+                    sub BA BUN Belanja Lainnya,
+               usulan Revisi Anggaran dilampiri Izin
+               Presiden; dan
+          8. dokumen pendukung terkait lainnya; dan
+     f.   dokumen asli atas salinan digital atau hasil
+          pindaian dokumen sebagaimana dimaksud dalam
+          huruf e angka 2 sampai dengan angka 8 diarsipkan
+          oleh Kementerian/Lembaga yang bersangkutan.
+(1a) Izin Presiden sebagaimana dimaksud pada ayat (1)
+     huruf e angka 7 dalam bentuk berupa surat pernyataan
+     Menteri/Pimpinan Lembaga yang menyatakan bahwa
+     kegiatan tersebut telah mendapatkan Izin Presiden,
+     disampaikan kepada Menteri Keuangan dan menteri
+     yang menangani urusan pemerintahan di bidang
+     kesekretariatan negara.
+(2) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (1) berupa Revisi Anggaran yang
+     memerlukan       penelaahan,      Ketua     Tim/Pejabat
+     Fungsional yang berwenang di unit terkait atas nama
+     Direktur     Anggaran        Bidang     selaku     mitra
+     Kementerian/Lembaga              menetapkan         dan
+     menyampaikan undangan kepada Kepala Biro
+     Perencanaan/Keuangan/Sekretaris               Direktorat
+     Jenderal/pejabat eselon II dengan tembusan kepada
+     Sekretaris    Jenderal/Sekretaris     Utama/Sekretaris/
+     pejabat eselon I Kementerian/Lembaga, dan pimpinan
+     unit-unit terkait dalam hal diperlukan, untuk
+     melakukan penelaahan atas usulan Revisi Anggaran
+     melalui komunikasi daring dan/atau luring.
+(3) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (2) terkait dengan perubahan pagu
+     anggaran PNBP, proses penelaahannya melibatkan
+     Direktorat    Penerimaan       Negara    Bukan    Pajak
+     Kementerian/Lembaga atau Direktorat Penerimaan
+     Negara Bukan Pajak Sumber Daya Alam dan Kekayaan
+     Negara Dipisahkan-Direktorat Jenderal Anggaran untuk
+     dimintakan konfirmasi atas batas maksimal PNBP yang
+     dapat digunakan sebagai belanja dan/atau informasi
+     kinerja pencapaian PNBP pada Kementerian/Lembaga
+     pengusul.
+(4) Hasil konfirmasi sebagaimana dimaksud pada ayat (3)
+     digunakan sebagai bahan pertimbangan bagi Direktorat
+     Anggaran Bidang selaku mitra Kementerian/Lembaga
+     dalam proses penyelesaian usulan Revisi Anggaran.
+                  - 49 -
+
+
+(5)  Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (2) terkait dengan pinjaman, hibah,
+     dan/atau SBSN, termasuk RMP, proses penelaahannya
+     melibatkan       Direktorat      Jenderal     Pengelolaan
+     Pembiayaan dan Risiko.
+(6) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (2) terkait dengan hibah ke daerah,
+     proses penelaahannya melibatkan Direktorat Jenderal
+     Perimbangan Keuangan.
+(7) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (2) terkait dengan belanja K/L yang
+     berbasis      spasial/kewilayahan,       maka       proses
+     penelaahannya dapat melibatkan Direktorat Jenderal
+     Perimbangan Keuangan.
+(8) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (2) terkait dengan:
+     a. RO Prioritas Nasional; dan/atau
+     b. Pembentukan komponen baru dalam RO Khusus,
+      proses penelaahannya melibatkan pihak Kementerian
+      Keuangan, Kementerian Perencanaan Pembangunan
+      Nasional/Badan Perencanaan Pembangunan Nasional,
+      dan Kementerian/Lembaga.
+(8a) Penelaahan sebelum membentuk komponen baru dalam
+     RO Khusus sebagaimana dimaksud pada ayat (8) huruf
+     b, dilaksanakan paling lama 2 (dua) hari kerja setelah
+     Kementerian/Lembaga menetapkan keputusan menteri
+     yang menjadi dasar pemanfaatan RO Khusus.
+(8b) Dalam hal penelaahan sebagaimana dimaksud pada
+     ayat (8a) tidak dapat dilaksanakan dalam batas waktu
+     2 (dua) hari kerja, Kementerian/Lembaga dapat
+     melanjutkan proses pembentukan komponen baru
+     dalam RO Khusus, dengan tetap melaksanakan
+     penelaahan setelahnya.
+(9) Hasil penelaahan yang dilakukan sebagaimana
+     dimaksud pada ayat (2) dituangkan dalam berita acara
+     penelaahan.
+(10) Dalam hal proses penelaahan sebagaimana dimaksud
+     pada ayat (2) tidak dihadiri oleh salah satu pihak terkait,
+     maka hasil penelaahan tetap berlaku sebagai hasil
+     kesepakatan penelaahan.
+(11) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (1) huruf e berdasarkan hasil
+     penelaahan yang dituangkan dalam berita acara
+     penelaahan, dapat dipertimbangkan untuk ditetapkan
+     seluruhnya atau sebagian, Direktur Anggaran Bidang
+     selaku mitra Kementerian/Lembaga atas nama Direktur
+     Jenderal Anggaran melakukan penetapan melalui surat
+     pengesahan Revisi Anggaran.
+(12) Dalam hal usulan Revisi Anggaran sebagaimana
+     dimaksud pada ayat (1) huruf e berdasarkan hasil
+     penelaahan yang dituangkan dalam berita acara
+     penelaahan tidak dapat dipertimbangkan untuk
+     ditetapkan seluruhnya, Direktur Anggaran Bidang
+     selaku mitra Kementerian/Lembaga atas nama Direktur
+                  - 50 -
+
+
+      Jenderal Anggaran menyampaikan penolakan usulan
+      Revisi Anggaran.
+ (13) Dalam hal berdasarkan hasil penelaahan sebagaimana
+      dimaksud pada ayat (2) terdapat dokumen pendukung
+      yang     harus    dilengkapi,    Kementerian/Lembaga
+      menyampaikan kelengkapan dokumen pendukung
+      dalam batas waktu sesuai kesepakatan yang
+      dituangkan dalam berita acara penelaahan.
+ (14) Dalam hal kelengkapan dokumen pendukung belum
+      disampaikan sampai dengan batas waktu sebagaimana
+      dimaksud pada ayat (13), Direktur Anggaran Bidang
+      selaku mitra Kementerian/Lembaga atas nama Direktur
+      Jenderal Anggaran menyampaikan surat permintaan
+      kelengkapan       dokumen       pendukung      kepada
+      Kementerian/Lembaga.
+(14a) Menteri/Pimpinan         Lembaga       menyampaikan
+      kelengkapan    dokumen      pendukung    sebagaimana
+      dimaksud pada ayat (13) paling lama 2 (dua) hari kerja
+      setelah menerima surat permintaan kelengkapan
+      dokumen pendukung sebagaimana dimaksud pada ayat
+      (14).
+(14b) Dalam hal setelah jangka waktu sebagaimana dimaksud
+      pada ayat (14a), Menteri/Pimpinan Lembaga belum
+      melengkapi dokumen pendukung, Direktur Anggaran
+      Bidang selaku mitra Kementerian/Lembaga atas nama
+      Direktur Jenderal Anggaran menyampaikan kembali
+      surat permintaan kelengkapan dokumen pendukung
+      kepada      Kementerian/Lembaga        agar     segera
+      menyampaikan kelengkapan dokumen pendukung.
+ (15) Surat usulan Revisi Anggaran sebagaimana dimaksud
+      pada ayat (1) huruf e, LHR APIP K/L sebagaimana
+      dimaksud pada ayat (1) huruf d, dan surat pengesahan
+      Revisi Anggaran sebagaimana dimaksud pada ayat (11)
+      disusun sesuai format sebagaimana tercantum dalam
+      Lampiran IV yang merupakan bagian tidak terpisahkan
+      dari Peraturan Menteri ini.
+ (16) Proses penetapan atau penolakan usulan Revisi
+      Anggaran     pada    Direktorat   Jenderal   Anggaran
+      sebagaimana dimaksud pada ayat (11) atau ayat (12)
+      diselesaikan paling lama 1 (satu) hari kerja terhitung
+      sejak penelaahan selesai dilakukan, dan dokumen
+      sebagaimana dimaksud pada ayat (1) huruf e dan data
+      dalam Sistem Informasi diterima dengan lengkap dan
+      benar.
+ (17) Proses Revisi Anggaran pada Direktorat Jenderal
+      Anggaran sebagaimana dimaksud pada ayat (1) yang
+      hanya berupa pengesahan, diselesaikan paling lama 1
+      (satu) hari kerja terhitung setelah usulan Revisi
+      Anggaran diterima di Sistem Informasi, dokumen
+      sebagaimana dimaksud pada ayat (1) huruf e dan data
+      dalam Sistem Informasi diterima dengan lengkap dan
+      benar.
+                      - 51 -
+
+
+23. Ketentuan ayat (3) Pasal 167 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                               Pasal 167
+    (1)   Revisi Anggaran pada Direktorat Jenderal Anggaran
+          untuk anggaran BA BUN terbagi dalam 3 (tiga) jenis:
+          a. Revisi Anggaran dalam hal pagu anggaran berubah;
+          b. Revisi Anggaran dalam hal pagu anggaran tetap
+               yang memerlukan penelaahan; dan/atau
+          c.   revisi administrasi.
+    (2)   Mekanisme Revisi Anggaran untuk anggaran BA BUN
+          sebagaimana dimaksud pada ayat (1) huruf a dan huruf
+          b dilakukan dengan tahapan sebagai berikut:
+          a. usulan Revisi Anggaran disampaikan oleh KPA
+               BUN kepada APIP K/L untuk dilakukan reviu atas
+               kesesuaian dokumen pendukung dengan kaidah
+               perencanaan dan penganggaran dan dituangkan
+               dalam LHR APIP K/L;
+          b. KPA BUN menandatangani dan menyampaikan
+               surat usulan Revisi Anggaran kepada Pemimpin
+               PPA     BUN    dengan     melampirkan     dokumen
+               pendukung sebagai berikut:
+               1. data dalam Sistem Informasi;
+               2. kerangka acuan kerja dan rincian anggaran
+                    biaya usulan Revisi Anggaran;
+               3. LHR APIP K/L sebagaimana dimaksud pada
+                    huruf a, atau LHR APIP K/L saat proses
+                    pengusulan tambahan anggaran dari sub BA
+                    BUN Belanja Lainnya sebagaimana dimaksud
+                    dalam Pasal 117 ayat (2) huruf c angka 5 dan
+                    Pasal 119 ayat (2) huruf a angka 4; dan
+               4. dokumen pendukung lainnya dalam hal
+                    diperlukan, sesuai dengan substansi Revisi
+                    Anggaran;
+          c.   Pemimpin PPA BUN meneliti usulan Revisi
+               Anggaran dan kelengkapan dokumen sebagaimana
+               dimaksud pada huruf b;
+          d. dalam proses penelitian sebagaimana dimaksud
+               pada huruf c, Pemimpin PPA BUN dapat meminta
+               tambahan dokumen pendukung terkait lainnya
+               yang diperlukan; dan
+          e.   berdasarkan     hasil    penelitian   sebagaimana
+               dimaksud dalam huruf c, Pemimpin PPA BUN
+               menyampaikan surat usulan Revisi Anggaran
+               kepada Direktur Jenderal Anggaran dengan
+               melampirkan dokumen pendukung berupa:
+               1. data dalam Sistem Informasi;
+               2. LHR APIP K/L sebagaimana dimaksud pada
+                    huruf b angka 3; dan
+               3. dokumen pendukung lainnya dalam hal
+                    diperlukan, sesuai dengan substansi Revisi
+                    Anggaran sebagaimana dimaksud pada
+                    huruf d.
+    (3)   Berdasarkan surat usulan Revisi Anggaran dari
+          Pemimpin PPA BUN sebagaimana dimaksud pada ayat
+                   - 52 -
+
+
+       (2) huruf e, Ketua Tim/Pejabat Fungsional yang
+       berwenang di unit terkait atas nama Direktur Anggaran
+       Bidang Politik, Hukum, Pertahanan dan Keamanan dan
+       BA BUN - Direktorat Jenderal Anggaran menetapkan
+       dan menyampaikan undangan penelaahan kepada
+       Pemimpin PPA BUN.
+ (4)   Direktorat Jenderal Anggaran melakukan penelaahan
+       atas usulan Revisi Anggaran sebagaimana dimaksud
+       pada ayat (2) huruf e bersama-sama dengan PPA BUN
+       melalui komunikasi secara luring maupun daring.
+ (5)   Dalam melakukan penelaahan sebagaimana dimaksud
+       pada ayat (4), Direktorat Jenderal Anggaran dapat
+       meminta tambahan dokumen pendukung.
+ (6)   Dalam hal usulan Revisi Anggaran BA BUN terkait
+       pinjaman     dan/atau    hibah,    proses   penelaahan
+       sebagaimana dimaksud pada ayat (4) melibatkan
+       Direktorat Jenderal Pengelolaan Pembiayaan dan
+       Risiko.
+ (7)   Berdasarkan hasil penelaahan sebagaimana dimaksud
+       pada ayat (4), Direktur Jenderal Anggaran dapat
+       menyetujui atau tidak menyetujui usulan Revisi
+       Anggaran.
+ (8)   Dalam hal usulan Revisi Anggaran sebagaimana
+       dimaksud pada ayat (2) huruf e disetujui, Direktur
+       Anggaran Bidang Politik, Hukum, Pertahanan dan
+       Keamanan, dan BA BUN - Direktorat Jenderal Anggaran
+       atas nama Direktur Jenderal Anggaran menerbitkan
+       surat pengesahan Revisi Anggaran.
+ (9)   Dalam hal usulan Revisi Anggaran sebagaimana
+       dimaksud pada ayat (2) huruf e disetujui dan
+       menyebabkan perubahan jumlah anggaran atau
+       menyebabkan perubahan catatan halaman IVA DIPA
+       BUN, Direktur Anggaran Bidang Politik, Hukum,
+       Pertahanan dan Keamanan, dan BA BUN - Direktorat
+       Jenderal Anggaran atas nama Direktur Jenderal
+       Anggaran terlebih dahulu menetapkan revisi DHP RKA-
+       BUN sebelum menerbitkan surat pengesahan Revisi
+       Anggaran sebagaimana dimaksud pada ayat (8).
+(10)   Dalam hal usulan Revisi Anggaran sebagaimana
+       dimaksud pada ayat (2) huruf e tidak dapat disetujui,
+       Direktur Anggaran Bidang Politik, Hukum, Pertahanan
+       dan Keamanan, dan BA BUN - Direktorat Jenderal
+       Anggaran atas nama Direktur Jenderal Anggaran
+       menetapkan surat penolakan usulan Revisi Anggaran.
+(11)   Surat usulan Revisi Anggaran sebagaimana dimaksud
+       pada ayat (2) huruf b dan huruf e disusun sesuai format
+       tercantum dalam Lampiran IV huruf B yang merupakan
+       bagian tidak terpisahkan dari Peraturan Menteri ini.
+(12)   Proses persetujuan atau tidak disetujuinya Revisi
+       Anggaran     pada    Direktorat    Jenderal   Anggaran
+       sebagaimana dimaksud pada ayat (8), ayat (9), atau ayat
+       (10) diselesaikan paling lama 5 (lima) hari kerja
+       terhitung    sejak   penelaahan     selesai  dilakukan
+       sebagaimana dimaksud pada ayat (4) dan dokumen
+       sebagaimana dimaksud pada ayat (2) huruf e dan/atau
+                      - 53 -
+
+
+          ayat (5) diterima dengan lengkap dan benar dalam
+          Sistem Informasi.
+   (13)   Mekanisme Revisi Anggaran untuk anggaran BA BUN
+          sebagaimana dimaksud pada ayat (1) huruf c dilakukan
+          melalui pengesahan.
+   (14)   Penyelesaian revisi anggaran melalui pengesahan
+          sebagaimana dimaksud pada ayat (13) dilakukan paling
+          lama 1 (satu) hari kerja terhitung sejak usulan Revisi
+          Anggaran diterima pada Sistem Informasi, setelah
+          dokumen pendukung sebagaimana dimaksud pada ayat
+          (2) huruf e diterima dengan lengkap dan benar.
+
+24. Ketentuan ayat (1) Pasal 168 diubah sehingga berbunyi
+    sebagai berikut:
+
+                               Pasal 168
+    (1)   Mekanisme Revisi Anggaran pada DIPA BUN
+          berdasarkan SPP BA BUN sebagaimana dimaksud
+          dalam Pasal 162 atau revisi surat Menteri Keuangan
+          sebagaimana dimaksud dalam Pasal 161, dilakukan
+          dengan tahapan dan ketentuan sebagai berikut:
+          a. Pemimpin PPA BUN menyampaikan usulan Revisi
+              Anggaran kepada Direktur Jenderal Anggaran
+              melalui Sistem Informasi dengan mengunggah
+              salinan digital atau hasil pindaian berupa:
+              1.   dokumen SPP BA BUN atau revisi surat
+                   Menteri Keuangan; dan
+              2.   data dalam Sistem Informasi;
+          b. usulan Revisi Anggaran sebagaimana dimaksud
+              dalam huruf a diajukan paling lama 10 (sepuluh)
+              hari kerja setelah SPP BA BUN atau revisi surat
+              Menteri Keuangan diterbitkan;
+          b1. dalam hal Revisi Anggaran pada DIPA BUN
+              berdasarkan SPP BA BUN untuk hibah rehabilitasi
+              dan rekonstruksi pascabencana, batas waktu
+              usulan Revisi Anggaran sebagaimana dimaksud
+              dalam huruf b mengacu pada Peraturan Menteri
+              Keuangan mengenai pengelolaan hibah rehabilitasi
+              dan rekonstruksi pascabencana; dan
+          c.  berdasarkan usulan Revisi Anggaran sebagaimana
+              dimaksud dalam huruf a, Mitra PPA BUN
+              melakukan penelaahan bersama dengan PPA BUN,
+              sesuai dengan substansi dan kebutuhan.
+    (2)   Dalam hal usulan Revisi Anggaran sebagaimana
+          dimaksud pada ayat (1) huruf a dapat ditetapkan dan
+          menyebabkan perubahan pada DIPA BUN, Direktur
+          Anggaran Bidang Politik, Hukum, Pertahanan dan
+          Keamanan, dan BA BUN atas nama Direktur Jenderal
+          Anggaran menetapkan:
+          a. DHP RKA-BUN; dan
+          b. Surat Pengesahan Revisi Anggaran.
+                      - 54 -
+
+
+25. Ketentuan ayat (2) Pasal 169 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                               Pasal 169
+    (1)   Mekanisme           Revisi       Anggaran         antar
+          Kementerian/Lembaga sebagaimana dimaksud dalam
+          Pasal 157 ayat (6) huruf b angka 1 dilakukan melalui
+          mekanisme         pergeseran       anggaran       antar
+          Kementerian/Lembaga dengan tahapan dan ketentuan
+          sebagai berikut:
+          a. Menteri/Pimpinan        Lembaga    (penerima    atau
+              pemberi       alokasi)     menyampaikan       surat
+              permohonan persetujuan pergeseran anggaran
+              antar Kementerian/Lembaga kepada Menteri
+              Keuangan c.q. Direktorat Jenderal Anggaran yang
+              paling sedikit memuat besaran anggaran yang
+              diusulkan untuk dilakukan pergeseran;
+          b. berdasarkan usulan Revisi Anggaran sebagaimana
+              dimaksud pada huruf a, Direktur Anggaran Bidang
+              selaku mitra Kementerian/Lembaga atas nama
+              Direktur Jenderal Anggaran menyampaikan surat
+              undangan kepada Sekretaris Jenderal/ Sekretaris
+              Utama/Sekretaris/pejabat eselon I Kementerian/
+              Lembaga pengusul revisi (penerima atau pemberi
+              tambahan alokasi anggaran), dan Deputi Mitra
+              Kerja - Kementerian Perencanaan Pembangunan
+              Nasional/Badan        Perencanaan    Pembangunan
+              Nasional untuk melakukan pembahasan awal
+              terkait rencana Revisi Anggaran yang hasilnya
+              dituangkan dalam berita acara;
+          c.  dalam     hal    perwakilan     dari   Kementerian
+              Perencanaan       Pembangunan       Nasional/Badan
+              Perencanaan Pembangunan Nasional tidak hadir
+              pada saat pembahasan sebagaimana dimaksud
+              pada huruf b, maka pembahasan tetap dilanjutkan
+              dan Kementerian Perencanaan Pembangunan
+              Nasional/Badan        Perencanaan    Pembangunan
+              Nasional      dinyatakan      menyepakati     hasil
+              pembahasan;
+          d. berdasarkan berita acara sebagaimana dimaksud
+              pada huruf b, Menteri Keuangan menerbitkan
+              surat persetujuan perubahan Alokasi Anggaran
+              Kementerian/Lembaga terkait sesuai format
+              sebagaimana tercantum dalam Lampiran IV huruf
+              B yang merupakan bagian tidak terpisahkan dari
+              Peraturan Menteri ini;
+          e.  surat persetujuan sebagaimana dimaksud pada
+              huruf d diusulkan oleh Direktorat Anggaran Bidang
+              selaku mitra Kementerian/Lembaga penerima
+              tambahan alokasi anggaran;
+          f.  berdasarkan surat persetujuan sebagaimana
+              dimaksud         pada       huruf       d,     KPA
+              Kementerian/Lembaga penerima tambahan alokasi
+              anggaran menyampaikan surat usulan Revisi
+              Anggaran kepada Sekretaris Jenderal/Sekretaris
+             - 55 -
+
+
+     Utama/Sekretaris/pejabat             eselon        I
+     Kementerian/Lembaga        dengan      melampirkan
+     dokumen pendukung berupa:
+     1. data dalam Sistem Informasi; dan
+     2. dokumen pendukung terkait lainnya dalam
+          hal diperlukan, sesuai dengan substansi
+          Revisi Anggaran.
+g.   Sekretaris       Jenderal/Sekretaris         Utama/
+     Sekretaris/pejabat eselon I Kementerian/Lembaga
+     melakukan penelitian atas usulan Revisi Anggaran
+     dan kelengkapan dokumen usulan Revisi Anggaran
+     sebagaimana dimaksud pada huruf f;
+h.   usulan Revisi Anggaran sebagaimana dimaksud
+     pada huruf f terlebih dahulu disampaikan oleh
+     Sekretaris Jenderal/Sekretaris Utama/Sekretaris/
+     pejabat eselon I Kementerian/Lembaga kepada
+     APIP K/L untuk dilakukan reviu atas kesesuaian
+     dokumen pendukung dengan kaidah perencanaan
+     dan penganggaran;
+i.   hasil reviu yang dilakukan oleh APIP K/L
+     sebagaimana dimaksud pada huruf h dituangkan
+     dalam LHR APIP K/L;
+j.   berdasarkan hasil penelitian atas usulan Revisi
+     Anggaran sebagaimana dimaksud ada huruf g dan
+     LHR APIP K/L sebagaimana dimaksud pada huruf
+     i,   Sekretaris     Jenderal/Sekretaris      Utama/
+     Sekretaris/pejabat eselon I Kementerian/Lembaga
+     menandatangani dan menyampaikan surat usulan
+     Revisi Anggaran kepada Direktur Jenderal
+     Anggaran melalui Sistem Informasi dengan
+     mengunggah salinan digital atau hasil pindaian
+     dokumen pendukung sebagai berikut:
+     1. data dalam Sistem Informasi;
+     2. surat pernyataan pejabat eselon I yang
+          menyatakan bahwa:
+          a) usulan        Revisi      Anggaran      yang
+               disampaikan oleh KPA telah disetujui
+               oleh pejabat eselon I; dan
+          b) usulan        Revisi      Anggaran      yang
+               disampaikan        beserta        dokumen
+               persyaratannya        telah     dilakukan
+               penelitian kelengkapan dokumennya oleh
+               Sekretaris Jenderal/Sekretaris Utama/
+               Sekretaris/pejabat eselon I Kementerian/
+               Lembaga;
+     3. LHR APIP K/L sebagaimana dimaksud pada
+          huruf i; dan
+     4. dokumen pendukung terkait lainnya dalam
+          hal diperlukan, sesuai dengan substansi
+          Revisi Anggaran; dan
+k.   dokumen asli atas salinan digital atau hasil
+     pindaian dokumen sebagaimana dimaksud pada
+     huruf j angka 2 sampai dengan angka 4 diarsipkan
+     oleh Kementerian/Lembaga yang bersangkutan.
+                      - 56 -
+
+
+    (2)   Dalam hal usulan Revisi Anggaran sebagaimana
+          dimaksud pada ayat (1) berupa Revisi Anggaran yang
+          memerlukan       penelaahan,     Ketua     Tim/Pejabat
+          Fungsional yang berwenang di unit terkait atas nama
+          Direktur     Anggaran      Bidang      selaku     mitra
+          Kementerian/Lembaga             menetapkan         dan
+          menyampaikan undangan kepada Kepala Biro
+          Perencanaan/Keuangan/Sekretaris              Direktorat
+          Jenderal/pejabat eselon II dengan tembusan kepada
+          Sekretaris   Jenderal/Sekretaris    Utama/Sekretaris/
+          pejabat eselon I Kementerian/Lembaga, dan pimpinan
+          unit-unit terkait dalam hal diperlukan, untuk
+          melakukan penelaahan atas usulan Revisi Anggaran
+          melalui komunikasi secara luring dan/atau daring.
+    (3)   Dalam hal usulan Revisi Anggaran sebagaimana
+          dimaksud pada ayat (1) huruf f berdasarkan hasil
+          penelaahan dapat dipertimbangkan untuk ditetapkan
+          seluruhnya atau sebagian, Direktur Anggaran Bidang
+          selaku mitra Kementerian/Lembaga atas nama Direktur
+          Jenderal Anggaran melakukan penetapan melalui surat
+          pengesahan Revisi Anggaran.
+    (4)   Dalam hal usulan Revisi Anggaran sebagaimana
+          dimaksud pada ayat (1) huruf f berdasarkan hasil
+          penelaahan tidak dapat dipertimbangkan untuk
+          ditetapkan seluruhnya, Direktur Anggaran Bidang
+          selaku mitra Kementerian/Lembaga atas nama Direktur
+          Jenderal Anggaran menyampaikan surat penolakan
+          usulan Revisi Anggaran.
+    (5)   Surat usulan Revisi Anggaran sebagaimana dimaksud
+          pada ayat (1) huruf f, LHR APIP K/L sebagaimana
+          dimaksud pada ayat (1) huruf i, dan surat pengesahan
+          Revisi Anggaran sebagaimana dimaksud pada ayat (4)
+          disusun sesuai format sebagaimana tercantum dalam
+          Lampiran IV huruf B yang merupakan bagian tidak
+          terpisahkan dari Peraturan Menteri ini.
+    (6)   Proses penetapan atau penolakan usulan Revisi
+          Anggaran     pada    Direktorat   Jenderal    Anggaran
+          sebagaimana dimaksud pada ayat (3) atau ayat (4)
+          diselesaikan paling lama 1 (satu) hari kerja terhitung
+          sejak penelaahan selesai dilakukan dan dokumen
+          pendukung sebagaimana dimaksud pada ayat (1) huruf
+          j dan data dalam Sistem Informasi diterima dengan
+          lengkap dan benar.
+
+26. Ketentuan ayat (1) dan ayat (2) Pasal 170 diubah, sehingga
+    berbunyi sebagai berikut:
+
+                               Pasal 170
+    (1)   Mekanisme Revisi Anggaran untuk pergeseran anggaran
+          dari BA K/L ke sub BA BUN Belanja Lainnya
+          sebagaimana dimaksud dalam Pasal 157 ayat (4) huruf
+          b, ayat (6) huruf b angka 2, dan ayat (6) huruf c angka
+          2, dilakukan dengan ketentuan sebagai berikut:
+          a. Sekretaris Jenderal/Sekretaris Utama/Sekretaris/
+                pejabat    eselon     I    Kementerian/Lembaga
+                      - 57 -
+
+
+              mengajukan usulan Revisi Anggaran kepada
+              Direktur Jenderal Anggaran;
+          b. Revisi Anggaran sebagaimana dimaksud pada
+              huruf a, dilakukan termasuk untuk alokasi
+              anggaran hasil pencadangan anggaran pada DIPA
+              Kementerian/Lembaga sebagaimana dimaksud
+              dalam Pasal 158; dan
+          c.  Revisi Anggaran sebagaimana dimaksud pada
+              huruf a dilakukan oleh Direktur Anggaran Bidang
+              selaku    mitra    Kementerian/Lembaga      sesuai
+              mekanisme Revisi Anggaran untuk BA K/L
+              sebagaimana dimaksud dalam Pasal 165.
+    (2)   Dalam hal Kementerian/Lembaga tidak menyampaikan
+          usulan Revisi Anggaran sebagaimana dimaksud pada
+          ayat (1) huruf a, Menteri Keuangan c.q. Direktorat
+          Jenderal Anggaran dapat melakukan revisi penyesuaian
+          DIPA Kementerian/Lembaga sebesar alokasi:
+          a. pencadangan anggaran pada DIPA Kementerian/
+              Lembaga sebagaimana dimaksud dalam Pasal 158;
+              atau
+          b. pada RO Khusus sebagaimana dimaksud dalam
+              Pasal 158A ayat (1) huruf d.
+    (3)   Berdasarkan hasil penyelesaian Revisi Anggaran
+          sebagaimana dimaksud pada ayat (1) dan ayat (2),
+          Direktur    Anggaran       Bidang     selaku     mitra
+          Kementerian/Lembaga        menyampaikan       laporan
+          penyelesaian revisi DIPA kepada Direktur Jenderal
+          Anggaran dengan tembusan Mitra PPA BUN.
+    (4)   Berdasarkan laporan penyelesaian revisi DIPA
+          sebagaimana dimaksud pada ayat (3), Direktur Jenderal
+          Anggaran    menyampaikan       usulan     penambahan
+          anggaran pada sub BA BUN Belanja Lainnya kepada
+          Menteri Keuangan.
+    (5)   Usulan penambahan anggaran pada sub BA BUN
+          Belanja Lainnya sebagaimana dimaksud pada ayat (4)
+          berupa usulan revisi surat Menteri Keuangan mengenai
+          penetapan alokasi BA BUN.
+
+27. Ketentuan ayat (6) Pasal 175 diubah, sehingga berbunyi
+    sebagai berikut:
+                            Pasal 175
+    (1) Batas akhir penerimaan usulan Revisi Anggaran reguler
+        ditetapkan sebagai berikut:
+        a. tanggal 31 Oktober tahun anggaran berkenaan,
+             untuk Revisi Anggaran pada Direktorat Jenderal
+             Anggaran;
+        b. tanggal 30 November tahun anggaran berkenaan,
+             untuk Revisi Anggaran pada Direktorat Jenderal
+             Perbendaharaan, termasuk revisi administrasi
+             SBSN sebagaimana dimaksud dalam Pasal 143;
+             dan
+        c.   tanggal 30 November tahun anggaran berkenaan,
+             untuk Revisi Anggaran kewenangan Kementerian/
+             Lembaga yang mengakibatkan perubahan DIPA
+             sebagaimana dimaksud dalam Pasal 174 ayat (1)
+                  - 58 -
+
+
+           huruf a kecuali untuk penyelesaian pagu minus
+           belanja pegawai operasional.
+(2)   Batas akhir penerimaan usulan Revisi Anggaran berupa
+      revisi lanjutan RMP pada DIPA tahun anggaran
+      sebelumnya yang tidak terserap untuk pembayaran
+      uang muka kontrak kegiatan/proyek yang dibiayai dari
+      PLN oleh Direktorat Jenderal Anggaran paling lambat
+      tanggal 31 Januari tahun anggaran berkenaan.
+(3)   Batas akhir penerimaan usulan Revisi Anggaran berupa
+      perubahan anggaran belanja dalam rangka lanjutan
+      pelaksanaan kegiatan/proyek SBSN tahun anggaran
+      sebelumnya untuk kontrak tahun tunggal oleh
+      Direktorat Jenderal Anggaran paling lambat tanggal 15
+      Februari tahun anggaran berkenaan.
+(4)   Dalam hal Revisi Anggaran dilakukan berupa
+      perubahan anggaran belanja dalam rangka:
+      a. lanjutan pelaksanaan kegiatan/proyek SBSN
+           tahun anggaran sebelumnya untuk kontrak tahun
+           jamak; dan
+      b. lanjutan      pelaksanaan   kegiatan/proyek   PLN
+           dan/atau PDN tahun anggaran sebelumnya untuk
+           kontrak tahun jamak,
+      batas akhir penerimaan usulan Revisi Anggaran oleh
+      Direktorat Jenderal Anggaran paling lambat tanggal 31
+      Maret tahun anggaran berkenaan.
+(5)   Batas akhir penerimaan usulan Revisi Anggaran terkait
+      penggunaan RO Cadangan sebagaimana dimaksud
+      dalam Pasal 152 oleh Direktorat Jenderal Anggaran
+      paling lambat tanggal 7 April tahun anggaran
+      berkenaan.
+(6)   Batas akhir penerimaan usulan pengembalian anggaran
+      ke sub BA BUN Belanja Lainnya sebagaimana dimaksud
+      dalam Pasal 166 oleh Direktorat Jenderal Anggaran
+      paling lambat tanggal 31 Oktober tahun anggaran
+      berkenaan.
+(7)   Batas akhir penerimaan usulan pergeseran anggaran
+      dari sub BA BUN Belanja Lainnya ke BA K/L (SP SABA)
+      dalam rangka pemberian penghargaan kepada
+      Kementerian/Lembaga       oleh    Direktorat Jenderal
+      Anggaran paling lambat tanggal 31 Oktober tahun
+      anggaran berkenaan.
+(8)   Dalam hal Revisi Anggaran dilakukan berupa:
+      a. pergeseran anggaran dari BA K/L ke sub BA BUN
+           Belanja Lainnya sebagaimana dimaksud dalam
+           Pasal 170; dan
+      b. pengesahan atas penyediaan alokasi belanja dalam
+           rangka kegiatan rehabilitasi mangrove yang
+           dilakukan oleh Badan Pengelola Dana Lingkungan
+           Hidup sebagaimana dimaksud dalam Pasal 124
+           ayat (5) huruf e,
+      batas akhir penerimaan usulan Revisi Anggaran oleh
+      Direktorat Jenderal Anggaran paling lambat tanggal 30
+      November tahun anggaran berkenaan.
+(9)   Dalam hal Revisi Anggaran dilakukan berupa:
+                   - 59 -
+
+
+       a.  pergeseran anggaran untuk belanja pegawai,
+           termasuk gaji untuk pegawai non-Aparatur Sipil
+           Negara;
+       b. berkaitan     dengan     kegiatan   yang   dananya
+           bersumber dari PNBP termasuk penggunaan dana
+           penerimaan klaim asuransi dalam rangka asuransi
+           barang milik negara, PLN, Hibah, dan/atau PDN;
+       c.  Revisi Anggaran terkait pinjaman/hibah baru,
+           penyesuaian kurs penarikan pinjaman/hibah, dan
+           RMP PLN;
+       d. berkaitan dengan kegiatan Kementerian/Lembaga
+           yang merupakan tindak lanjut dari hasil sidang
+           kabinet yang ditetapkan setelah terbitnya Undang-
+           Undang tentang perubahan atas Undang-Undang
+           mengenai APBN tahun anggaran berkenaan;
+       e.  kegiatan-kegiatan yang membutuhkan data/
+           dokumen yang harus mendapat persetujuan dari
+           unit eksternal Kementerian/Lembaga seperti
+           persetujuan Dewan Perwakilan Rakyat, hasil reviu
+           internal Pemerintah oleh Badan Pengawasan
+           Keuangan dan Pembangunan, dan/atau revisi
+           administrasi pembukaan blokir;
+       f.  pergeseran anggaran dalam rangka rekomposisi
+           pendanaan       antar-tahun     anggaran    untuk
+           percepatan kegiatan/proyek SBSN, pergeseran
+           anggaran belanja dalam rangka pemanfaatan Sisa
+           Anggaran Kontraktual pada satu kegiatan/proyek
+           SBSN dan/atau antar-kegiatan/proyek SBSN
+           dalam satu unit eselon I;
+       g.  revisi Rumusan Informasi Kinerja berupa
+           perubahan referensi RKA-K/L dan/atau DIPA
+           Kementerian/Lembaga, termasuk untuk keperluan
+           pengendalian dan pemantauan serta evaluasi
+           kinerja anggaran;
+       h. revisi akibat penerbitan SPP BA BUN/SP SABA;
+       i.  DIPA BUN untuk selain keperluan Lembaga yang
+           belum memiliki Bagian Anggaran; dan/atau
+       j.  perubahan anggaran yang bersifat mengurangi
+           pagu SBSN,
+       batas akhir penerimaan usulan Revisi Anggaran oleh
+       Direktorat Jenderal Anggaran paling lambat tanggal 15
+       Desember tahun anggaran berkenaan.
+(10)   Dalam hal Revisi Anggaran dilakukan berupa:
+       a. pelaksanaan       kegiatan     yang    memerlukan
+           persetujuan Menteri Keuangan;
+       b. pelaksanaan peraturan perundang-undangan di
+           atas Peraturan Menteri untuk pencairan anggaran;
+       c.  pergeseran anggaran untuk penanggulangan
+           bencana; dan/atau
+       d. pengesahan sebagaimana dimaksud dalam Pasal
+           124 ayat (5) kecuali pengesahan belanja modal atas
+           pengadaan tanah dalam rangka proyek strategis
+           nasional yang dilakukan oleh Lembaga Manajemen
+           Aset Negara, pengesahan atas penyediaan alokasi
+           belanja dalam rangka kegiatan rehabilitasi
+                   - 60 -
+
+
+            mangrove yang dilakukan oleh Badan Pengelola
+            Dana Lingkungan Hidup, dan revisi administrasi
+            pembukaan blokir karena dokumen sebagai dasar
+            pengalokasian anggaran telah dilengkapi,
+       batas akhir penerimaan usulan Revisi Anggaran oleh
+       Direktorat Jenderal Anggaran paling lambat tanggal 27
+       Desember tahun anggaran berkenaan.
+(11)   Batas akhir penerimaan usulan Revisi Anggaran terkait
+       pengesahan belanja modal atas pengadaan tanah dalam
+       rangka proyek strategis nasional yang dilaksanakan
+       oleh Lembaga Manajemen Aset Negara oleh Direktorat
+       Jenderal Anggaran sebagaimana dimaksud dalam Pasal
+       124 ayat (5) huruf a mengikuti ketentuan Peraturan
+       Menteri Keuangan mengenai tata cara pendanaan
+       pengadaan tanah bagi proyek strategis nasional oleh
+       Lembaga Manajemen Aset Negara.
+(12)   Batas akhir penerimaan usulan Revisi Anggaran terkait
+       pengesahan atas pendapatan/belanja/pembiayaan
+       anggaran untuk sub BA BUN yang telah dilakukan pada
+       tahun anggaran sebelumnya oleh Direktorat Jenderal
+       Anggaran paling lambat sampai batas akhir
+       penyusunan laporan keuangan Pemerintah Pusat.
+(13)   Dalam hal Revisi Anggaran dilakukan untuk
+       pengesahan anggaran belanja yang dibiayai dari
+       penggunaan kelebihan realisasi penerimaan atas target
+       PNBP yang dapat digunakan kembali sesuai ketentuan,
+       yang telah direncanakan dalam APBN tahun anggaran
+       berkenaan untuk Satker penghasil PNBP yang
+       bersangkutan sepanjang dalam 1 (satu) Program yang
+       sama, batas akhir penerimaan usulan Revisi Anggaran
+       oleh Direktorat Jenderal Perbendaharaan paling lambat
+       tanggal 15 Desember tahun anggaran berkenaan.
+(14)   Dalam hal Revisi Anggaran dilakukan untuk:
+       a. pengesahan anggaran belanja yang dibiayai dari
+            hibah yang penarikannya tidak melalui Kuasa
+            BUN;
+       b. pengesahan atas pengeluaran Kegiatan/RO yang
+            dananya bersumber dari pinjaman/hibah luar
+            negeri melalui mekanisme pembayaran langsung
+            dan letter of credit;
+       c.   revisi administrasi; dan/atau
+       d. pemutakhiran data berkaitan dengan revisi POK
+            oleh KPA yang mengakibatkan perubahan halaman
+            III DIPA,
+       batas akhir penerimaan usulan Revisi Anggaran dan
+       penyelesaiannya         oleh    Direktorat    Jenderal
+       Perbendaharaan paling lambat tanggal 27 Desember
+       tahun anggaran berkenaan.
+(15)   Dalam hal Revisi Anggaran dilakukan untuk
+       penyelesaian pagu minus belanja pegawai, batas akhir
+       penerimaan usulan Revisi Anggaran oleh Direktorat
+       Jenderal     Anggaran      atau  Direktorat   Jenderal
+       Perbendaharaan paling lambat tanggal 31 Desember
+       tahun anggaran berkenaan.
+                      - 61 -
+
+
+   (16)   Dalam hal Revisi Anggaran terkait dengan penyesuaian
+          administratif dan penyusunan laporan keuangan
+          Pemerintah Pusat, usulan Revisi Anggaran dapat
+          disampaikan melewati tahun anggaran berkenaan dan
+          penetapan batas akhir penerimaan usulan Revisi
+          Anggaran serta kewenangan pengesahannya dilakukan
+          oleh Direktur Jenderal Perbendaharaan.
+   (17)   Pada saat penerimaan usulan Revisi Anggaran
+          sebagaimana dimaksud pada ayat (1) sampai dengan
+          ayat (16), seluruh dokumen telah diterima dengan
+          lengkap dan benar.
+   (18)   Dalam hal batas akhir penyampaian usulan Revisi
+          Anggaran sebagaimana dimaksud pada ayat (1) sampai
+          dengan ayat (16) merupakan hari libur atau bagian dari
+          kebijakan cuti bersama yang ditetapkan oleh
+          Pemerintah, maka batas akhir penyampaian usulan
+          Revisi Anggaran dimajukan menjadi hari kerja terakhir
+          sebelum hari libur atau cuti bersama.
+
+28. Di antara ayat (1) dan ayat (2) Pasal 182 disisipkan 1 (satu)
+    ayat yakni ayat (1a), dan ketentuan ayat (3) dihapus,
+    sehingga Pasal 182 berbunyi sebagai berikut:
+
+                              Pasal 182
+    (1) PA menetapkan kepala Satker sebagai KPA.
+    (1a) Penetapan KPA sebagaimana dimaksud pada ayat (1)
+         bersifat ex officio.
+    (2) PA dapat menetapkan pejabat lain selain kepala Satker
+         sebagai KPA dalam hal:
+         a. Satker dipimpin oleh pejabat yang bersifat
+              komisioner;
+         b. Satker dipimpin oleh pejabat eselon I atau
+              setingkat eselon I;
+         c.   Satker yang dibentuk berdasarkan penugasan
+              khusus;
+         d. Satker yang pimpinannya mempunyai tugas
+              fungsional; dan
+         e.   Satker Lembaga Negara.
+    (3) Dihapus.
+
+29. Ketentuan ayat (1) Pasal 183 diubah, di antara ayat (1) dan
+    ayat (2) disisipkan 1 (satu) ayat yakni ayat (1a), dan
+    ketentuan ayat (3) dan ayat (4) Pasal 183 dihapus, sehingga
+    Pasal 183 berbunyi sebagai berikut:
+
+                              Pasal 183
+    (1) Dalam hal kepala Satker sebagaimana dimaksud dalam
+         Pasal 182 ayat (1) atau pejabat lain selain kepala Satker
+         sebagaimana dimaksud dalam Pasal 182 ayat (2)
+         berhalangan, pejabat yang ditunjuk sebagai pejabat
+         pelaksana tugas atau pejabat pelaksana harian Kepala
+         Satker secara otomatis sebagai KPA.
+    (1a) Penunjukan pejabat pelaksana tugas atau pejabat
+         pelaksana harian Kepala Satker sebagaimana dimaksud
+         pada ayat (1) disampaikan kepada KPPN.
+                      - 62 -
+
+
+    (2)   Keadaan berhalangan sebagaimana dimaksud pada
+          ayat (1) merupakan suatu keadaan yang menyebabkan
+          pejabat yang ditetapkan sebagai KPA atau pejabat yang
+          ditetapkan sebagai pelaksana tugas KPA sebagaimana
+          dimaksud pada ayat (1):
+          a. tidak terisi dan menimbulkan lowongan jabatan;
+               dan/atau
+          b. masih terisi namun pejabat definitif yang
+               ditetapkan sebagai KPA tidak dapat melaksanakan
+               tugas.
+    (3)   Dihapus.
+    (4)   Dihapus.
+
+30. Ketentuan Pasal 184 ditambahkan 1 (satu) ayat yakni ayat
+    (3) sehingga berbunyi sebagai berikut:
+
+                              Pasal 184
+    (1)   Penetapan KPA tidak terikat tahun anggaran.
+    (2)   Dalam hal satker dilikuidasi dan/atau tidak teralokasi
+          anggaran dalam DIPA pada tahun anggaran berikutnya,
+          penetapan KPA berakhir.
+    (3)   KPA yang berakhir penetapannya sebagaimana
+          dimaksud pada ayat (2) harus menyelesaikan seluruh
+          administrasi keuangan yang menjadi tanggung
+          jawabnya pada saat menjadi KPA.
+
+31. Ketentuan ayat (4) Pasal 187 dihapus, dan setelah ayat (4)
+    ditambahkan 1 (satu) ayat yakni ayat (5), sehingga Pasal 187
+    berbunyi sebagai berikut:
+
+                               Pasal 187
+    (1)   Untuk 1 (satu) DIPA, KPA menetapkan:
+          a. 1 (satu) atau lebih PPK; dan
+          b. 1 (satu) PPSPM.
+    (2)   KPA dapat menetapkan PPK lebih dari 1 (satu)
+          sebagaimana dimaksud pada ayat (1) huruf a, dengan
+          pertimbangan:
+          a. kompleksitas kegiatan dalam DIPA;
+          b. besarnya alokasi anggaran dalam DIPA; dan/atau
+          c.   lokasi kegiatan/kondisi geografis.
+    (3)   PPK dan PPSPM sebagaimana dimaksud pada ayat (1)
+          merupakan pegawai/pejabat berstatus sebagai PNS,
+          prajurit TNI, atau anggota POLRI.
+    (4)   Dihapus.
+    (5)   Jabatan PPK sebagaimana dimaksud pada ayat (1)
+          huruf a tidak boleh dirangkap oleh KPA dan PPSPM.
+
+32. Di antara ayat (2) huruf b dan huruf c Pasal 212 disisipkan
+    1 (satu) huruf yakni huruf b1 dan di antara ayat (2) dan ayat
+    (3) disisipkan 1 (satu) ayat yakni ayat (2a), sehingga Pasal
+    212 berbunyi sebagai berikut:
+
+                              Pasal 212
+    (1)   Mekanisme UP sebagaimana dimaksud dalam Pasal 209
+          huruf b dapat digunakan untuk membayar pengeluaran
+                  - 63 -
+
+
+      operasional Satker atau pengeluaran lain yang tidak
+      dapat dilakukan dengan mekanisme Pembayaran LS.
+(2) Pembayaran sebagaimana dimaksud pada ayat (1) dapat
+      digunakan untuk jenis belanja:
+      a. belanja barang;
+      b. belanja modal;
+      b1. belanja bantuan sosial; dan
+      c.   belanja lain-lain.
+ (2a) Mekanisme UP sebagaimana dimaksud pada ayat (2)
+      huruf b1 digunakan untuk pencairan dana Belanja
+      Bantuan Sosial kepada setiap penyedia barang
+      dan/atau jasa.
+ (3) UP yang diajukan berupa:
+      a. UP tunai; dan/atau
+      b. UP kartu kredit pemerintah.
+ (4) UP tunai sebagaimana dimaksud pada ayat (3) huruf a
+      merupakan UP yang diberikan dalam bentuk uang tunai
+      kepada        Bendahara        Pengeluaran/bendahara
+      pengeluaran pembantu melalui rekening Bendahara
+      Pengeluaran/bendahara pengeluaran pembantu.
+ (5) UP kartu kredit pemerintah sebagaimana dimaksud
+      pada ayat (3) huruf b merupakan uang muka kerja yang
+      diberikan dalam bentuk batasan belanja (limit) kredit
+      kepada        Bendahara        Pengeluaran/bendahara
+      pengeluaran pembantu.
+ (6) Besaran UP yang dikelola Satker sesuai dengan
+      kebutuhan UP Satker dalam 1 (satu) bulan paling
+      banyak 1/12 (satu per dua belas) dari pagu jenis belanja
+      yang dapat dibayarkan melalui UP sebagaimana
+      dimaksud pada ayat (2) untuk masing-masing sumber
+      dana dalam DIPA.
+ (7) Besaran UP sebagaimana dimaksud pada ayat (6),
+      paling banyak Rp500.000.000,00 (lima ratus juta
+      rupiah).
+ (8) Kepala      Kantor     Wilayah    Direktorat    Jenderal
+      Perbendaharaan       atas  permintaan     KPA,    dapat
+      memberikan persetujuan UP melampaui besaran
+      sebagaimana dimaksud pada ayat (6) dan ayat (7),
+      dengan mempertimbangkan:
+      a. frekuensi penggantian UP tahun yang lalu lebih
+           dari rata-rata 1 (satu) kali dalam 1 (satu) bulan
+           selama 1 (satu) tahun; dan
+      b. perhitungan kebutuhan penggunaan UP dalam 1
+           (satu) bulan.
+ (9) Satker mengajukan revolving UP tunai sebagaimana
+      dimaksud pada ayat (3) huruf a, paling sedikit 1 (satu)
+      kali dalam 1 (satu) bulan.
+ (10) Revolving UP sebagaimana dimaksud pada ayat (9)
+      dapat dilakukan setelah digunakan paling sedikit 50%
+      (lima puluh persen).
+                      - 64 -
+
+
+33. Ketentuan ayat (2) Pasal 214 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                                Pasal 214
+    (1)   UP dapat digunakan untuk pembayaran secara tunai
+          dan nontunai.
+    (2)   Pembayaran dengan UP kepada setiap penerima hak
+          pembayaran paling banyak Rp50.000.000,00 (lima
+          puluh juta rupiah).
+    (3)   Batasan besaran pembayaran sebagaimana dimaksud
+          pada ayat (2), dikecualikan untuk:
+          a. pembayaran honorarium;
+          b. perjalanan dinas;
+          c.   kegiatan di luar negeri;
+          d. kegiatan kepresidenan/wakil presiden;
+          e.   kegiatan        yang      menyangkut      rahasia
+               negara/intelijen;
+          f.   Pengadaan Barang/Jasa Penyedia di luar negeri;
+          g.   iuran organisasi internasional;
+          h. kegiatan anggota Majelis Permusyawaratan Rakyat,
+               Dewan Perwakilan Rakyat, Dewan Perwakilan
+               Daerah, dan Dewan Perwakilan Rakyat Daerah;
+          i.   penanganan terorisme;
+          j.   pengadaan alat utama sistem senjata TNI/alat
+               peralatan pertahanan dan keamanan; dan
+          k. penanganan bencana.
+    (4)   Pembayaran dengan UP kepada setiap penerima hak
+          dengan nilai melebihi sebagaimana dimaksud pada ayat
+          (2) untuk kegiatan selain sebagaimana dimaksud pada
+          ayat (3), dapat dilakukan setelah mendapat persetujuan
+          Direktur Jenderal Perbendaharaan.
+
+34. Ketentuan ayat (4) dan ayat (6) Pasal 246 diubah, sehingga
+    berbunyi sebagai berikut:
+
+                            Pasal 246
+    (1) Evaluasi kinerja anggaran atas perencanaan anggaran
+        sebagaimana dimaksud dalam Pasal 245 huruf a
+        dilakukan melalui rangkaian aktivitas sebagai berikut:
+        a. penilaian kinerja perencanaan anggaran; dan
+        b. evaluasi kinerja tematik.
+    (2) Penilaian kinerja perencanaan anggaran sebagaimana
+        dimaksud      pada   ayat    (1)   huruf    a    untuk
+        Kementerian/Lembaga dilakukan terhadap:
+        a. kinerja anggaran tingkat Kementerian/Lembaga;
+        b. kinerja anggaran tingkat unit eselon I; dan
+        c. kinerja anggaran tingkat Satker.
+    (3) Penilaian kinerja perencanaan anggaran sebagaimana
+        dimaksud pada ayat (1) huruf a untuk BUN dilakukan
+        terhadap:
+        a. kinerja anggaran tingkat BA BUN;
+        b. kinerja anggaran tingkat Sub BA BUN;
+        c.   kinerja anggaran tingkat PPA BUN; dan
+        d. kinerja anggaran tingkat Satker BUN.
+                      - 65 -
+
+
+    (4)   Penilaian kinerja perencanaan anggaran sebagaimana
+          dimaksud pada ayat (1) huruf a dilakukan dengan
+          mengukur paling sedikit atas:
+          a. efektivitas penggunaan anggaran; dan
+          b. efisiensi penggunaan anggaran.
+    (5)   Efektivitas sebagaimana dimaksud pada ayat (4) huruf
+          a diukur berdasarkan capaian Keluaran dan
+          hasil/outcome.
+    (6)   Indikator yang digunakan untuk mengukur efektivitas
+          penggunaan anggaran sebagaimana dimaksud pada
+          ayat (4) huruf a meliputi:
+          a. capaian RO;
+          b. capaian indikator Kinerja Program; dan
+          c.    capaian indikator Kinerja sasaran strategis.
+    (7)   Efisiensi penggunaan anggaran sebagaimana dimaksud
+          pada ayat (4) huruf b berkaitan dengan hubungan
+          antara sumber daya yang digunakan dan Keluaran yang
+          diperoleh dalam hal kuantitas, kualitas, dan waktu.
+    (8)   Evaluasi kinerja anggaran tematik sebagaimana
+          dimaksud pada ayat (1) huruf b merupakan evaluasi
+          kinerja anggaran sesuai kebutuhan dan kebijakan
+          untuk tujuan tertentu.
+    (9)   Ketentuan lebih lanjut mengenai teknis pelaksanaan
+          evaluasi kinerja anggaran atas perencanaan anggaran
+          ditetapkan dalam Keputusan Menteri Keuangan.
+
+35. Ketentuan ayat (2) Pasal 248 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                                Pasal 248
+    (1)   Dalam melakukan evaluasi kinerja anggaran atas
+          pelaksanaan anggaran sebagaimana dimaksud dalam
+          Pasal 247 ayat (1) digunakan indikator kinerja
+          pelaksanaan anggaran yang paling sedikit terdiri atas 3
+          (tiga) aspek, yaitu:
+          a. kualitas perencanaan pelaksanaan anggaran;
+          b. kualitas implementasi pelaksanaan anggaran; dan
+          c.    kualitas hasil pelaksanaan anggaran.
+    (2)   Aspek kualitas perencanaan pelaksanaan anggaran
+          sebagaimana dimaksud pada ayat (1) huruf a
+          merupakan penilaian terhadap kesesuaian antara
+          pelaksanaan anggaran dengan alokasi anggaran yang
+          direncanakan dan ditetapkan dalam DIPA.
+    (3)   Aspek kualitas implementasi pelaksanaan anggaran
+          sebagaimana dimaksud pada ayat (1) huruf b
+          merupakan penilaian terhadap kemampuan Satker
+          dalam merealisasikan anggaran yang telah ditetapkan
+          pada DIPA.
+    (4)   Aspek      kualitas    hasil   pelaksanaan   anggaran
+          sebagaimana dimaksud pada ayat (1) huruf c
+          merupakan penilaian terhadap kemampuan Satker
+          dalam pencapaian Keluaran sebagaimana ditetapkan
+          pada DIPA.
+                      - 66 -
+
+
+    (5)   Ketentuan lebih lanjut mengenai teknis pelaksanaan
+          evaluasi kinerja anggaran atas pelaksanaan anggaran
+          ditetapkan dalam Keputusan Menteri Keuangan.
+
+36. Di antara paragraf 3 dan paragraf 4 pada Bagian Kedua Bab
+    VIII disisipkan 1 (satu) paragraf yakni Paragraf 3A sebagai
+    berikut:
+
+                         Paragraf 3A
+      Penyesuaian Terhadap Variabel dan Indikator Penilaian
+                            Kinerja
+
+37. Di antara Pasal 248 dan Pasal 249 disisipkan 1 (satu) pasal
+    yakni Pasal 248A, sehingga Pasal 248A berbunyi sebagai
+    berikut:
+
+                              Pasal 248A
+    (1)   Dalam hal pelaksanaan kebijakan pemerintah lainnya
+          sebagaimana dimaksud pada Pasal 157 ayat (6) huruf c
+          berdampak      terhadap     hasil   penilaian kinerja
+          perencanaan anggaran dan/atau kinerja pelaksanaan
+          anggaran dapat dilakukan penyesuaian terhadap
+          variabel dan indikator penilaian kinerja.
+    (2)   Penyesuaian terhadap variabel dan indikator penilaian
+          kinerja sebagaimana dimaksud pada ayat (1)
+          dilaksanakan sesuai dengan ketentuan terkait evaluasi
+          kinerja anggaran dan pelaksanaan anggaran belanja
+          Kementerian/Lembaga.
+
+38. Ketentuan ayat (1) Pasal 253 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                             Pasal 253
+    (1)   Pemberian penghargaan kepada Kementerian/ Lembaga
+          sebagaimana dimaksud dalam Pasal 252 dilakukan
+          dengan mempertimbangkan hasil penilaian kinerja
+          percepatan pelaksanaan berusaha Kementerian/
+          Lembaga yang memiliki tugas dan fungsi percepatan
+          pelaksanaan    berusaha     yang    dilakukan    oleh
+          kementerian yang menangani urusan pemerintahan di
+          bidang penanaman modal dan investasi.
+    (2)   Hasil penilaian kinerja percepatan pelaksanaan
+          berusaha     Kementerian/Lembaga         sebagaimana
+          dimaksud pada ayat (1) dikategorikan menjadi:
+          a. sangat baik;
+          b. baik; dan
+          c. kurang baik.
+
+39. Ketentuan ayat (1) Pasal 255 diubah, sehingga berbunyi
+    sebagai berikut:
+
+                             Pasal 255
+    (1)   Kementerian/Lembaga yang memperoleh capaian atas
+          indikator Kinerja anggaran dan kontribusi terhadap
+          sasaran/kebijakan tertentu yang menjadi fokus
+                      - 67 -
+
+
+          Pemerintah dalam kategori kurang dan sangat kurang
+          sebagaimana dimaksud dalam Pasal 249 ayat (8) huruf
+          d dan huruf e, dikenai sanksi.
+    (2)   Kementerian/Lembaga yang memperoleh nilai kinerja
+          percepatan pelaksanaan berusaha dalam kategori
+          kurang baik sebagaimana dimaksud dalam Pasal 253
+          ayat (2) huruf c dapat dipertimbangkan untuk dikenai
+          sanksi.
+    (3)   Pengenaan sanksi kepada Kementerian/Lembaga
+          sebagaimana dimaksud pada ayat (1) dan ayat (2) dapat
+          berupa:
+          a. teguran tertulis;
+          b. publikasi pada media massa nasional; dan/atau
+          c.    disinsentif anggaran.
+    (4)   Pengenaan sanksi berupa teguran tertulis kepada
+          Kementerian/Lembaga sebagaimana dimaksud pada
+          ayat (3) huruf a dituangkan dalam surat Menteri
+          Keuangan.
+    (5)   Pengenaan sanksi berupa publikasi pada media massa
+          nasional kepada Kementerian/Lembaga sebagaimana
+          dimaksud pada ayat (3) huruf b dapat dilakukan melalui
+          publikasi pada media cetak atau media digital dalam
+          skala nasional.
+    (6)   Pengenaan sanksi berupa disinsentif anggaran kepada
+          Kementerian/Lembaga sebagaimana dimaksud pada
+          ayat (3) huruf c, dapat berupa:
+          a. pengurangan anggaran;
+          b. pemberian catatan pada DIPA (self blocking
+                anggaran); dan/atau
+          c.    penajaman/pengutamaan penggunaan alokasi
+                anggaran untuk kegiatan tertentu (refocusing
+                anggaran).
+    (7)   Disinsentif anggaran sebagaimana dimaksud pada ayat
+          (6) tidak dapat mengurangi alokasi anggaran untuk:
+          a. gaji dan tunjangan;
+          b. prioritas nasional; dan
+          c.    pelayanan kepada masyarakat.
+
+40. Ketentuan Lampiran I, Lampiran II, Lampiran III, dan
+    Lampiran IV Peraturan Menteri Keuangan Nomor 62 Tahun
+    2023 tentang Perencanaan Anggaran, Pelaksanaan
+    Anggaran, serta Akuntansi dan Pelaporan Keuangan
+    sebagaimana telah diubah dengan Peraturan Menteri
+    Keuangan Nomor 107 tahun 2024 tentang Perubahan atas
+    Peraturan Menteri Keuangan Nomor 62 Tahun 2023 tentang
+    Perencanaan Anggaran, Pelaksanaan Anggaran, serta
+    Akuntansi dan Pelaporan Keuangan diubah, sehingga
+    menjadi sebagaimana tercantum dalam Lampiran I,
+    Lampiran II, Lampiran III, dan Lampiran IV yang merupakan
+    bagian tidak terpisahkan dari Peraturan Menteri ini.
+                      - 68 -
+
+
+                             Pasal II
+1. Pada saat Peraturan Menteri ini mulai berlaku, pembentukan
+   dan pemanfaatan RO Khusus yang telah dilakukan sebelum
+   Peraturan Menteri ini mulai berlaku, dinyatakan sah dan tetap
+   berlaku sepanjang tidak bertentangan dengan Peraturan
+   Menteri ini.
+2. Peraturan Menteri ini mulai berlaku pada tanggal
+   diundangkan.
+                               - 69 -
+
+
+            Agar    setiap    orang    mengetahuinya, memerintahkan
+            pengundangan Peraturan Menteri ini dengan penempatannya
+            dalam Berita Negara Republik Indonesia.
+
+
+                         Ditetapkan di Jakarta
+                         pada tanggal 12 Juni 2026
+
+                         MENTERI KEUANGAN REPUBLIK INDONESIA,
+
+
+
+
+                                   Ditandatangani secara elektronik
+                                   PURBAYA YUDHI SADEWA
+
+Diundangkan di Jakarta
+pada tanggal        Д
+
+DIREKTUR JENDERAL
+PERATURAN PERUNDANG-UNDANGAN
+KEMENTERIAN HUKUM REPUBLIK INDONESIA,
+
+       Ѽ
+
+DHAHANA PUTRA
+
+
+BERITA NEGARA REPUBLIK INDONESIA TAHUN 2026 NOMOR          Ж

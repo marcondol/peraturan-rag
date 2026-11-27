@@ -1,0 +1,3627 @@
+SUMBER: https://peraturan.bpk.go.id/Download/20433/Peraturan%20BPK%20Nomor%201%20Tahun%202017.pdf (PDF Database Peraturan BPK; dikonversi dengan pdftotext)
+DIUNDUH: 2026-11-27
+CATATAN: Teks lengkap: Peraturan + Lampiran I-IV (SPKN serta Pernyataan Standar Pemeriksaan 100, 200, dan 300). Konversi PDF dapat mengandung artefak spasi/tata letak.
+
+PERATURAN BADAN PEMERIKSA KEUANGAN
+                           REPUBLIK INDONESIA
+                         NOMOR 1 TAHUN 2017
+                                 TENTANG
+             STANDAR PEMERIKSAAN KEUANGAN NEGARA
+
+
+              DENGAN RAHMAT TUHAN YANG MAHA ESA
+
+
+        BADAN PEMERIKSA KEUANGAN REPUBLIK INDONESIA,
+
+
+
+
+Menimbang   : a.   bahwa berdasarkan ketentuan Pasal 5 ayat (2) Undang-
+                   Undang Nomor 15 Tahun 2004 tentang Pemeriksaan
+                   Pengelolaan dan Tanggung Jawab Keuangan Negara dan
+                   Pasal 9 ayat (1) huruf e dan Pasal 31 ayat (2) Undang-
+                   Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa
+                   Keuangan     menyatakan      bahwa     standar      pemeriksaan
+                   keuangan     negara   disusun       oleh   Badan      Pemeriksa
+                   Keuangan;
+              b.   bahwa      standar    pemeriksaan          keuangan      negara
+                   merupakan     patokan      yang   wajib    dipedomani    dalam
+                   melakukan pemeriksaan pengelolaan dan tanggung jawab
+                   keuangan negara;
+              c.   bahwa Peraturan Badan Pemeriksa Keuangan Nomor 1
+                   Tahun 2007 tentang Standar Pemeriksaan Keuangan
+                   Negara     sudah   tidak   sesuai    dengan      perkembangan
+                   standar    pemeriksaan     yang     berlaku   dan    kebutuhan
+                   organisasi Badan Pemeriksa Keuangan sehingga perlu
+                   diganti;
+                                     -2 -
+
+
+
+               d.   bahwa       berdasarkan     pertimbangan         sebagaimana
+                    dimaksud dalam huruf a, huruf b, dan huruf c, perlu
+                    membentuk      Peraturan    Badan     Pemeriksa      Keuangan
+                    tentang Standar Pemeriksaan Keuangan Negara;
+
+
+Mengingat    : 1.   Undang-Undang       Nomor     17    Tahun     2003    tentang
+                    Keuangan Negara (Lembaran Negara Republik Indonesia
+                    Tahun 2003 Nomor 47, Tambahan Lembaran Negara
+                    Republik Indonesia Nomor 4286);
+               2.   Undang-Undang       Nomor     1     Tahun     2004    tentang
+                    Perbendaharaan     Negara    (Lembaran      Negara   Republik
+                    Indonesia Tahun 2004 Nomor 5, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 4355);
+               3.   Undang-Undang       Nomor     15    Tahun     2004    tentang
+                    Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan
+                    Negara (Lembaran Negara Republik Indonesia Tahun
+                    2004 Nomor 66, Tambahan Lembaran Negara Republik
+                    Indonesia Nomor 4400);
+               4.   Undang-Undang Nomor 15 Tahun 2006 tentang Badan
+                    Pemeriksa     Keuangan      (Lembaran     Negara     Republik
+                    Indonesia Tahun 2006 Nomor 85, Tambahan Lembaran
+                    Negara Republik Indonesia Nomor 4654);
+
+
+                             MEMUTUSKAN:
+Menetapkan   : PERATURAN     BADAN      PEMERIKSA       KEUANGAN         TENTANG
+               STANDAR PEMERIKSAAN KEUANGAN NEGARA.
+
+
+                                            Pasal 1
+               Dalam Peraturan BPK ini yang dimaksud dengan:
+               1.   Badan Pemeriksa Keuangan yang selanjutnya disingkat
+                    BPK adalah lembaga negara yang               bertugas untuk
+                    memeriksa pengelolaan dan tanggung jawab keuangan
+                    negara         sebagaimana            dimaksud          dalam
+                    Undang-Undang      Dasar     Negara     Republik     Indonesia
+                    Tahun 1945.
+                         -3 -
+
+
+
+2.   Standar Pemeriksaan Keuangan Negara yang selanjutnya
+     disingkat    SPKN      adalah      patokan    untuk    melakukan
+     pemeriksaan pengelolaan dan tanggung jawab keuangan
+     negara.
+3.   Pernyataan     Standar       Pemeriksaan       yang   selanjutnya
+     disingkat PSP adalah standar pemeriksaan yang diberi
+     judul, nomor, dan tanggal efektif.
+4.   Keuangan Negara adalah semua hak dan kewajiban
+     negara yang dapat dinilai dengan uang, serta segala
+     sesuatu baik berupa uang maupun barang yang dapat
+     dijadikan milik negara berhubung dengan pelaksanaan
+     hak dan kewajiban tersebut.
+5.   Pengelolaan     Keuangan        Negara     adalah     keseluruhan
+     kegiatan pejabat pengelola keuangan negara sesuai
+     dengan kedudukan dan kewenangannya, yang meliputi
+     perencanaan,          pelaksanaan,           pengawasan,        dan
+     pertanggungjawaban.
+6.   Tanggung Jawab Keuangan Negara adalah kewajiban
+     Pemerintah untuk melaksanakan pengelolaan keuangan
+     negara secara tertib, taat pada peraturan perundang-
+     undangan, efisien, ekonomis, efektif, dan transparan,
+     dengan memperhatikan rasa keadilan dan kepatutan.
+7.   Pemeriksa     adalah       orang    yang   melaksanakan        tugas
+     pemeriksaan pengelolaan dan tanggung jawab keuangan
+     negara      untuk    dan     atas    nama     Badan     Pemeriksa
+     Keuangan.
+8.   Pemeriksaan adalah proses identifikasi masalah, analisis,
+     dan evaluasi yang dilakukan secara independen, objektif,
+     dan profesional berdasarkan standar pemeriksaan, untuk
+     menilai     kebenaran,       kecermatan,       kredibilitas,    dan
+     keandalan informasi mengenai pengelolaan dan tanggung
+     jawab keuangan negara.
+                          -4 -
+
+
+
+9.    Aparat        Pengawasan     Intern   Pemerintah      adalah   unit
+      organisasi di lingkungan Pemerintah Pusat, Pemerintah
+      Daerah, Kementerian Negara, Lembaga Negara, dan
+      Lembaga Pemerintah Nonkementerian yang mempunyai
+      tugas dan fungsi melakukan pengawasan dalam lingkup
+      kewenangannya.
+
+
+
+
+                                  Pasal 2
+SPKN dinyatakan dalam bentuk PSP.
+
+
+                                  Pasal 3
+(1)   SPKN terdiri dari:
+      a.      Kerangka Konseptual Pemeriksaan; dan
+      b.      PSP.
+(2)   Kerangka         Konseptual        Pemeriksaan        sebagaimana
+      dimaksud pada ayat (1) huruf a tercantum dalam
+      Lampiran I yang merupakan bagian tidak terpisahkan
+      dari Peraturan BPK ini.
+(3)   PSP sebagaimana dimaksud pada ayat (1) huruf b, terdiri
+      dari:
+      a.      PSP Nomor 100 tentang Standar Umum;
+      b.      PSP    Nomor    200      tentang    Standar   Pelaksanaan
+              Pemeriksaan; dan
+      c.      PSP     Nomor      300    tentang    Standar    Pelaporan
+              Pemeriksaan.
+(4)   PSP Nomor 100 sebagaimana dimaksud pada ayat (3)
+      huruf a tercantum dalam Lampiran II yang merupakan
+      bagian tidak terpisahkan dari Peraturan BPK ini.
+(5)   PSP Nomor 200 sebagaimana dimaksud pada ayat (3)
+      huruf b tercantum dalam Lampiran III yang merupakan
+      bagian tidak terpisahkan dari Peraturan BPK ini.
+(6)   PSP Nomor 300 sebagaimana dimaksud pada ayat (3)
+      huruf c tercantum dalam Lampiran IV yang merupakan
+      bagian tidak terpisahkan dari Peraturan BPK ini.
+                       -5 -
+
+
+
+                                Pasal 4
+SPKN berlaku untuk semua pemeriksaan yang dilaksanakan
+terhadap entitas, program, kegiatan, serta fungsi berkaitan
+dengan       pelaksanaan      pengelolaan    dan   tanggung   jawab
+keuangan negara yang memiliki tingkat keyakinan memadai.
+
+
+                                Pasal 5
+SPKN berlaku bagi:
+a.    BPK;
+b.    akuntan publik atau pihak lainnya yang melakukan
+      pemeriksaan    atas      pengelolaan   dan   tanggung   jawab
+      keuangan negara, untuk dan atas nama BPK;
+c.    akuntan publik yang melakukan pemeriksaan keuangan
+      negara berdasarkan ketentuan undang-undang; dan
+d.    Aparat Pengawasan Intern Pemerintah yang melakukan
+      audit kinerja dan audit dengan tujuan tertentu.
+
+
+                                Pasal 6
+(1)   BPK      membentuk        suatu     Komite   yang   bertugas
+      mengevaluasi penerapan dan mengembangkan SPKN.
+(2)   Pembentukan Komite sebagaimana dimaksud pada ayat
+      (1) ditetapkan dengan Keputusan BPK.
+(3)   Komite sebagaimana dimaksud pada ayat (2) terdiri dari
+      Dewan Konsultatif dan Panitia Kerja yang dibantu oleh
+      Sekretariat.
+(4)   Panitia Kerja sebagaimana dimaksud pada ayat (3)
+      melibatkan pihak di luar BPK sebagai narasumber.
+
+
+                                Pasal 7
+Hasil evaluasi atas penerapan dan/atau hasil pengembangan
+SPKN dilaporkan secara periodik kepada BPK paling sedikit
+satu kali setiap tahun.
+                       -6 -
+
+
+
+                              Pasal 8
+Pada saat Peraturan BPK ini mulai berlaku, pemeriksaan yang
+masih    berlangsung    dilaksanakan     berdasarkan   Peraturan
+Badan Pemeriksa Keuangan Nomor 1 Tahun 2007 tentang
+Standar Pemeriksaan Keuangan Negara (Lembaran Negara
+Republik    Indonesia Tahun       2007   Nomor   42,   Tambahan
+Lembaran Negara Republik Indonesia Nomor 4707).
+
+
+                              Pasal 9
+Pada saat Peraturan BPK ini mulai berlaku, semua peraturan
+pelaksanaan dari Peraturan Badan Pemeriksa Keuangan
+Nomor 1 Tahun 2007 tentang Standar Pemeriksaan Keuangan
+Negara (Lembaran Negara Republik Indonesia Tahun 2007
+Nomor 42, Tambahan Lembaran Negara Republik Indonesia
+Nomor 4707), dinyatakan masih tetap berlaku sepanjang tidak
+bertentangan dengan ketentuan dalam Peraturan ini.
+
+
+                              Pasal 10
+Pada saat Peraturan BPK ini mulai berlaku, Peraturan Badan
+Pemeriksa Keuangan Nomor 1 Tahun 2007 tentang Standar
+Pemeriksaan Keuangan Negara (Lembaran Negara Republik
+Indonesia Tahun 2007 Nomor 42, Tambahan Lembaran
+Negara     Republik   Indonesia   Nomor    4707),   dicabut   dan
+dinyatakan tidak berlaku.
+
+
+                              Pasal 11
+Peraturan BPK ini mulai berlaku pada tanggal diundangkan.
+                                    -7 -
+
+
+
+               Agar      setiap   orang    mengetahuinya,     memerintahkan
+               pengundangan Peraturan ini dengan penempatannya dalam
+               Lembaran Negara Republik Indonesia.
+
+
+                                            Ditetapkan di Jakarta
+                                            pada tanggal 6 Januari 2017
+
+
+                                            BADAN PEMERIKSA KEUANGAN
+                                                 REPUBLIK INDONESIA
+                                                        KETUA,
+
+                                                            ttd
+
+                                                  HARRY AZHAR AZIS
+
+
+Diundangkan di Jakarta
+pada tanggal 6 Januari 2017
+
+
+MENTERI HUKUM DAN HAK ASASI MANUSIA
+           REPUBLIK INDONESIA,
+
+                      ttd
+
+            YASONNA H. LAOLY
+
+
+
+LEMBARAN NEGARA REPUBLIK INDONESIA TAHUN 2017 NOMOR 1
+
+
+Salinan sesuai dengan aslinya
+BADAN PEMERIKSA KEUANGAN REPUBLIK INDONESIA
+ Kepala Direktorat Utama Pembinaan dan Pengembangan
+          Hukum Pemeriksaan Keuangan Negara,
+
+                            ttd
+
+                  Nizam Burhanuddin
+                                 PENJELASAN
+                                      ATAS
+                  PERATURAN BADAN PEMERIKSA KEUANGAN
+                             REPUBLIK INDONESIA
+                             NOMOR 1 TAHUN 2017
+                                     TENTANG
+                 STANDAR PEMERIKSAAN KEUANGAN NEGARA
+
+
+I.   UMUM
+         Keuangan negara merupakan salah satu unsur pokok dalam
+     penyelenggaraan pemerintahan negara dan mempunyai manfaat yang
+     sangat penting guna mewujudkan tujuan negara untuk mencapai
+     masyarakat yang adil, makmur, dan sejahtera sebagaimana diamanatkan
+     dalam Pembukaan Undang-Undang Dasar Negara Republik Indonesia
+     Tahun 1945.       Untuk mencapai tujuan negara tersebut, selanjutnya
+     melalui ketentuan Pasal 23E ayat (1) Undang-Undang Dasar Negara
+     Republik Indonesia Tahun 1945, negara mengadakan satu BPK yang
+     bebas dan mandiri yang memiliki           tugas dan kewenangan untuk
+     melakukan pemeriksaan pengelolaan dan tanggung jawab keuangan
+     negara.
+         Pelaksanaan pemeriksaan pengelolaan dan tanggung jawab keuangan
+     negara dilakukan dalam rangka menciptakan pemerintahan yang bersih
+     dan bebas dari korupsi, kolusi, dan nepotisme. Dalam rangka menjamin
+     mutu      hasil   pemeriksaan    keuangan   negara   maka   pelaksanaan
+     pemeriksaan perlu dilaksanakan berdasarkan suatu standar pemeriksaan.
+                                          -9-
+
+
+
+           Standar pemeriksaan yang digunakan dalam melaksanakan tugas
+      pemeriksaan selama ini adalah Standar Pemeriksaan Keuangan Negara
+      yang ditetapkan dalam Peraturan Badan Pemeriksa Keuangan Nomor 1
+      Tahun 2007. SPKN tersebut menggunakan referensi utama The Generally
+      Accepted Government Auditing Standards (GAGAS) Tahun 2003. GAGAS
+      telah mengalami revisi sebanyak dua kali, dengan revisi terakhir tahun
+      2011.
+           Standar pemeriksaan sektor privat yang berlaku di Indonesia
+      (Standar   Profesional   Akuntan   Publik/SPAP)   maupun    internasional
+      (International Standards on Auditing/ISA dan International Standards of
+      Supreme Audit Institutions/ISSAI) telah berkembang dan mengalami
+      banyak perubahan. SPAP, ISA, dan ISSAI disusun dengan menggunakan
+      pendekatan pengaturan standar berdasarkan prinsip (principle-based
+      standards). Sebelumnya, standar pemeriksaan menggunakan pendekatan
+      pengaturan standar berdasarkan aturan yang lebih rinci/detail (rule-based
+      standards).
+           Peraturan Badan Pemeriksa Keuangan Nomor 1 Tahun 2007 tentang
+      Standar Pemeriksaan Keuangan Negara sudah tidak sesuai dengan
+      perkembangan standar pemeriksaan dan kebutuhan organisasi BPK
+      sehingga perlu diganti sesuai dengan perkembangan standar pemeriksaan
+      terkini.
+
+
+II.   PASAL DEMI PASAL
+
+
+      Pasal 1
+           Cukup jelas.
+
+
+      Pasal 2
+           Cukup jelas.
+
+
+      Pasal 3
+           Cukup jelas.
+
+
+      Pasal 4
+           Cukup jelas.
+                                       - 10 -
+
+
+
+   Pasal 5
+       Huruf a
+              Cukup jelas.
+       Huruf b
+              Yang dimaksud dengan pihak lainnya adalah pengawas dari
+              berbagai instansi atau tenaga ahli yang melakukan tugas
+              pemeriksaan.
+       Huruf c
+              Cukup jelas.
+       Huruf d
+              Cukup jelas.
+
+
+   Pasal 6
+       Cukup jelas.
+
+
+   Pasal 7
+       Cukup jelas.
+
+
+   Pasal 8
+       Cukup jelas.
+
+
+   Pasal 9
+       Yang dimaksud peraturan pelaksanaan adalah Pedoman Manajemen
+       Pemeriksaan     (PMP)   dan   peraturan   pelaksanaan   lainnya   yang
+       mengacu pada SPKN.
+
+
+   Pasal 10
+       Cukup jelas.
+
+
+   Pasal 11
+       Cukup jelas.
+
+
+
+
+TAMBAHAN LEMBARAN NEGARA REPUBLIK INDONESIA NOMOR 6010
+  LAMPIRAN I
+  PERATURAN    BADAN   PEMERIKSA   KEUANGAN
+  REPUBLIK INDONESIA
+  NOMOR 1 TAHUN 2017
+  TENTANG
+  STANDAR PEMERIKSAAN KEUANGAN NEGARA
+
+
+
+
+ KERANGKA
+KONSEPTUAL
+PEMERIKSAAN
+                                                                           Kerangka Konseptual Pemeriksaan
+
+
+
+
+                                               DAFTAR ISI
+
+                                                                                                  Paragraf
+PENDAHULUAN................................................................ ………                     1-5
+TUJUAN KERANGKA KONSEPTUAL ...........................................                              6-7
+LINGKUP KERANGKA KONSEPTUAL .........................................                                 8
+GAMBARAN UMUM PEMERIKSAAN KEUANGAN NEGARA
+    Mandat Pemeriksaan Keuangan Negara ....................................                          9
+    Kemandirian BPK .....................................................................            10
+    Wewenang BPK .........................................................................          11-13
+    Definisi Pemeriksaan Keuangan Negara ....................................                       14-15
+    Lingkup Pemeriksaan Keuangan Negara ...................................                         16-17
+    Jenis Pemeriksaan Keuangan Negara ........................................                       18
+    Manfaat Pemeriksaan Keuangan Negara ...................................                          19
+    Transparansi dan Akuntabilitas Pemeriksaan Keuangan Negara                                       20
+UNSUR-UNSUR PEMERIKSAAN KEUANGAN NEGARA .................                                            21
+    Tiga Pihak dalam Pemeriksaan Keuangan Negara .....................                              22-26
+    Hal Pokok (subject matter) dan Informasi Hal Pokok (subject
+    matter information) ....................................................................        27-30
+    Kriteria Pemeriksaan ................................................................           31-33
+    Bukti Pemeriksaan ...................................................................           34-38
+    Laporan Hasil Pemeriksaan ......................................................                39-40
+    Pemantauan Tindak Lanjut Hasil Pemeriksaan .........................                            41-42
+PRINSIP-PRINSIP PEMERIKSAAN KEUANGAN NEGARA .............                                            43
+    Kode Etik..................................................................................     44-48
+    Pengendalian Mutu ...................................................................            49
+    Manajemen dan Keahlian Tim Pemeriksa ..................................                         50-54
+    Risiko Pemeriksaan ..................................................................            55
+    Materialitas dalam Pemeriksaan Keuangan Negara ...................                               56
+    Dokumentasi Pemeriksaan .......................................................                  57
+    Komunikasi Pemeriksaan .........................................................                58-59
+PENGEMBANGAN STANDAR PEMERIKSAAN ..............................                                     60-65
+HUBUNGAN    KERANGKA   KONSEPTUAL, PERATURAN
+PERUNDANG-UNDANGAN, STANDAR PEMERIKSAAN, DAN
+KETENTUAN LAIN ……………………………………………………………                                                              66-69
+
+
+
+
+Badan Pemeriksa Keuangan
+                                                          Kerangka Konseptual Pemeriksaan
+
+
+
+
+1                      KERANGKA KONSEPTUAL PEMERIKSAAN
+2
+3    PENDAHULUAN
+4
+5    1.   Negara Republik Indonesia dibentuk dengan tujuan melindungi
+6         segenap bangsa Indonesia dan seluruh tumpah darah Indonesia,
+7         memajukan kesejahteraan umum, mencerdaskan kehidupan bangsa,
+8         dan   ikut    melaksanakan       ketertiban    dunia    yang    berdasarkan
+9         kemerdekaan, perdamaian abadi, dan keadilan sosial. Tujuan negara
+10        tersebut dimuat dalam Pembukaan Undang-Undang Dasar Negara
+11        Republik Indonesia Tahun 1945 (UUD 1945). Untuk mencapai tujuan
+12        bernegara     tersebut,    UUD    1945    mengamanatkan          Pengelolaan
+13        Keuangan Negara dilaksanakan secara terbuka dan bertanggung
+14        jawab untuk sebesar-besarnya kemakmuran rakyat.
+
+15   2.   Keuangan Negara merupakan salah satu unsur pokok dalam
+16        penyelenggaraan pemerintahan negara. Untuk mencapai tujuan
+17        bernegara, Keuangan Negara wajib dikelola secara tertib, taat pada
+18        peraturan      perundang-undangan,        efisien,      ekonomis,      efektif,
+19        transparan, dan bertanggung jawab dengan memperhatikan rasa
+20        keadilan dan kepatutan.
+
+21   3.   Untuk memeriksa pengelolaan dan tanggung jawab keuangan negara,
+22        dibentuk satu BPK yang bebas dan mandiri. Pemeriksaan BPK
+23        meliputi     pemeriksaan    keuangan,         pemeriksaan      kinerja,    dan
+24        pemeriksaan dengan tujuan tertentu (PDTT).
+
+25   4.   BPK melaksanakan Pemeriksaan berdasarkan standar pemeriksaan.
+26        Standar      pemeriksaan    merupakan     patokan       untuk     melakukan
+27        pemeriksaan pengelolaan dan tanggung jawab keuangan negara yang
+28        meliputi standar umum, standar pelaksanaan, dan standar pelaporan
+29        yang wajib dipedomani oleh BPK dan/atau Pemeriksa.
+
+30   5.   Penyusunan standar pemeriksaan memerlukan acuan dan dasar
+31        berupa Kerangka Konseptual Pemeriksaan. Pengembangan kerangka
+32        konseptual ini sesuai dengan ketentuan peraturan perundang-
+33        undangan      dan   kerangka     konseptual      yang   digunakan         dalam
+34        penyusunan standar pemeriksaan internasional yang relevan.
+
+35
+
+     Badan Pemeriksa Keuangan                                                          1
+                                                          Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    TUJUAN KERANGKA KONSEPTUAL
+2
+3    6.   Kerangka Konseptual Pemeriksaan ini, yang selanjutnya disebut
+4         Kerangka Konseptual, mendasari pengembangan SPKN. Kerangka
+5         Konseptual bertujuan sebagai acuan dan dasar bagi:
+6         a.   BPK, Pemeriksa, Aparat Pengawasan Intern Pemerintah yang
+7              melaksanakan audit kinerja dan audit dengan tujuan tertentu,
+8              serta    akuntan     publik     yang   melaksanakan        pemeriksaan
+9              keuangan negara berdasarkan ketentuan undang-undang;
+10        b.   penyusun standar pemeriksaan; dan
+11        c.   pengguna Laporan Hasil Pemeriksaan (LHP) BPK dan pihak-
+12             pihak lain yang terkait dengan standar pemeriksaan dan/atau
+13             pemeriksaan pengelolaan dan tanggung jawab keuangan negara.
+
+14   7.   Kerangka Konseptual bukan merupakan standar dan/atau prosedur
+15        pemeriksaan.         Kerangka      Konseptual    menjadi      acuan       bagi
+16        pengembangan          standar   pemeriksaan.      Dalam      hal     terdapat
+17        permasalahan yang belum diatur dalam standar pemeriksaan, maka
+18        Pemeriksaan mengacu kepada Kerangka Konseptual.
+19
+20   LINGKUP KERANGKA KONSEPTUAL
+21
+22   8.   Kerangka Konseptual meliputi:
+23        a.   Gambaran umum pemeriksaan keuangan negara;
+24        b.   Unsur-unsur pemeriksaan keuangan negara;
+25        c.   Prinsip-prinsip pemeriksaan keuangan negara;
+26        d.   Pengembangan standar pemeriksaan; dan
+27        e.   Hubungan antara Kerangka Konseptual, ketentuan peraturan
+28             perundang-undangan, standar pemeriksaam, dan ketentuan
+29             lain.
+30
+31   GAMBARAN UMUM PEMERIKSAAN KEUANGAN NEGARA
+32
+33   Mandat Pemeriksaan Keuangan Negara
+
+34   9.   UUD    1945     memberi     mandat     kepada   BPK     untuk      memeriksa
+35        pengelolaan dan tanggung jawab keuangan negara secara bebas dan
+36        mandiri.     Hasil   pemeriksaan     BPK    disampaikan     kepada     Dewan
+     Badan Pemeriksa Keuangan                                                          2
+                                                               Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        Perwakilan Rakyat (DPR), Dewan Perwakilan Daerah (DPD), dan
+2        Dewan      Perwakilan     Rakyat        Daerah    (DPRD)       sebagai     lembaga
+3        perwakilan rakyat sesuai dengan kewenangannya. Hasil pemeriksaan
+4        tersebut ditindaklanjuti oleh lembaga perwakilan dan badan lain
+5        sesuai dengan undang-undang. Mandat tersebut dijabarkan lebih
+6        lanjut dalam Undang-Undang Nomor 15 Tahun 2004 tentang
+7        Pemeriksaan Pengelolaan dan Tanggung Jawab Keuangan Negara dan
+8        Undang-Undang Nomor 15 Tahun 2006 tentang Badan Pemeriksa
+9        Keuangan.
+10
+11   Kemandirian BPK
+
+12   10. Untuk memeriksa pengelolaan dan tanggung jawab keuangan negara
+13       dibentuk satu BPK yang bebas dan mandiri. BPK memiliki kebebasan
+14       dan kemandirian dalam perencanaan, pelaksanaan, pelaporan, dan
+15       pemantauan tindak lanjut hasil pemeriksaan. Selain itu, kemandirian
+16       BPK dalam pemeriksaan keuangan negara mencakup ketersediaan
+17       sumber daya manusia, anggaran, dan sarana pendukung lainnya.
+18
+19   Wewenang BPK
+
+20   11. Dalam pelaksanaan tugasnya BPK memiliki wewenang sebagai
+21       berikut:
+22       a.   menentukan         objek          pemeriksaan,       merencanakan          dan
+23            melaksanakan pemeriksaan, menentukan waktu dan metode
+24            pemeriksaan        serta    menyusun        dan       menyajikan        laporan
+25            pemeriksaan;
+26       b.   meminta keterangan dan/atau dokumen yang wajib diberikan
+27            oleh setiap orang, unit organisasi Pemerintah Pusat, Pemerintah
+28            Daerah, Lembaga Negara lainnya, Bank Indonesia (BI), Badan
+29            Usaha Milik Negara (BUMN), Badan Layanan Umum (BLU),
+30            Badan Usaha Milik Daerah (BUMD), dan lembaga atau badan
+31            lain yang mengelola keuangan negara;
+32       c.   melakukan pemeriksaan di tempat penyimpanan uang dan
+33            barang    milik     negara,        di   tempat     pelaksanaan       kegiatan,
+34            pembukuan         dan      tata     usaha    keuangan         negara,     serta
+35            pemeriksaan terhadap perhitungan-perhitungan, surat-surat,
+
+
+     Badan Pemeriksa Keuangan                                                               3
+                                                       Kerangka Konseptual Pemeriksaan
+
+
+
+
+1             bukti-bukti, rekening koran, pertanggungjawaban, dan daftar
+2             lainnya yang berkaitan dengan pengelolaan keuangan negara;
+3        d.   menetapkan jenis dokumen, data, serta informasi mengenai
+4             pengelolaan dan tanggung jawab keuangan negara yang wajib
+5             disampaikan kepada BPK;
+6        e.   menetapkan standar pemeriksaan keuangan negara setelah
+7             konsultasi dengan Pemerintah Pusat/Pemerintah Daerah yang
+8             wajib digunakan dalam pemeriksaan pengelolaan dan tanggung
+9             jawab keuangan negara;
+10       f.   menetapkan kode etik pemeriksaan pengelolaan dan tanggung
+11            jawab keuangan negara;
+12       g.   menggunakan tenaga ahli dan/atau tenaga pemeriksa di luar
+13            BPK yang bekerja untuk dan atas nama BPK;
+14       h.   membina jabatan fungsional pemeriksa;
+15       i.   memberi pertimbangan atas Standar Akuntansi Pemerintahan;
+16       j.   memberi pertimbangan atas rancangan sistem pengendalian
+17            intern     Pemerintah      Pusat/Pemerintah      Daerah       sebelum
+18            ditetapkan oleh Pemerintah Pusat/Pemerintah Daerah;
+19       k.   memantau penyelesaian ganti kerugian negara/daerah yang
+20            ditetapkan oleh Pemerintah terhadap pegawai negeri bukan
+21            bendahara dan pejabat lain;
+22       l.   memantau          pelaksanaan     pengenaan       ganti      kerugian
+23            negara/daerah kepada bendahara, pengelola BUMN/BUMD, dan
+24            lembaga atau badan lain yang mengelola keuangan negara yang
+25            telah ditetapkan oleh BPK; dan
+26       m.   memantau          pelaksanaan     pengenaan       ganti      kerugian
+27            negara/daerah       yang    ditetapkan     berdasarkan        putusan
+28            pengadilan yang telah mempunyai kekuatan hukum tetap.
+
+29   12. BPK dapat memberikan:
+30       a.   pendapat      kepada       DPR,    DPD,       DPRD,       Pemerintah
+31            Pusat/Pemerintah Daerah, Lembaga Negara Lain, BI, BUMN,
+32            BLU, BUMD, Yayasan, dan lembaga atau badan lain, yang
+33            diperlukan karena sifat pekerjaannya;
+34       b.   pertimbangan atas penyelesaian kerugian negara/daerah yang
+35            ditetapkan oleh Pemerintah Pusat/Pemerintah Daerah; dan/atau
+
+
+     Badan Pemeriksa Keuangan                                                       4
+                                                           Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        c.     keterangan ahli dalam proses peradilan mengenai kerugian
+2               negara/daerah.
+
+3    13. Anggota BPK tidak dapat dituntut di muka pengadilan karena
+4        menjalankan      tugas,    kewajiban,       dan       wewenangnya.         Dalam
+5        melaksanakan tugas dan wewenangnya, Anggota BPK, Pemeriksa,
+6        dan pihak lain yang bekerja untuk dan atas nama BPK diberikan
+7        perlindungan hukum dan jaminan keamanan oleh instansi yang
+8        berwenang.
+9
+10   Definisi Pemeriksaan Keuangan Negara
+
+11   14. Pemeriksaan keuangan negara adalah proses identifikasi masalah,
+12       analisis, dan evaluasi yang dilakukan secara independen, objektif,
+13       dan profesional berdasarkan standar pemeriksaan, untuk menilai
+14       kebenaran,     kecermatan,      kredibilitas,   dan    keandalan      informasi
+15       mengenai pengelolaan dan tanggung jawab keuangan negara. Dengan
+16       demikian, pemeriksaan keuangan negara memberikan keyakinan
+17       yang     memadai.      Proses    pemeriksaan        meliputi     perencanaan,
+18       pelaksanaan,    pelaporan       dan   pemantauan        tindak    lanjut    hasil
+19       pemeriksaan.
+20   15. Pemeriksaan dilakukan dalam rangka untuk mendorong tata kelola
+21       keuangan negara yang baik melalui perolehan keyakinan bahwa
+22       pengelolaan dan tanggung jawab keuangan negara telah sesuai
+23       dengan ketentuan peraturan perundang-undangan dan/atau prinsip-
+24       prinsip tata kelola yang baik.
+25
+26   Lingkup Pemeriksaan Keuangan Negara
+
+27   16. Lingkup pemeriksaan keuangan negara meliputi pemeriksaan atas
+28       pengelolaan dan tanggung jawab keuangan negara. Pengelolaan
+29       meliputi seluruh kegiatan perencanaan, pelaksanaan, pengawasan,
+30       dan pertanggungjawaban. Tanggung jawab adalah kewajiban untuk
+31       melaksanakan pengelolaan keuangan negara sesuai dengan prinsip-
+32       prinsip tata kelola yang baik.
+
+33   17. Keuangan Negara adalah semua hak dan kewajiban negara yang
+34       dapat dinilai dengan uang, serta segala sesuatu baik berupa uang
+35       maupun      berupa     barang    yang    dapat     dijadikan     milik     negara
+
+     Badan Pemeriksa Keuangan                                                           5
+                                                             Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        berhubung       dengan    pelaksanaan      hak     dan    kewajiban     tersebut.
+2        Lingkup Keuangan Negara tersebut meliputi:
+3        a.   hak    negara      untuk   memungut         pajak,    mengeluarkan       dan
+4             mengedarkan uang, dan melakukan pinjaman;
+5        b.   kewajiban negara untuk menyelenggarakan tugas layanan
+6             umum pemerintahan negara dan membayar tagihan pihak
+7             ketiga;
+8        c.   Penerimaan Negara;
+9        d.   Pengeluaran Negara;
+10       e.   Penerimaan Daerah;
+11       f.   Pengeluaran Daerah;
+12       g.   kekayaan negara/kekayaan daerah yang dikelola sendiri atau
+13            oleh pihak lain berupa uang, surat berharga, piutang, barang,
+14            serta hak-hak lain yang dapat dinilai dengan uang, termasuk
+15            kekayaan yang dipisahkan pada perusahaan negara/perusahaan
+16            daerah;
+17       h.   kekayaan pihak lain yang dikuasai oleh pemerintah dalam
+18            rangka       penyelenggaraan      tugas        pemerintahan       dan/atau
+19            kepentingan umum; dan
+20       i.   kekayaan pihak lain yang diperoleh dengan menggunakan
+21            fasilitas yang diberikan pemerintah.
+22
+23   Jenis Pemeriksaan Keuangan Negara
+24   18. Jenis    pemeriksaan       keuangan        negara      meliputi     pemeriksaan
+25       keuangan,       pemeriksaan     kinerja,     dan      PDTT.       Tujuan    suatu
+26       pemeriksaan menentukan jenis pemeriksaan. Pemeriksaan keuangan
+27       bertujuan       untuk    memberikan     opini      atas    kewajaran       laporan
+28       keuangan.       Tujuan    pemeriksaan       kinerja       adalah    memberikan
+29       kesimpulan atas aspek ekonomi, efisiensi dan/atau efektivitas
+30       pengelolaan keuangan negara, serta memberikan rekomendasi untuk
+31       memperbaiki aspek tersebut. PDTT bertujuan untuk memberikan
+32       kesimpulan sesuai dengan tujuan pemeriksaan yang ditetapkan. PDTT
+33       dapat    berbentuk       pemeriksaan       kepatuhan        dan     pemeriksaan
+34       investigatif.
+35
+36
+
+     Badan Pemeriksa Keuangan                                                             6
+                                                              Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    Manfaat Pemeriksaan Keuangan Negara
+
+2    19. Pemeriksaan BPK mendorong pengelolaan keuangan negara untuk
+3        mencapai tujuan negara, antara lain melalui:
+4        a.   penyediaan        hasil   pemeriksaan           termasuk     di    dalamnya
+5             kesimpulan yang independen, objektif dan dapat diandalkan,
+6             berdasarkan bukti yang cukup dan tepat;
+7        b.   penguatan upaya pemberantasan korupsi berupa penyampaian
+8             temuan yang berindikasi tindak pidana dan/atau kerugian
+9             dalam pengelolaan keuangan negara kepada instansi yang
+10            berwenang untuk ditindaklanjuti, serta berupa pencegahan
+11            dengan penguatan sistem pengelolaan keuangan negara;
+12       c.   peningkatan akuntabilitas, transparansi, keekonomian, efisiensi,
+13            dan efektivitas dalam pengelolaan dan tanggung jawab keuangan
+14            negara, dalam bentuk rekomendasi yang konstruktif dan tindak
+15            lanjut yang efektif;
+16       d.   peningkatan kepatuhan pengelolaan dan pertanggungjawaban
+17            keuangan negara terhadap ketentuan peraturan perundang-
+18            undangan;
+19       e.   peningkatan       efektivitas    peran    Aparat      Pengawasan        Intern
+20            Pemerintah; dan
+21       f.   peningkatan kepercayaan publik atas hasil pemeriksaan BPK
+22            dan pengelolaan keuangan negara.
+23
+24   Transparansi dan Akuntabilitas Pemeriksaan Keuangan Negara
+
+25   20. BPK wajib melaksanakan tugas pokok, fungsi, dan wewenangnya
+26       secara   ekonomis,       efisien,    dan   efektif    berdasarkan       ketentuan
+27       peraturan perundang-undangan. Dalam rangka transparansi dan
+28       akuntabilitas pelaksanaan tugas pokok, fungsi, dan wewenangnya,
+29       BPK memublikasikan hasil pelaksanaannya sesuai dengan ketentuan
+30       peraturan    perundang-undangan            melalui     berbagai     media,    baik
+31       konvensional maupun dalam jaringan (daring).
+32
+
+
+
+
+     Badan Pemeriksa Keuangan                                                              7
+                                                          Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    UNSUR-UNSUR PEMERIKSAAN KEUANGAN NEGARA
+2
+3    21. Unsur-unsur pemeriksaan keuangan negara meliputi:
+4        a.   Hubungan tiga pihak, yang terdiri atas:
+5             1) pemeriksa keuangan negara,
+6             2) pihak yang bertanggung jawab, dan
+7             3) pengguna LHP;
+8        b.   Hal pokok (subject matter) dan informasi hal pokok (subject
+9             matter information);
+10       c.   Kriteria pemeriksaan;
+11       d.   Bukti pemeriksaan;
+12       e.   Laporan hasil pemeriksaan; dan
+13       f.   Pemantauan tindak lanjut hasil pemeriksaan.
+14
+15   Tiga Pihak dalam Pemeriksaan Keuangan Negara
+
+16   22. Pemeriksaan keuangan negara melibatkan 3 (tiga) pihak, yaitu
+17       (1) pemeriksa keuangan negara; (2) pihak yang bertanggung jawab;
+18       dan (3) pengguna LHP.
+19
+20   Pemeriksa Keuangan Negara
+21   23. BPK adalah lembaga negara yang memiliki tugas dan wewenang
+22       untuk memeriksa pengelolaan dan tanggung jawab keuangan negara.
+23       BPK dapat menugaskan Pemeriksa BPK dan/atau tenaga ahli
+24       dan/atau tenaga pemeriksa di luar BPK yang bekerja untuk dan atas
+25       nama     BPK.    Pemeriksa     BPK      adalah     Pelaksana      BPK     yang
+26       melaksanakan tugas pemeriksaan pengelolaan dan tanggung jawab
+27       keuangan negara untuk dan atas nama BPK. Tenaga ahli dan/atau
+28       pemeriksa di luar BPK dapat sebagai orang-perorangan maupun
+29       lembaga dari luar BPK.
+30   24. Pemeriksaan keuangan negara juga dapat dilaksanakan oleh akuntan
+31       publik    berdasarkan       ketentuan    undang-undang.          Dalam      hal
+32       pemeriksaan dilakukan oleh akuntan publik berdasarkan ketentuan
+33       undang-undang, pemeriksaan dilaksanakan dengan berdasarkan
+34       pada Standar Profesional Akuntan Publik (SPAP) dan SPKN. Pedoman
+35       penggunaan SPKN oleh akuntan publik akan diatur BPK dalam suatu
+36       ketentuan. Laporan yang dihasilkan oleh akuntan publik tersebut
+
+     Badan Pemeriksa Keuangan                                                          8
+                                                      Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        wajib disampaikan kepada BPK untuk dievaluasi. Pelaksanaan
+2        evaluasi mengikuti tata cara yang ditetapkan BPK. Hasil pemeriksaan
+3        akuntan publik dan evaluasi tersebut selanjutnya disampaikan oleh
+4        BPK kepada lembaga perwakilan, sehingga dapat ditindaklanjuti
+5        sesuai dengan kewenangannya.
+6
+7    Pihak yang Bertanggung Jawab
+8    25. Pihak yang bertanggung jawab adalah pihak yang diperiksa, yang
+9        bertanggung jawab atas informasi hal pokok dan/atau bertanggung
+10       jawab    mengelola     hal   pokok,    dan/atau     bertanggung      jawab
+11       menindaklanjuti hasil pemeriksaan antara lain Presiden, Menteri,
+12       dan Kepala Daerah.
+13
+14   Pengguna LHP
+15   26. Pengguna LHP adalah lembaga perwakilan, pemerintah, serta pihak
+16       lain yang mempunyai kepentingan terhadap LHP.
+17       a.   Lembaga Perwakilan
+18            Lembaga perwakilan yang dimaksud yaitu DPR, DPD, dan
+19            DPRD. Lembaga perwakilan menindaklanjuti hasil pemeriksaan
+20            BPK dengan melakukan pembahasan sesuai kewenangannya.
+21            Lembaga perwakilan dapat meminta penjelasan kepada BPK
+22            dalam rangka menindaklanjuti hasil pemeriksaan dan atau
+23            meminta    BPK    melakukan      pemeriksaan   lanjutan.    Lembaga
+24            perwakilan dapat meminta Pemerintah untuk melakukan tindak
+25            lanjut hasil pemeriksaan.
+26       b.   Pemerintah
+27            Yang dimaksud dengan Pemerintah adalah Pemerintah Pusat
+28            dan Pemerintah Daerah.
+29       c.   Pihak lain yang berkepentingan
+30            Yang dimaksud pihak lain yang berkepentingan antara lain
+31            masyarakat, instansi penegak hukum, dan lembaga yang
+32            mempunyai kepentingan terhadap LHP.
+33
+34
+35
+
+
+
+     Badan Pemeriksa Keuangan                                                      9
+                                                            Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    Hal Pokok (subject matter) dan Informasi Hal Pokok (subject matter
+2    information)
+
+3    27. Hal pokok adalah hal-hal yang diperiksa dan/atau hal-hal yang
+4        menjadi perhatian dalam suatu penugasan pemeriksaan, yang dapat
+5        berupa     informasi,       kondisi,     atau      aktivitas      yang     dapat
+6        diukur/dievaluasi berdasarkan kriteria tertentu. Informasi hal pokok
+7        adalah hasil evaluasi atau hasil pengukuran hal pokok terhadap
+8        kriteria. Hal pokok dan informasi hal pokok memiliki bentuk yang
+9        beragam    dan      karakteristik      yang    berbeda      tergantung    tujuan
+10       pemeriksaannya. Hal pokok dan informasi hal pokok dapat berupa,
+11       tetapi tidak terbatas pada, sebagai berikut:
+12       a.   kinerja atau kondisi keuangan (sebagai contoh: posisi keuangan,
+13            kinerja keuangan, dan arus kas historis atau prospektif), dalam
+14            hal   ini   informasi    hal      pokok    dapat    berupa       pengakuan,
+15            pengukuran, penyajian, dan pengungkapan yang tercermin
+16            dalam laporan keuangan;
+17       b.   kinerja atau kondisi nonkeuangan (sebagai contoh: kinerja suatu
+18            entitas), dalam hal ini informasi hal pokok mungkin merupakan
+19            indikator utama efisiensi dan efektivitas;
+20       c.   karakteristik fisik (sebagai contoh: kapasitas suatu fasilitas),
+21            dalam hal ini informasi hal pokok dapat berupa dokumen
+22            tentang spesifikasi;
+23       d.   sistem dan proses (sebagai contoh: pengendalian internal atau
+24            sistem teknologi informasi atau entitas), dalam hal ini informasi
+25            hal pokok dapat berupa asersi tentang efektivitas;
+26       e.   perilaku    (sebagai    contoh:     praktik     tata    kelola    korporasi,
+27            kepatuhan terhadap ketentuan peraturan perundang-undangan,
+28            sumber daya manusia), dalam hal ini informasi hal pokok dapat
+29            berupa suatu pernyataan kepatuhan atau suatu pernyataan
+30            efektivitas.
+
+31   28. Hal pokok memiliki karakteristik yang berbeda-beda, yang mencakup
+32       sampai sejauh mana informasi atas hal pokok tersebut bersifat
+33       kualitatif atau kuantitatif, objektif atau subjektif, historis atau
+34       prospektif, dan terkait dengan suatu titik waktu atau melingkupi
+35       periode tertentu. Karakteristik tersebut akan mempengaruhi:
+
+
+     Badan Pemeriksa Keuangan                                                          10
+                                                              Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        a.     tingkat ketepatan dalam mengukur dan mengevaluasi hal pokok
+2               tersebut berdasarkan kriteria; dan
+3        b.     tingkat kemampuan bukti yang tersedia untuk memberikan
+4               keyakinan.
+
+5    29. LHP menyajikan karakteristik tertentu dan mempertimbangkan
+6        dampak dari karakteristik tersebut yang relevan dengan pengguna
+7        LHP.
+
+8    30. Penentuan hal pokok dapat dikatakan tepat, jika:
+9        a.     dapat      diidentifikasi    dan       memungkinkan        evaluasi      dan
+10              pengukuran       yang    konsisten      terhadap    kriteria    yang    telah
+11              diidentifikasi; dan
+12       b.     memungkinkan untuk diterapkan prosedur dalam memperoleh
+13              bukti yang cukup dan tepat serta mendukung kesimpulan guna
+14              memberikan keyakinan yang memadai.
+15
+16   Kriteria Pemeriksaan
+
+17   31. Kriteria pemeriksaan adalah tolok ukur yang digunakan dalam
+18       memeriksa dan menilai hal pokok, dalam hal ini informasi yang
+19       diungkapkan dalam pengelolaan dan pertanggungjawaban keuangan
+20       negara, termasuk tolok ukur penyajian dan pengungkapan yang
+21       relevan. Setiap pemeriksaan menggunakan kriteria pemeriksaan yang
+22       sesuai dengan konteks pemeriksaannya. Kriteria pemeriksaan yang
+23       digunakan bergantung pada sejumlah faktor, antara lain tujuan dan
+24       jenis pemeriksaan. Kriteria pemeriksaan yang digunakan harus
+25       tersedia bagi pengguna LHP sehingga pengguna memahami proses
+26       evaluasi dan pengukuran suatu hal pokok.
+
+27   32. Kriteria pemeriksaan yang sesuai menggambarkan karakteristik
+28       sebagai berikut:
+29       a.     relevan,    memberikan       kontribusi     kepada     kesimpulan       guna
+30              membantu pengambilan keputusan oleh pengguna;
+31       b.     lengkap,     faktor-faktor        relevan   yang   dapat       memengaruhi
+32              kesimpulan tidak ada yang diabaikan;
+33       c.     andal, memungkinkan pengevaluasian dan pengukuran yang
+34              konsisten     terhadap      hal    pokok    oleh   pemeriksa     lain   yang
+35              mempunyai kualifikasi yang sama;
+
+     Badan Pemeriksa Keuangan                                                             11
+                                                     Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        d.   netral, memberikan kontribusi kepada kesimpulan yang bebas
+2             dari keberpihakan; dan
+3        e.   dapat dipahami, mudah dipahami oleh pengguna sehingga
+4             pembuatan kesimpulan menjadi jelas, komprehensif, dan tidak
+5             rentan terhadap penafsiran yang berbeda-beda.
+
+6    33. Kriteria pemeriksaan dapat bersumber dari ketentuan peraturan
+7        perundang-undangan, standar yang diterbitkan organisasi profesi
+8        tertentu, kontrak, kebijakan dan prosedur yang ditetapkan oleh
+9        entitas yang diperiksa, atau kriteria yang dikomunikasikan oleh
+10       Pemeriksa kepada pihak yang bertanggung jawab.
+
+11
+12   Bukti Pemeriksaan
+
+13   34. Bukti pemeriksaan adalah informasi yang digunakan oleh Pemeriksa
+14       dalam    menentukan     kesesuaian    hal   pokok     dengan      kriteria
+15       pemeriksaan.      Pemeriksa   mempertimbangkan        kecukupan       dan
+16       ketepatan bukti yang diperoleh.
+
+17   35. Kecukupan bukti pemeriksaan merupakan ukuran kuantitas bukti
+18       pemeriksaan, yang dipengaruhi oleh penilaian Pemeriksa atas risiko
+19       pemeriksaan dan kualitas bukti pemeriksaan.           Ketepatan bukti
+20       pemeriksaan merupakan ukuran kualitas bukti pemeriksaan yaitu
+21       relevan, valid, dan andal untuk mendukung hasil pemeriksaan.
+
+22   36. Kecukupan dan ketepatan bukti pemeriksaan saling berhubungan
+23       satu sama lain. Kuantitas bukti yang lebih banyak belum tentu dapat
+24       mengompensasi kualitas bukti yang buruk.
+
+25   37. Bentuk    bukti   pemeriksaan     bermacam-macam,      seperti    catatan
+26       transaksi elektronis/fisik, komunikasi tertulis atau elektronis dengan
+27       pihak di luar entitas yang diperiksa, hasil observasi Pemeriksa,
+28       maupun keterangan lisan/tertulis dari pihak yang diperiksa. Metode
+29       yang digunakan dalam pemerolehan bukti bisa termasuk inspeksi,
+30       observasi, permintaan keterangan, konfirmasi, rekalkulasi, prosedur
+31       analitis, dan/atau teknik lainnya.
+
+32   38. Pemeriksa mempertimbangkan hubungan antara biaya pemerolehan
+33       bukti dengan kegunaan informasi yang diperoleh. Kesulitan atau
+34       biaya yang timbul untuk memperoleh bukti tidak boleh dijadikan
+
+     Badan Pemeriksa Keuangan                                                   12
+                                                         Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        alasan untuk menghilangkan suatu prosedur pengumpulan bukti
+2        ketika prosedur alternatif tidak tersedia. Pemeriksa menggunakan
+3        pertimbangan       profesionalnya     dan     menerapkan         skeptisisme
+4        profesional dalam mengevaluasi kuantitas dan kualitas bukti, yaitu
+5        kecukupan dan ketepatan bukti, untuk mendukung LHP.
+
+6
+7    Laporan Hasil Pemeriksaan
+
+8    39. Pemeriksa membuat LHP berupa laporan tertulis yang berisi suatu
+9        kesimpulan yang diperoleh tentang informasi hal pokok. LHP berisi
+10       hasil analisis atas pengujian bukti yang diperoleh saat pelaksanaan
+11       pemeriksaan. Struktur dan format LHP ditetapkan lebih lanjut dalam
+12       standar pelaporan. LHP digunakan oleh pihak yang bertanggung
+13       jawab untuk melakukan perbaikan atas pengelolaan dan tanggung
+14       jawab keuangan negara.
+
+15   40. LHP yang telah disampaikan kepada lembaga perwakilan dinyatakan
+16       terbuka    untuk   umum,    kecuali    yang     memuat      rahasia     negara
+17       dan/atau    mengandung      unsur     pidana     yang    diproses     hukum
+18       sebagaimana     diatur   dalam      ketentuan     peraturan      perundang-
+19       undangan. LHP yang terbuka untuk umum berarti dapat diperoleh
+20       dan/atau diakses oleh masyarakat sesuai ketentuan peraturan
+21       perundang-undangan.
+
+22
+23   Pemantauan Tindak Lanjut Hasil Pemeriksaan
+
+24   41. LHP ditindaklanjuti oleh pejabat pengelola keuangan negara selaku
+25       pihak yang bertanggung jawab sesuai kewenangannya dan ketentuan
+26       peraturan perundang-undangan. BPK memantau secara periodik
+27       pelaksanaan tindak lanjut atas LHP dan menyampaikan hasil
+28       pemantauannya      kepada   lembaga     perwakilan,      dan    pihak    yang
+29       bertanggung jawab.
+
+30   42. Pemeriksa mempertimbangkan tindak lanjut hasil pemeriksaan
+31       sebelumnya yang berhubungan dengan pemeriksaan yang dilakukan.
+
+32
+33
+34
+
+     Badan Pemeriksa Keuangan                                                       13
+                                                    Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    PRINSIP-PRINSIP PEMERIKSAAN KEUANGAN NEGARA
+2
+3    43. Prinsip-prinsip pemeriksaan keuangan negara adalah ketentuan yang
+4        harus dipahami dan ditaati oleh pembuat standar dalam menyusun
+5        standar pemeriksaan dan Pemeriksa dalam melakukan Pemeriksaan,
+6        yang meliputi:
+7        a.   Kode etik;
+8        b.   Pengendalian mutu;
+9        c.   Manajemen dan keahlian tim Pemeriksa;
+10       d.   Risiko pemeriksaan;
+11       e.   Materialitas;
+12       f.   Dokumentasi pemeriksaan; dan
+13       g.   Komunikasi pemeriksaan.
+14
+15   Kode Etik
+
+16   44. Untuk    mewujudkan    BPK   yang   independen,    berintegritas,    dan
+17       profesional demi kepentingan negara, setiap Anggota BPK dan
+18       Pemeriksa Keuangan Negara harus mematuhi kode etik. Kode etik
+19       adalah norma-norma yang harus dipatuhi oleh setiap Anggota BPK
+20       dan Pemeriksa Keuangan Negara selama menjalankan tugasnya
+21       untuk menjaga martabat, kehormatan, citra, dan kredibilitas BPK.
+22       Kode etik ditetapkan oleh BPK. Independensi, integritas, dan
+23       profesionalisme adalah nilai-nilai yang harus dijunjung tinggi oleh
+24       Anggota BPK dan Pemeriksa Keuangan Negara.
+
+25
+26   Independensi
+27   45. Independensi adalah suatu sikap dan tindakan dalam melaksanakan
+28       Pemeriksaan untuk tidak memihak kepada siapapun dan tidak
+29       dipengaruhi oleh siapapun. Pemeriksa harus objektif dan bebas dari
+30       benturan kepentingan (conflict of interest) dalam melaksanakan
+31       tanggung jawab profesionalnya. Pemeriksa juga harus bertanggung
+32       jawab untuk terus-menerus mempertahankan independensi dalam
+33       pemikiran    (independence   of   mind)   dan   independensi      dalam
+34       penampilan (independence in appearance).
+
+35
+
+
+     Badan Pemeriksa Keuangan                                                  14
+                                                        Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    Integritas
+2    46. Integritas merupakan mutu, sifat, atau keadaan yang menunjukkan
+3         kesatuan yang utuh, dimilikinya sifat jujur, kerja keras, serta
+4         kompetensi yang memadai.
+
+5
+6    Profesionalisme
+7    47. Profesionalisme adalah kemampuan, keahlian, dan komitmen profesi
+8         dalam menjalankan tugas disertai prinsip kehati-hatian (due care),
+9         ketelitian, dan kecermatan, serta berpedoman kepada standar dan
+10        ketentuan     peraturan     perundang-undangan.       Sikap     profesional
+11        pemeriksa      diwujudkan     dengan   selalu     bersikap     skeptisisme
+12        profesional (professional skepticism) selama proses pemeriksaan dan
+13        mengedepankan       prinsip   pertimbangan      profesional    (professional
+14        judgment).
+
+15   48. Skeptisisme profesional berarti pemeriksa tidak menganggap bahwa
+16        pihak yang bertanggung jawab adalah tidak jujur, tetapi juga tidak
+17        menganggap bahwa kejujuran pihak yang bertanggung jawab tidak
+18        dipertanyakan lagi. Pertimbangan profesional merupakan penerapan
+19        pengetahuan kolektif, keterampilan, dan pengalaman. Pertimbangan
+20        profesional adalah pertimbangan yang dibuat oleh pemeriksa yang
+21        terlatih,    memiliki   pengetahuan,    dan      pengalaman       sehingga
+22        mempunyai       kompetensi     yang    diperlukan      untuk      membuat
+23        pertimbangan yang wajar.
+
+24
+25   Pengendalian Mutu
+
+26   49. Untuk meningkatkan kepercayaan pemangku kepentingan terhadap
+27        hasil pemeriksaan BPK, mutlak diperlukan standar pengendalian
+28        mutu. Sistem pengendalian mutu BPK harus sesuai dengan standar
+29        pengendalian mutu supaya kualitas pemeriksaan yang dilakukan
+30        tetap terjaga. Sistem pengendalian mutu harus mencakup, tetapi
+31        tidak terbatas pada, hal-hal seperti supervisi, review berjenjang,
+32        monitoring, dan konsultasi selama proses pemeriksaan. Sistem
+33        pengendalian mutu BPK ditelaah secara intern dan juga oleh badan
+34        pemeriksa keuangan negara lain yang menjadi anggota organisasi
+35        pemeriksa keuangan sedunia.
+
+     Badan Pemeriksa Keuangan                                                      15
+                                                           Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    Manajemen dan Keahlian Tim Pemeriksa
+
+2    50. BPK menjamin Pemeriksa memiliki keahlian yang diperlukan. Tim
+3        Pemeriksa harus secara kolektif memiliki pengetahuan, pengalaman,
+4        dan    kompetensi      yang   diperlukan    dalam      Pemeriksaan. Hal       ini
+5        termasuk pengetahuan dan pengalaman praktis dari Pemeriksaan
+6        yang dilakukan, pemahaman atas standar dan ketentuan peraturan
+7        perundang-undangan, pemahaman tentang operasional entitas, serta
+8        kemampuan dan pengalaman untuk mempraktikkan pertimbangan
+9        profesional. BPK merekrut sumber daya manusia dengan kualifikasi
+10       yang sesuai, memberikan pelatihan dan pengembangan kapasitas,
+11       menyiapkan standar dan pedoman pemeriksaan, serta menyediakan
+12       sumber       daya    pemeriksaan     yang     cukup. Pemeriksa         menjaga
+13       kompetensi profesional mereka melalui pengembangan profesional
+14       berkelanjutan.
+
+15   51. Pengembangan kapasitas pemeriksa mencakup pertukaran ide dan
+16       pengalaman          pemeriksaan      dengan        komunitas         pemeriksa
+17       internasional. Hal tersebut diwujudkan dalam kongres, pelatihan,
+18       seminar, dan kelompok kerja di tingkat internasional.
+
+19   52. Pemeriksa dapat menggunakan hasil pekerjaan Aparat Pengawasan
+20       Intern Pemerintah, tenaga ahli dan/atau tenaga pemeriksa di luar
+21       BPK. Prosedur pemeriksaan harus memberikan dasar yang cukup
+22       saat   menggunakan       hasil    kerja   pihak    lain.   Pemeriksa      harus
+23       memperoleh bukti yang menjamin kompetensi dan independensi
+24       tenaga ahli dan/atau tenaga pemeriksa di luar BPK, serta kualitas
+25       hasil pekerjaannya.
+
+26   53. Penggunaan hasil pekerjaan Aparat Pengawasan Intern Pemerintah
+27       tersebut untuk meningkatkan koordinasi dan kerja sama, serta
+28       mengurangi kemungkinan duplikasi pekerjaan. Hal ini dimungkinkan
+29       karena pada prinsipnya, baik Pemeriksa maupun Aparat Pengawasan
+30       Intern Pemerintah bertujuan mendorong tata kelola pemerintahan
+31       yang baik.
+
+32   54. Aparat Pengawasan Intern Pemerintah menggunakan SPKN dalam
+33       melaksanakan audit kinerja dan audit dengan tujuan tertentu.
+
+34
+
+
+     Badan Pemeriksa Keuangan                                                         16
+                                                            Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    Risiko Pemeriksaan
+
+2    55. Pemeriksa     mewaspadai,        menyadari,     mempertimbangkan,            dan
+3        mengelola risiko pemeriksaan. Risiko pemeriksaan adalah risiko
+4        bahwa    hasil    pemeriksaan      tidak   sesuai     dengan     kondisi    yang
+5        sebenarnya. Pemeriksa mengembangkan prosedur pemeriksaan dan
+6        melaksanakannya dengan tujuan mengurangi risiko pemeriksaan.
+
+7
+8    Materialitas dalam Pemeriksaan Keuangan Negara
+
+9    56. Pemeriksa        mempertimbangkan          materialitas        pada        proses
+10       pemeriksaan. Konsep materialitas bersifat relevan untuk semua
+11       pemeriksaan. Sesuatu bersifat material jika pengetahuan mengenai
+12       hal tersebut dapat memengaruhi pengambilan keputusan oleh
+13       pengguna LHP. Materialitas ditentukan menggunakan pertimbangan
+14       profesional dan bergantung pada interpretasi pemeriksa terhadap
+15       kebutuhan pengguna LHP dan ketentuan peraturan perundang-
+16       undangan.     Materialitas   memiliki      aspek     kuantitatif    dan    aspek
+17       kualitatif.   Pertimbangan       materialitas   memengaruhi          keputusan
+18       mengenai sifat, saat, dan lingkup prosedur pemeriksaan dan evaluasi
+19       hasil pemeriksaan.
+
+20
+21   Dokumentasi Pemeriksaan
+
+22   57. Dokumentasi pemeriksaan yang memadai memberikan pemahaman
+23       yang jelas atas prosedur pemeriksaan yang dilakukan, bukti yang
+24       diperoleh dan kesimpulan. Dokumentasi pemeriksaan dapat berupa
+25       dokumen       fisik    maupun      dokumen      elektronis.        Dokumentasi
+26       menyediakan informasi bagi Pemeriksa yang berpengalaman dan
+27       tanpa pengetahuan sebelumnya mengenai pemeriksaan tersebut,
+28       untuk dapat memahami: (1) sifat, saat, lingkup, dan hasil dari
+29       prosedur yang dilakukan, (2) bukti yang diperoleh untuk mendukung
+30       kesimpulan pemeriksaan, (3) alasan di balik semua hal signifikan
+31       yang memerlukan pertimbangan profesional, dan (4) kesimpulan.
+32       Dokumentasi pemeriksaan harus dikelola dalam suatu sistem
+33       pengelolaan dokumentasi pemeriksaan yang aman, tidak cepat rusak,
+34       teratur, efisien, dan efektif.
+
+
+     Badan Pemeriksa Keuangan                                                          17
+                                                     Kerangka Konseptual Pemeriksaan
+
+
+
+
+1    Komunikasi Pemeriksaan
+
+2    58. Pemeriksa membangun komunikasi yang efisien dan efektif pada
+3        seluruh proses pemeriksaan.
+
+4    59. Komunikasi mencakup proses yang digunakan oleh BPK atau
+5        Pemeriksa dalam pemerolehan data dan informasi dalam rangka
+6        pengumpulan       bukti    pemeriksaan     dan     penyampaian       hasil
+7        pemeriksaan kepada pihak yang bertanggung jawab. Pemeriksa dapat
+8        mengomunikasikan hal-hal terkait pemeriksaan kepada pemangku
+9        kepentingan    sesuai     dengan    ketentuan    peraturan   perundang-
+10       undangan.
+
+11
+12   PENGEMBANGAN STANDAR PEMERIKSAAN
+13
+14   60. Pengembangan standar pemeriksaan meliputi prosedur penyusunan
+15       standar, revisi standar, dan interpretasi standar. Pengembangan
+16       standar pemeriksaan mempertimbangkan perkembangan standar di
+17       lingkungan profesi secara nasional maupun internasional. Proses
+18       pengembangan standar pemeriksaan mencakup langkah-langkah
+19       yang perlu ditempuh secara cermat (due process) agar dihasilkan
+20       standar pemeriksaan yang diterima secara umum. Langkah-langkah
+21       tersebut antara lain konsultasi dengan pemerintah, organisasi profesi
+22       di    bidang    pemeriksaan,       dan   mempertimbangkan         standar
+23       pemeriksaan internasional.
+
+24   61. Penyusunan standar pemeriksaan dilakukan berdasarkan acuan
+25       kerangka konseptual ini. Langkah-langkah penyusunan standar
+26       pemeriksaan meliputi pengidentifikasian topik atau masalah, riset
+27       terbatas, penulisan draft standar, peluncuran exposure draft standar,
+28       dengar pendapat exposure draft standar, pembahasan tanggapan dan
+29       masukan atas exposure draft standar, konsultasi draft standar
+30       dengan Pemerintah, dan finalisasi serta penetapan standar.
+
+31   62. Revisi standar pemeriksaan dapat berupa revisi mayor dan revisi
+32       minor atas standar pemeriksaan. Revisi mayor adalah penambahan,
+33       pengurangan, atau perubahan menyeluruh suatu subbab di dalam
+34       pernyataan standar pemeriksaan, sedangkan revisi minor adalah
+35       penambahan, pengurangan, atau perubahan istilah penting, kalimat
+     Badan Pemeriksa Keuangan                                                   18
+                                                         Kerangka Konseptual Pemeriksaan
+
+
+
+
+1        dan/atau    paragraf     dalam    suatu     subbab    pernyataan      standar
+2        pemeriksaan.
+
+3    63. Interpretasi standar pemeriksaan adalah penjelasan, klarifikasi, dan
+4        uraian lebih lanjut atas standar pemeriksaan.
+
+5    64. Pengaturan atas pengembangan standar pemeriksaan ditetapkan
+6        lebih lanjut oleh BPK.
+
+7    65. Peninjauan kembali standar pemeriksaan perlu dilakukan dalam hal
+8        terjadi perubahan dalam lingkungan pemeriksaan keuangan negara.
+
+9
+10   HUBUNGAN      KERANGKA        KONSEPTUAL,        KETENTUAN         PERATURAN
+11   PERUNDANG-UNDANGAN, STANDAR PEMERIKSAAN, DAN KETENTUAN
+12   LAIN
+13
+14   66. Kerangka Konseptual ini tidak menggantikan ketentuan peraturan
+15       perundang-undangan        di   Indonesia.   Kerangka     Konseptual      tidak
+16       menetapkan ketentuan dan prosedur pemeriksaan. Ketentuan dan
+17       prosedur tersebut akan diatur dalam standar pemeriksaan yang
+18       dikembangkan dengan mengacu pada Kerangka Konseptual ini dan
+19       tidak   bertentangan     dengan     ketentuan     peraturan      perundang-
+20       undangan.
+
+21   67. Selain standar pemeriksaan, BPK juga menerbitkan kode etik,
+22       standar pengendalian mutu, ketentuan penggunaan pemeriksa dari
+23       luar BPK, ketentuan tentang pemantauan tindak lanjut hasil
+24       pemeriksaan BPK, dan ketentuan-ketentuan lain.
+
+25   68. Sebagai penjabaran dari standar pemeriksaan, BPK menerbitkan
+26       petunjuk pelaksanaan, petunjuk teknis pemeriksaan, pedoman
+27       manajemen      pemeriksaan,      dan   ketentuan      lain   yang     bersifat
+28       penjabaran.
+
+
+
+
+     Badan Pemeriksa Keuangan                                                       19
+                                                  Kerangka Konseptual Pemeriksaan
+
+
+
+
+1     69. Peninjauan kembali Kerangka Konseptual perlu dilakukan dalam hal
+2         terjadi perubahan dalam lingkungan pemeriksaan keuangan negara.
+
+
+
+                                       KETUA BADAN PEMERIKSA KEUANGAN
+                                             REPUBLIK INDONESIA,
+                                                     ttd
+
+                                              HARRY AZHAR AZIS
+
+
+
+    Salinan sesuai dengan aslinya
+    BADAN PEMERIKSA KEUANGAN REPUBLIK INDONESIA
+     Kepala Direktorat Utama Pembinaan dan Pengembangan
+             Hukum Pemeriksaan Keuangan Negara,
+
+                                 ttd
+
+                      Nizam Burhanuddin
+
+
+
+
+      Badan Pemeriksa Keuangan                                               20
+   LAMPIRAN II
+   PERATURAN     BADAN   PEMERIKSA   KEUANGAN
+   REPUBLIK INDONESIA
+   NOMOR 1 TAHUN 2017
+   TENTANG
+   STANDAR PEMERIKSAAN KEUANGAN NEGARA
+
+
+
+
+   PSP 100
+STANDAR UMUM
+                                                                                       PSP 100 – Standar Umum
+
+
+
+
+                                                DAFTAR ISI
+
+
+                                                                                                    Paragraf
+PENDAHULUAN
+    Ruang Lingkup…………. ..........................................................                      1-2
+    Tanggal Efektif .........................................................................          3
+TUJUAN..................................................................................               4
+DEFINISI ................................................................................              5
+KETENTUAN
+    Etika .......................................................................................      6
+    Independensi, Integritas, dan Profesionalisme ..........................                           7-8
+    Pengendalian Mutu ..................................................................              9-12
+    Kompetensi..............................................................................         13-19
+    Pertimbangan                Ketidakpatuhan,                  Kecurangan                dan
+    Ketidakpatutan ........................................................................          20-24
+    Komunikasi Pemeriksaan ........................................................                  25-28
+    Dokumentasi Pemeriksaan ......................................................                   29-31
+    Hubungan dengan Standar Profesi yang Digunakan oleh
+    Akuntan Publik .......................................................................             32
+    Kewajiban         Aparat        Pengawasan            Intern      Pemerintah           dan
+    Akuntan Publik dalam Pemeriksaan Keuangan Negara ............                                      33
+MATERI PENERAPAN DAN PENJELASAN LAIN
+    Independensi, Integritas dan Profesionalisme ...........................                         A1-A9
+    Kompetensi.............................................................................. A10-A12
+    Pertimbangan                Ketidakpatuhan,                 Kecurangan,                dan
+    Ketidakpatutan ........................................................................           A13
+    Komunikasi Pemeriksaan ........................................................                   A14
+
+
+
+
+Badan Pemeriksa Keuangan
+                                                         PSP 100 – Standar Umum
+
+
+
+
+1                   PERNYATAAN STANDAR PEMERIKSAAN 100
+2                                STANDAR UMUM
+
+3
+4    PENDAHULUAN
+5
+6    Ruang Lingkup
+
+7    1.   PSP ini mengatur standar umum untuk melaksanakan pemeriksaan
+8         keuangan, pemeriksaan kinerja, dan PDTT.
+
+9    2.   Standar umum ini berkaitan dengan etika; independensi, integritas,
+10        dan profesionalisme; pengendalian mutu; kompetensi; pertimbangan
+11        ketidakpatuhan,   kecurangan,   dan   ketidakpatutan;   komunikasi
+12        pemeriksaan; dan dokumentasi pemeriksaan dalam pelaksanaan dan
+13        pelaporan hasil pemeriksaan; hubungan dengan standar profesi yang
+14        digunakan oleh akuntan publik; serta kewajiban Aparat Pengawasan
+15        Intern Pemerintah dan akuntan publik dalam pemeriksaan keuangan
+16        negara.
+
+17
+18   Tanggal Efektif
+
+19   3.   PSP ini berlaku dan mempunyai kekuatan hukum mengikat sejak
+20        tanggal diundangkan.
+
+21
+22   TUJUAN
+23
+24   4.   Tujuan pemeriksa dalam melaksanakan Standar Umum adalah
+25        sebagai dasar untuk dapat menerapkan standar pelaksanaan dan
+26        standar pelaporan secara efektif. Dengan demikian, standar umum
+27        ini harus diikuti oleh BPK dan semua Pemeriksa yang melaksanakan
+28        pemeriksaan berdasarkan Standar Pemeriksaan.
+
+29
+30
+31
+32
+33
+34
+
+     Badan Pemeriksa Keuangan                                             1
+                                                                    PSP 100 – Standar Umum
+
+
+
+
+1    DEFINISI
+2
+3    5.   Untuk tujuan standar ini, istilah di bawah ini bermakna sebagai
+4         berikut:
+5         a.   Badan Pemeriksa Keuangan yang selanjutnya disingkat BPK
+6              adalah lembaga negara yang memiliki tugas dan wewenang
+7              untuk memeriksa pengelolaan dan tanggung jawab keuangan
+8              negara.
+9         b.   Pemeriksa adalah orang yang melaksanakan tugas pemeriksaan
+10             pengelolaan dan tanggung jawab keuangan negara untuk dan
+11             atas nama BPK.
+12        c.   Hal pokok (subject matter) adalah hal-hal yang diperiksa
+13             dan/atau      hal-hal    yang   menjadi      perhatian     dalam     suatu
+14             penugasan pemeriksaan, yang dapat berupa informasi, kondisi,
+15             atau aktivitas yang dapat diukur/dievaluasi berdasarkan kriteria
+16             tertentu.
+17        d.   Informasi hal pokok (subject matter information) adalah hasil
+18             evaluasi atau hasil pengukuran hal pokok terhadap kriteria.
+19        e.   Etika adalah suatu sikap dan perilaku yang menunjukkan
+20             kesediaan dan kesanggupan seseorang secara sadar untuk
+21             menaati ketentuan dan norma yang berlaku dalam suatu
+22             organisasi.
+23        f.   Kode Etik BPK yang selanjutnya disebut Kode Etik adalah
+24             norma-norma yang harus dipatuhi oleh setiap Anggota BPK dan
+25             Pemeriksa     selama     menjalankan      tugasnya      untuk     menjaga
+26             martabat, kehormatan, citra, dan kredibilitas BPK.
+27        g.   Independensi     adalah     suatu    sikap     dan     tindakan      dalam
+28             melaksanakan       pemeriksaan       untuk     tidak     memihak      dan
+29             dipandang     tidak     memihak     kepada    siapapun,      serta   tidak
+30             dipengaruhi dan dipandang tidak dipengaruhi oleh siapapun.
+31        h.   Integritas adalah mutu, sifat, atau keadaan yang menunjukkan
+32             kesatuan yang utuh, dimilikinya sifat jujur, kerja keras, serta
+33             kompetensi yang memadai.
+34        i.   Profesionalisme adalah kemampuan, keahlian, dan komitmen
+35             profesi dalam menjalankan tugas.
+
+
+
+     Badan Pemeriksa Keuangan                                                        2
+                                                                   PSP 100 – Standar Umum
+
+
+
+
+1        j.   Profesional adalah hal yang berkaitan dengan sebuah profesi
+2             yang memerlukan kepandaian khusus untuk menjalankannya.
+3        k.   Skeptisisme profesional adalah sikap yang mencakup pikiran
+4             yang selalu mempertanyakan dan melakukan evaluasi secara
+5             kritis terhadap bukti pemeriksaan atau hal-hal lain selama
+6             pemeriksaan.
+7        l.   Pertimbangan profesional adalah penerapan dari pengetahuan
+8             kolektif, keterampilan, etika, dan pengalaman pemeriksa pada
+9             proses pemeriksaan.
+10       m.   Standar pengendalian mutu adalah patokan untuk menilai
+11            sejauh mana proses pemeriksaan berjalan sesuai standar
+12            pemeriksaan.
+13       n.   Sistem pengendalian mutu adalah seperangkat prosedur dan
+14            kebijakan yang diterapkan untuk memastikan praktik-praktik
+15            pemeriksaan sesuai dengan standar dan ketentuan peraturan
+16            perundang-undangan.
+17       o.   Kompetensi     adalah   pendidikan,        pengetahuan,     pengalaman,
+18            dan/atau    keahlian    yang    dimiliki    seseorang,     baik   tentang
+19            pemeriksaan maupun tentang hal-hal atau bidang tertentu.
+20       p.   Kompeten     adalah     cakap   atau       mampu      di   bidang    yang
+21            dikuasainya.
+22       q.   Tenaga ahli adalah orang yang memiliki keahlian dalam hal-hal
+23            atau bidang tertentu, yang dibutuhkan dalam pemeriksaan dan
+24            bukan merupakan Pemeriksa.
+25       r.   Kecurangan (fraud) adalah perbuatan yang mengandung unsur
+26            kesengajaan, niat, menguntungkan diri sendiri atau orang lain,
+27            penipuan,         penyembunyian        atau       penggelapan,        dan
+28            penyalahgunaan         kepercayaan         yang      bertujuan      untuk
+29            memperoleh keuntungan secara tidak sah yang dapat berupa
+30            uang, barang/harta, jasa, dan tidak membayar jasa, yang
+31            dilakukan oleh satu individu atau lebih dari pihak yang
+32            bertanggung jawab atas tata kelola, pegawai, atau pihak ketiga.
+33       s.   Ketidakpatutan (abuse) adalah perilaku yang kurang atau tidak
+34            layak dilakukan bila dibandingkan dengan perilaku orang yang
+35            bijaksana      dan      menggunakan           akal      sehat     dengan
+
+
+
+     Badan Pemeriksa Keuangan                                                       3
+                                                                     PSP 100 – Standar Umum
+
+
+
+
+1              mempertimbangkan praktik tata kelola keuangan publik yang
+2              baik.
+3         t.   Faktor risiko kecurangan adalah peristiwa atau kondisi yang
+4              mengindikasikan         insentif    atau    tekanan    untuk    melakukan
+5              kecurangan       atau    memberikan         peluang    untuk    melakukan
+6              kecurangan.
+7         u.   Indikasi awal kecurangan adalah gejala-gejala (red flags) yang
+8              menunjukkan kemungkinan terjadinya kecurangan.
+9         v.   Predikasi adalah keseluruhan dari peristiwa, keadaan pada saat
+10             peristiwa itu, dan segala hal yang terkait atau berkaitan yang
+11             dapat    membawa         seseorang         yang    memiliki    akal   sehat,
+12             profesional, dan memiliki tingkat kehati-hatian, untuk yakin
+13             bahwa fraud telah, sedang atau akan terjadi. Predikasi adalah
+14             dasar    untuk    memulai          PDTT    dalam     bentuk    pemeriksaan
+15             investigatif.
+16        w.   Komunikasi pemeriksaan adalah proses yang digunakan oleh
+17             BPK atau Pemeriksa dalam pemerolehan data dan informasi
+18             dalam     rangka        pengumpulan          bukti     pemeriksaan      dan
+19             penyampaian hasil pemeriksaan kepada pihak yang bertanggung
+20             jawab.
+21        x.   Dokumentasi pemeriksaan adalah dokumentasi atas prosedur
+22             pemeriksaan yang telah dilakukan, bukti pemeriksaan yang
+23             cukup dan tepat yang diperoleh, dan kesimpulan yang ditarik
+24             oleh Pemeriksa.
+
+25
+26   KETENTUAN
+27
+28   Etika
+
+29   6.   Anggota BPK dan Pemeriksa harus melaksanakan pemeriksaan
+30        sesuai dengan prinsip-prinsip etika sebagai elemen penting nilai
+31        akuntabilitas dan harapan publik kepada BPK dan Pemeriksa dalam
+32        melaksanakan pemeriksaan.
+
+33
+34
+35
+
+
+     Badan Pemeriksa Keuangan                                                          4
+                                                              PSP 100 – Standar Umum
+
+
+
+
+1    Independensi, Integritas, dan Profesionalisme
+
+2    7.   Anggota BPK dan Pemeriksa dalam melaksanakan tugas dan
+3         wewenangnya      harus     mematuhi    prinsip-prinsip     etika    yaitu
+4         independensi, integritas, dan profesionalisme yang merupakan nilai-
+5         nilai dasar BPK. (Ref. Para. A1-A2)
+
+6    8.   Pemeriksa harus menggunakan kemahiran profesional secara cermat
+7         dan seksama, skeptisisme profesional, dan pertimbangan profesional
+8         di seluruh proses pemeriksaan. (Ref. Para. A3-A9)
+
+9
+10   Pengendalian Mutu
+
+11   9.   BPK harus menetapkan suatu standar pengendalian mutu untuk
+12        memastikan kualitas hasil pemeriksaan.
+
+13   10. Dalam    menerapkan       standar   pengendalian    mutu,    BPK    harus
+14        menetapkan dan mengembangkan sistem pengendalian mutu untuk
+15        memastikan agar Pemeriksaan sesuai dengan standar pemeriksaan
+16        dan ketentuan peraturan perundang-undangan.
+
+17   11. Sistem pengendalian mutu terdiri dari prosedur dan kebijakan untuk
+18        memastikan pemerolehan hasil pemeriksaan yang bermutu tinggi
+19        sesuai dengan standar pemeriksaan dan ketentuan peraturan
+20        perundang-undangan.
+
+21   12. Pemeriksa harus menerapkan sistem pengendalian mutu pada saat
+22        penugasan     untuk      memberikan    keyakinan     memadai       bahwa
+23        Pemeriksaan sesuai dengan standar pemeriksaan dan ketentuan
+24        peraturan perundang-undangan, dan LHP adalah tepat sesuai
+25        dengan kondisinya.
+
+26
+27   Kompetensi
+
+28   13. Pemeriksa secara kolektif harus memiliki kompetensi profesional
+29        yang memadai untuk melaksanakan tugas pemeriksaan. Kompetensi
+30        profesional tersebut dibuktikan dengan sertifikat profesional yang
+31        diterbitkan oleh lembaga yang berwenang atau dokumen lainnya
+32        yang menyatakan keahlian. (Ref: Para. A10 – A11)
+
+33
+
+
+     Badan Pemeriksa Keuangan                                                  5
+                                                                 PSP 100 – Standar Umum
+
+
+
+
+1    14. BPK     harus    menentukan      kompetensi    yang     dibutuhkan     untuk
+2          memastikan     Pemeriksa     memiliki    keahlian   yang    sesuai   untuk
+3          melakukan penugasan pemeriksaan.
+
+4    15. Pemeriksa harus memelihara kompetensinya melalui pendidikan
+5          profesional berkelanjutan paling singkat 80 (delapan puluh) jam
+6          dalam 2 (dua) tahun.
+
+7
+8    Penggunaan Tenaga Ahli
+
+9    16. BPK dapat menggunakan tenaga ahli yang kompeten. (Ref: Para. A12)
+
+10   17. Dalam penggunaan tenaga ahli, BPK harus meyakini bahwa tenaga
+11         ahli tersebut independen, memenuhi kualifikasi, kompeten dalam
+12         bidangnya, dan harus mendokumentasikan keyakinan tersebut.
+
+13
+14   Penggunaan Tenaga Pemeriksa di Luar BPK
+
+15   18. BPK dapat menggunakan tenaga pemeriksa di luar BPK dan harus
+16         independen dan memiliki kompetensi yang diperlukan. Kompetensi
+17         tenaga   pemeriksa     di   luar   BPK   dibuktikan    dengan     sertifikat
+18         profesional yang diterbitkan oleh lembaga yang berwenang atau
+19         dokumen lainnya yang menyatakan keahlian.
+
+20
+21   Pendidikan Berkelanjutan Bagi Tenaga Ahli dan Tenaga Pemeriksa di Luar
+22   BPK
+
+23   19. BPK bertanggung jawab untuk memastikan tenaga ahli dan tenaga
+24         pemeriksa di luar BPK yang terlibat dalam proses pemeriksaan
+25         memenuhi persyaratan pendidikan berkelanjutan.
+
+26
+27   Pertimbangan Ketidakpatuhan, Kecurangan, dan Ketidakpatutan
+
+28   20. Pemeriksa       harus   merancang     pemeriksaan     untuk     memberikan
+29         keyakinan yang memadai guna mendeteksi ketidakpatuhan terhadap
+30         ketentuan peraturan perundang-undangan, kontrak, dan produk
+31         hukum lainnya yang berpengaruh langsung dan material terhadap
+32         hal pokok/informasi hal pokok yang diperiksa. Pengaruh langsung
+33         dan material dapat berupa:
+
+     Badan Pemeriksa Keuangan                                                     6
+                                                                    PSP 100 – Standar Umum
+
+
+
+
+1        a.   hal yang menyebabkan salah saji dalam laporan keuangan;
+2        b.   hal yang menyebabkan penyimpangan kinerja terkait aspek
+3             ekonomis, efisiensi, dan efektivitas;
+4        c.   hal     yang      menyebabkan        kekurangan        penerimaan      dan
+5             penyimpangan administrasi; dan/atau
+6        d.   hal    yang    menyebabkan          potensi    kerugian     negara/daerah
+7             dan/atau kerugian keuangan negara/daerah.
+
+8    21. Pemeriksa harus mengindentifikasi faktor risiko kecurangan dan
+9        menilai risiko adanya ketidakpatuhan terhadap ketentuan peraturan
+10       perundang-undangan yang disebabkan oleh kecurangan (fraud)
+11       dan/atau ketidakpatutan (abuse). Risiko tersebut harus dianggap
+12       sebagai risiko yang signifikan (significant risks) dan Pemeriksa harus
+13       memperoleh pemahaman tentang pengendalian yang terkait dengan
+14       risiko tersebut. (Ref: Para. A13)
+
+15   22. Apabila     terdapat     risiko    ketidakpatuhan       terhadap     ketentuan
+16       peraturan perundang-undangan yang berindikasi kecurangan dan
+17       ketidakpatutan         yang     secara     signifikan      memengaruhi       hal
+18       pokok/informasi        hal    pokok    yang   diperiksa,    Pemeriksa     harus
+19       memodifikasi prosedur untuk mengidentifikasi terjadinya kecurangan
+20       dan/atau ketidakpatutan, serta menentukan dampaknya terhadap
+21       hal pokok/informasi hal pokok yang diperiksa.
+
+22   23. Pemeriksa      harus         mengungkapkan         ketidakpatuhan      terhadap
+23       ketentuan     peraturan         perundang-undangan          yang    berindikasi
+24       kecurangan, ketidakpatutan, dan/atau kerugian negara/daerah,
+25       serta ketidakpatuhan yang berpengaruh langsung dan material
+26       terhadap hal pokok/informasi hal pokok yang diperiksa sesuai
+27       ketentuan.
+
+28   24. PDTT dalam bentuk pemeriksaan investigatif hanya dilakukan ketika
+29       terdapat predikasi yang memadai. Predikasi dapat berasal dari
+30       temuan     pemeriksaan        selain   PDTT   dalam     bentuk     pemeriksaan
+31       investigatif, informasi pihak internal maupun eksternal BPK. Temuan
+32       atau informasi tersebut harus diuji kelayakannya sebelum bisa
+33       diterima sebagai predikasi.
+
+34
+35
+
+     Badan Pemeriksa Keuangan                                                        7
+                                                                           PSP 100 – Standar Umum
+
+
+
+
+1    Komunikasi Pemeriksaan
+
+2    25. Pemeriksa harus membangun komunikasi yang efisien dan efektif di
+3        seluruh proses pemeriksaan, supaya proses pemeriksaan berjalan
+4        dengan      lancar     dan       hasil     pemeriksaan      dapat     dimengerti    dan
+5        ditindaklanjuti      oleh     pihak        yang       bertanggung    jawab      dan/atau
+6        pemangku kepentingan terkait. (Ref: Para. A14)
+
+7    26. Pemeriksa harus menggunakan pertimbangan profesional untuk
+8        menentukan bentuk, isi, dan intensitas komunikasi.
+
+9    27. Apabila ada penghentian pemeriksaan, Pemeriksa harus memberikan
+10       penjelasan        secara     tertulis      kepada       pejabat     yang   memberikan
+11       penugasan.
+
+12   28. BPK harus mengomunikasikan secara tertulis alasan penghentian
+13       pemeriksaan kepada entitas yang diperiksa, entitas yang meminta
+14       dilakukan pemeriksaan, lembaga perwakilan, dan/atau instansi
+15       penegak hukum.
+
+16
+17   Dokumentasi Pemeriksaan
+
+18   29. Pemeriksa         harus     menyusun            dokumentasi       pemeriksaan       yang
+19       memadai secara tepat waktu pada seluruh tahapan pemeriksaan dan
+20       memberikan pemahaman yang jelas atas prosedur pemeriksaan yang
+21       dilakukan, pertimbangan profesional, bukti yang diperoleh, dan
+22       kesimpulan yang dibuat.
+
+23   30. Pemeriksa         harus     menyusun            dokumentasi       pemeriksaan      guna
+24       memberikan informasi yang jelas dan memadai. Melalui dokumentasi
+25       tersebut,    Pemeriksa           lain    yang     tidak   memiliki     latar    belakang
+26       pengetahuan atas pemeriksaan tersebut dapat memahami sifat,
+27       waktu,      lingkup,       dan     hasil       dari   prosedur    pemeriksaan       yang
+28       dilaksanakan, bukti yang diperoleh dalam mendukung temuan,
+29       kesimpulan, dan rekomendasi pemeriksaan, serta alasan dibalik
+30       semua       hal     signifikan          yang     dibutuhkan       dalam        mengambil
+31       pertimbangan profesional dan kesimpulan terkait.
+
+32   31. BPK harus mengembangkan sistem dokumentasi pemeriksaan yang
+33       efisien dan efektif sesuai dengan ketentuan peraturan perundang-
+34       undangan.
+
+     Badan Pemeriksa Keuangan                                                                8
+                                                               PSP 100 – Standar Umum
+
+
+
+
+1    Hubungan dengan Standar Profesi yang Digunakan oleh Akuntan
+2    Publik
+
+3    32. Dalam       pemeriksaan     keuangan,      Standar        Pemeriksaan       ini
+4          memberlakukan standar audit yang dimuat dalam SPAP yang
+5          ditetapkan oleh asosiasi profesi akuntan publik, sepanjang tidak
+6          diatur lain dalam Standar Pemeriksaan ini.
+
+7    Kewajiban Aparat Pengawasan Intern Pemerintah dan Akuntan Publik
+8    dalam Pemeriksaan Keuangan Negara
+
+9    33. Aparat Pengawasan Intern Pemerintah yang melaksanakan audit
+10         kinerja dan audit dengan tujuan tertentu, dan akuntan publik yang
+11         memeriksa keuangan negara berdasarkan ketentuan undang-undang
+12         wajib melaksanakan seluruh ketentuan yang relevan dalam Standar
+13         Pemeriksaan ini.
+
+14
+15   MATERI PENERAPAN DAN PENJELASAN LAIN
+16
+17   Independensi, Integritas, dan Profesionalisme
+
+18   Independensi (Ref: Para. 7)
+
+19   A1.   BPK perlu memperhatikan gangguan pribadi terhadap independensi
+20         pemeriksanya. Gangguan pribadi yang disebabkan oleh suatu
+21         hubungan       dan   pandangan     pribadi     mungkin    mengakibatkan
+22         Pemeriksa membatasi lingkup pertanyaan dan pengungkapan atau
+23         melemahkan       temuan   dalam      segala     bentuknya.     Pemeriksa
+24         bertanggung jawab untuk memberitahukan kepada pejabat yang
+25         berwenang di BPK apabila memiliki gangguan pribadi terhadap
+26         independensi. Gangguan pribadi dari pemeriksa secara individu
+27         antara lain:
+28         a.   memiliki hubungan pertalian darah ke atas, ke bawah, atau
+29              semenda     sampai   dengan     derajat    kedua    dengan   jajaran
+30              manajemen entitas atau program yang diperiksa;
+31         b.   memiliki kepentingan keuangan baik secara langsung maupun
+32              tidak langsung pada entitas atau program yang diperiksa;
+
+
+
+
+     Badan Pemeriksa Keuangan                                                    9
+                                                                 PSP 100 – Standar Umum
+
+
+
+
+1          c.   pernah bekerja atau memberikan jasa kepada entitas atau
+2               program yang diperiksa dalam kurun waktu 2 (dua) tahun
+3               terakhir;
+4          d.   mempunyai hubungan kerja sama dengan entitas atau program
+5               yang diperiksa; dan
+6          e.   terlibat baik secara langsung maupun tidak langsung dalam
+7               kegiatan objek pemeriksaan, seperti memberikan asistensi, jasa
+8               konsultasi, pengembangan sistem, menyusun dan/atau mereviu
+9               laporan keuangan entitas atau program yang diperiksa.
+
+10
+11   Integritas (Ref: Para.7)
+
+12   A2.   Integritas antara lain diwujudkan dalam sikap jujur, objektif, dan
+13         tegas dalam menerapkan prinsip, nilai, dan keputusan. Gangguan
+14         terhadap integritas meliputi antara lain:
+15         a.   meminta dan/atau menerima uang, barang, dan/atau fasilitas
+16              lainnya baik langsung maupun tidak langsung dari pihak yang
+17              terkait dengan pemeriksaan;
+18         b.   menghambat         pelaksanaan      tugas     pemeriksaan       untuk
+19              kepentingan pribadi, seseorang, dan/atau golongan;
+20         c.   memaksakan kehendak pribadi kepada pihak yang diperiksa;
+21              dan
+22         d.   mengubah temuan atau memerintahkan untuk mengubah
+23              temuan pemeriksaan, opini, kesimpulan, dan rekomendasi hasil
+24              pemeriksaan yang tidak sesuai fakta dan/atau bukti-bukti
+25              dalam Pemeriksaan.
+
+26
+27   Kemahiran Profesional (Ref: Para. 8)
+
+28   A3.   Pemeriksa harus menggunakan kemahiran profesional secara cermat
+29         dan seksama dalam menentukan jenis pemeriksaan yang akan
+30         dilaksanakan,        menentukan       lingkup    pemeriksaan,      memilih
+31         metodologi,      menentukan   jenis    dan   jumlah   bukti   yang    akan
+32         dikumpulkan, atau dalam memilih pengujian dan prosedur untuk
+33         melaksanakan pemeriksaan, serta dalam melakukan penilaian dan
+34         pelaporan hasil pemeriksaan.
+
+35
+
+     Badan Pemeriksa Keuangan                                                    10
+                                                                PSP 100 – Standar Umum
+
+
+
+
+1    Skeptisisme Profesional (Ref: Para. 8)
+
+2    A4.   Pemeriksa harus merencanakan, melaksanakan, dan melaporkan
+3          pemeriksaan    dengan      sikap   skeptisisme   profesional.   Pemeriksa
+4          mengakui bahwa keadaan tertentu dapat menyebabkan hal pokok
+5          menyimpang dari kriteria. Sikap skeptisisme profesional berarti
+6          Pemeriksa membuat penilaian kritis dengan pikiran yang selalu
+7          mempertanyakan kecukupan dan ketepatan bukti yang diperoleh
+8          selama pemeriksaan.
+
+9    A5.   Pemeriksa    harus   menggunakan       skeptisisme   profesional    dalam
+10         menilai risiko terjadinya kecurangan yang secara signifikan untuk
+11         menentukan faktor-faktor atau risiko-risiko yang secara signifikan
+12         dapat mempengaruhi pekerjaan pemeriksa apabila kecurangan
+13         terjadi atau mungkin telah terjadi.
+
+14   A6.   Pemeriksa harus menggunakan skeptisisme profesional terhadap hal-
+15         hal, antara lain, sebagai berikut:
+16         a.   bukti    pemeriksaan      yang     bertentangan     dengan      bukti
+17              pemeriksaan lain yang diperoleh;
+18         b.   informasi yang menimbulkan pertanyaan tentang keandalan
+19              dokumen dan tanggapan terhadap permintaan keterangan yang
+20              digunakan sebagai bukti pemeriksaan;
+21         c.   keadaan yang mengindikasikan adanya kecurangan dan/atau
+22              ketidakpatutan; dan
+23         d.   kondisi yang memungkinkan perlunya prosedur pemeriksaan
+24              tambahan selain prosedur yang dipersyaratkan dalam pedoman
+25              pemeriksaan.
+
+26
+27   Pertimbangan Profesional (Ref: Para. 8)
+
+28   A7.   Pemeriksa harus menggunakan pertimbangan profesional dalam
+29         membuat keputusan tentang:
+30         a.   hal pokok/informasi hal pokok;
+31         b.   kriteria yang sesuai;
+32         c.   pihak-pihak yang terkait pemeriksaan;
+33         d.   tingkat keyakinan;
+34         e.   lingkup pemeriksaan;
+35         f.   risiko pemeriksaan;
+     Badan Pemeriksa Keuangan                                                   11
+                                                                     PSP 100 – Standar Umum
+
+
+
+
+1          g.   prosedur pemeriksaan yang akan digunakan terkait dengan
+2               risiko pemeriksaan; dan
+3          h.   materialitas.
+
+4    A8.   Pemeriksa juga harus menggunakan pertimbangan profesional dalam
+5          mengevaluasi kecukupan dan ketepatan bukti pemeriksaan yang
+6          diperoleh, dan langkah-langkah untuk mencapai tujuan keseluruhan
+7          pemeriksaan telah dilakukan.
+
+8    A9.   Pemeriksa harus menggunakan pertimbangan profesional dalam
+9          membuat       kesimpulan     berdasarkan        bukti   pemeriksaan       yang
+10         diperoleh.
+
+11
+12   Kompetensi (Ref: Para.13)
+
+13   A10. Kompetensi profesional mencakup pendidikan dan pengalaman.
+14         Kompetensi profesional tidak hanya diukur secara kuantitatif dengan
+15         berapa lama pengalaman pemeriksaan, karena hal tersebut tidak
+16         dapat menggambarkan secara akurat jenis pengalaman yang dimiliki
+17         pemeriksa.      Elemen       terpenting       bagi      Pemeriksa       adalah
+18         mempertahankan kecakapan profesional melalui komitmen untuk
+19         belajar dan pengembangan dalam seluruh kehidupan profesional
+20         pemeriksa.
+
+21   A11. Pemeriksa      yang     ditugaskan    untuk    melaksanakan       Pemeriksaan
+22         menurut      standar    pemeriksaan     harus    secara     kolektif   memiliki
+23         kompetensi:
+24         a.   latar belakang pendidikan, keahlian dan pengalaman, serta
+25              pengetahuan        tentang     standar   pemeriksaan        yang    dapat
+26              diterapkan terhadap jenis pemeriksaan yang ditugaskan;
+27         b.   pengetahuan umum tentang lingkungan entitas, program, dan
+28              kegiatan yang diperiksa (objek pemeriksaan);
+29         c.   keterampilan berkomunikasi secara jelas dan efektif, baik secara
+30              lisan maupun tulisan; dan
+31         d.   keterampilan yang memerlukan pengetahuan khusus dalam
+32              bidang tertentu sesuai dengan pemeriksaan yang dilaksanakan.
+
+33
+34
+
+
+     Badan Pemeriksa Keuangan                                                        12
+                                                                  PSP 100 – Standar Umum
+
+
+
+
+1    Penggunaan Tenaga Ahli (Ref: Para.16)
+
+2    A12. Tenaga ahli dapat digunakan untuk memberikan saran kepada
+3        Pemeriksa maupun menjadi bagian dari tim Pemeriksa.
+
+4
+5    Pertimbangan Ketidakpatuhan, Kecurangan, dan Ketidakpatutan
+
+6    A13. Pemeriksa hanya berkepentingan terhadap indikasi awal kecurangan
+7        yang   menimbulkan           dampak     material   terhadap   opini   ataupun
+8        kesimpulan.     Walau         Pemeriksa      menemukan        indikasi    awal
+9        kecurangan,     Pemeriksa       tidak     berwenang      untuk   menyatakan
+10       kecurangan telah terjadi karena istilah kecurangan merupakan ranah
+11       hukum. (Ref: Para. 21)
+
+12
+13   Komunikasi Pemeriksaan (Ref: Para. 25)
+
+14   A14. Pemeriksa mengomunikasikan hal-hal yang terkait dengan proses
+15       pemeriksaan, antara lain tujuan pemeriksaan, lingkup pemeriksaan,
+16       waktu pemeriksaan, kriteria pemeriksaan, temuan pemeriksaan, dan
+17       kesulitan atau batasan yang ditemui saat pemeriksaan. Khusus PDTT
+18       dalam bentuk pemeriksaan investigatif, Pemeriksa dapat membatasi
+19       komunikasi tentang hal-hal yang terkait dengan proses pemeriksaan.
+
+20
+                                       KETUA BADAN PEMERIKSA KEUANGAN
+                                                 REPUBLIK INDONESIA,
+
+                                                            ttd
+
+                                                   HARRY AZHAR AZIS
+
+
+
+ Salinan sesuai dengan aslinya
+ BADAN PEMERIKSA KEUANGAN REPUBLIK INDONESIA
+  Kepala Direktorat Utama Pembinaan dan Pengembangan
+          Hukum Pemeriksaan Keuangan Negara,
+
+                                ttd
+
+                     Nizam Burhanuddin
+
+
+
+
+     Badan Pemeriksa Keuangan                                                     13
+  LAMPIRAN III
+  PERATURAN      BADAN   PEMERIKSA   KEUANGAN
+  REPUBLIK INDONESIA
+  NOMOR 1 TAHUN 2017
+  TENTANG
+  STANDAR PEMERIKSAAN KEUANGAN NEGARA
+
+
+
+
+  PSP 200
+ STANDAR
+PELAKSANAAN
+PEMERIKSAAN
+                                                               PSP 200 – Standar Pelaksanaan Pemeriksaan
+
+
+
+
+                                               DAFTAR ISI
+
+
+                                                                                                Paragraf
+PENDAHULUAN
+    Ruang Lingkup ......................................................................          1-5
+    Tanggal Efektif .......................................................................        6
+TUJUAN.................................................................................            7
+DEFINISI ...............................................................................           8
+KETENTUAN
+    Perencanaan ..........................................................................        9-10
+    Hubungan Pemeriksaan BPK dengan Perencanaan Strategis                                          11
+    Perencanaan Penugasan ........................................................               12-24
+    Pemerolehan Bukti ................................................................           25-32
+    Pengembangan Temuan .........................................................                33-36
+    Supervisi ...............................................................................      37
+MATERI PENERAPAN DAN PENJELASAN LAIN
+    Hubungan Pemeriksaan BPK dengan Perencanaan Strategis .                                      A1-A2
+    Perencanaan Penugasan ........................................................               A3-A18
+    Pemerolehan Bukti ................................................................ A19-A20
+    Pengembangan Temuan ......................................................... A21-A23
+    Supervisi ............................................................................... A24-A27
+
+
+
+
+Badan Pemeriksa Keuangan
+                                              PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1                  PERNYATAAN STANDAR PEMERIKSAAN 200
+
+2                     STANDAR PELAKSANAAN PEMERIKSAAN
+
+3
+4    PENDAHULUAN
+5
+6    Ruang Lingkup
+
+7    1.   PSP ini mengatur tanggung jawab Pemeriksa dalam melaksanakan
+8         Pemeriksaan yang mencakup perencanaan, pengumpulan bukti
+9         pemeriksaan, pengembangan temuan pemeriksaan, dan supervisi.
+
+10   2.   Perencanaan berkaitan dengan tanggung jawab Pemeriksa dalam
+11        menghubungkan topik pemeriksaan yang akan dilakukan dengan
+12        perencanaan strategis BPK dan menyusun perencanaan untuk setiap
+13        penugasan pemeriksaan.
+
+14   3.   Pengumpulan bukti berkaitan dengan tanggung jawab Pemeriksa
+15        dalam merancang dan melaksanakan prosedur pemeriksaan untuk
+16        memperoleh bukti pemeriksaan yang cukup dan tepat, mendukung
+17        penarikan kesimpulan yang akurat, sesuai karakteristik yang harus
+18        dimiliki oleh bukti pemeriksaan dalam suatu pemeriksaan.
+
+19   4.   Pengembangan temuan pemeriksaan berkaitan dengan tanggung
+20        jawab   pemeriksa     dalam    mengembangkan      temuan     pemeriksaan
+21        berdasarkan bukti pemeriksaan yang diperoleh.
+
+22   5.   Supervisi    berkaitan   dengan   tanggung   jawab    Pemeriksa     dalam
+23        memberikan      arahan   dan    panduan   kepada     Pemeriksa     selama
+24        pemeriksaan untuk memastikan pencapaian tujuan pemeriksaan dan
+25        pemenuhan standar pemeriksaan.
+
+26
+27   Tanggal Efektif
+
+28   6.   PSP ini berlaku dan mempunyai kekuatan hukum mengikat sejak
+29        tanggal diundangkan.
+
+30
+
+31
+
+32
+
+
+
+     Badan Pemeriksa Keuangan                                                    1
+                                                  PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1    TUJUAN
+2
+3    7.   Tujuan Pemeriksa dalam menerapkan standar ini adalah untuk:
+4         a.   merencanakan        pemeriksaan      yang    berkualitas    agar    dapat
+5              dilaksanakan secara efisien dan efektif; dan
+6         b.   merancang dan melaksanakan prosedur pemeriksaan untuk
+7              memperoleh bukti yang cukup dan tepat.
+
+8
+9    DEFINISI
+10
+11   8.   Untuk tujuan standar ini, istilah di bawah ini bermakna sebagai
+12        berikut:
+13        a.   Perencanaan strategis adalah proses penyusunan visi dan misi
+14             yang disusun BPK setiap periode 5 (lima) tahunan dan tertuang
+15             dalam dokumen Rencana Strategis (Renstra). Renstra memuat
+16             visi dan misi BPK yang akan dicapai dalam periode 5 (lima)
+17             tahun,   dan      antara    lain   memuat    kebijakan      dan    strategi
+18             pemeriksaan yang menjadi prioritas.
+19        b.   Perencanaan penugasan adalah proses yang meliputi penetapan
+20             strategi pemeriksaan secara keseluruhan dan pengembangan
+21             rencana pemeriksaan.
+22        c.   Pengendalian       intern     adalah     proses      yang     dirancang,
+23             diimplementasikan, dan dimonitor oleh pimpinan dan personel
+24             entitas yang bertanggung jawab terhadap tata kelola entitas
+25             untuk memberikan keyakinan memadai tentang pencapaian
+26             tujuan entitas.
+27        d.   Risiko   pemeriksaan        adalah risiko terjadinya kemungkinan
+28             bahwa temuan, kesimpulan, dan/atau rekomendasi Pemeriksa
+29             tidak benar atau tidak lengkap, sebagai akibat dari faktor-faktor
+30             seperti bukti yang tidak cukup dan/atau tidak tepat, prosedur
+31             pemeriksaan yang tidak memadai, atau kelalaian yang disengaja
+32             maupun informasi yang menyesatkan.
+33        e.   Tujuan pemeriksaan berkaitan dengan alasan dilaksanakannya
+34             suatu pemeriksaan. Secara spesifik, tujuan pemeriksaan akan
+35             menentukan jenis pemeriksaannya.
+
+
+     Badan Pemeriksa Keuangan                                                        2
+                                                  PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1             1)    Tujuan pemeriksaan keuangan adalah untuk memperoleh
+2                   keyakinan      memadai        sehingga        Pemeriksa         mampu
+3                   memberikan opini bahwa laporan keuangan menyajikan
+4                   secara   wajar,     dalam    semua     hal    yang    material,   atas
+5                   kesesuaian         dengan    standar       akuntansi,     kecukupan
+6                   pengungkapan, kepatuhan terhadap peraturan perundang-
+7                   undangan, dan efektivitas sistem pengendalian intern;
+8             2)    Tujuan pemeriksaan kinerja adalah untuk menguji dan
+9                   menilai aspek ekonomi, efisiensi, dan/atau                efektivitas,
+10                  serta aspek kinerja lainnya atas suatu hal pokok yang
+11                  diperiksa dengan maksud untuk memberikan rekomendasi
+12                  yang dapat mendorong ke arah perbaikan;
+13            3)    Tujuan PDTT dalam bentuk pemeriksaan kepatuhan adalah
+14                  untuk menilai apakah hal pokok yang diperiksa sesuai
+15                  (patuh) dengan ketentuan peraturan perundang-undangan;
+16            4)    Tujuan PDTT dalam bentuk pemeriksaan investigatif adalah
+17                  untuk       mengungkap           adanya       indikasi        kerugian
+18                  negara/daerah dan/atau unsur pidana.
+19       f.   Lingkup pemeriksaan adalah pernyataan yang jelas mengenai
+20            fokus, luas, dan batasan pemeriksaan.
+21       g.   Kriteria adalah tolok ukur yang digunakan dalam memeriksa
+22            dan    menilai     hal    pokok,   dalam     hal    ini    informasi    yang
+23            diungkapkan       dalam      pengelolaan     dan     pertanggungjawaban
+24            keuangan       negara,      termasuk     tolok     ukur    penyajian     dan
+25            pengungkapan yang relevan.
+26       h.   Uji petik adalah pemilihan beberapa unsur dalam suatu populasi
+27            sebagai dasar untuk mengambil kesimpulan atas keseluruhan
+28            populasi.
+29       i.   Populasi adalah keseluruhan data yang menjadi sumber dari
+30            sampel yang akan dipilih, dimana Pemeriksa berkeinginan untuk
+31            menarik kesimpulan dari keseluruhan data tersebut.
+32       j.   Risiko uji petik adalah risiko bahwa kesimpulan Pemeriksa yang
+33            didasarkan       pada     sampel    yang     dipilih      berbeda     dengan
+34            kesimpulan        apabila     prosedur     pemeriksaan         yang     sama
+35            diterapkan pada keseluruhan populasi.
+
+
+
+     Badan Pemeriksa Keuangan                                                          3
+                                               PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1         k.    Supervisi adalah kegiatan yang mencakup pemberian arahan
+2               dan panduan kepada Pemeriksa selama pemeriksaan untuk
+3               memastikan pencapaian tujuan pemeriksaan dan pemenuhan
+4               standar    pemeriksaan     dengan    tetap    menerima      informasi
+5               mutakhir     tentang     masalah     signifikan     yang    dihadapi,
+6               melaksanakan review atas pekerjaan yang dilakukan, dan
+7               memberikan pelatihan (training) dan bimbingan (mentoring) yang
+8               efektif dalam rangka pelaksanaan pengendalian mutu.
+9         l.    Kelangsungan usaha (going concern) adalah asumsi bahwa suatu
+10              entitas dipandang bertahan dalam tugas dan fungsi atau
+11              bisnisnya untuk masa depan yang dapat diprediksi.
+12        m.    Indikasi    awal     kecurangan      adalah       tanda-tanda    yang
+13              menunjukkan kemungkinan terjadinya kecurangan.
+
+14
+15   KETENTUAN
+16
+17   Perencanaan
+
+18   9.   BPK dan Pemeriksa harus merencanakan pemeriksaan dengan
+19        sebaik-baiknya.
+
+20   10. BPK     harus     membuat     perencanaan    strategis    untuk   memenuhi
+21        pelaksanaan       tugas    pemeriksaan      dan     harapan      pemangku
+22        kepentingan.
+
+23
+24   Hubungan Pemeriksaan BPK dengan Perencanaan Strategis
+
+25   11. BPK harus berpedoman pada Renstra BPK dalam menyusun rencana
+26        tahunan pemeriksaan. Dalam pemeriksaan kinerja dan PDTT,
+27        Pemeriksa harus menentukan hal pokok yang akan diperiksa.
+28        Pemeriksa harus menetapkan faktor-faktor yang menjadi dasar
+29        pertimbangan dalam penentuan hal pokok tersebut. (Ref: Para. A1-
+30        A2)
+
+31
+32   Perencanaan Penugasan
+
+33   12. Pemeriksa harus menyatakan secara jelas tujuan pemeriksaan atas
+34        informasi hal pokok atau hal pokok yang akan diperiksa.
+
+     Badan Pemeriksa Keuangan                                                     4
+                                              PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1    13. Pemeriksa     harus     memastikan     kejelasan      setiap    penugasan
+2        pemeriksaan yang dilakukan. (Ref: Para. A3)
+
+3    14. Pemeriksa harus memperoleh pemahaman atas entitas dan/atau hal
+4        pokok/informasi hal pokok yang diperiksa yang diperlukan untuk
+5        mengidentifikasi permasalahan, menentukan materialitas, risiko,
+6        jenis dan sumber bukti, serta auditabilitas. (Ref: Para. A4-A6)
+
+7    15. Pemeriksa harus memperoleh pemahaman yang memadai atas
+8        pengendalian intern dengan menggunakan pertimbangan profesional.
+9        (Ref: Para. A7-A9)
+
+10   16. Pemeriksa harus menilai dan merespons risiko pemeriksaan dengan
+11       menggunakan pertimbangan profesional. (Ref: Para. A10-A11)
+
+12   17. Pemeriksa harus mengidentifikasi dan mengukur risiko material
+13       sebagai akibat dari kecurangan.
+
+14   18. Pemeriksa harus memutakhirkan penilaian dan respons terhadap
+15       risiko tersebut sepanjang proses pemeriksaan dengan menggunakan
+16       pertimbangan profesional.
+
+17   19. Pemeriksa    harus     merancang   prosedur     yang    memadai      untuk
+18       memperoleh bukti pemeriksaan yang memadai dan layak atas risiko
+19       kecurangan yang telah teridentifikasi.
+
+20   20. Pemeriksa harus menetapkan kriteria yang tepat sebagai dasar untuk
+21       menilai hal pokok atau informasi hal pokok yang diperiksa. (Ref:
+22       Para. A12-A15)
+
+23   21. Pemeriksa harus mempertimbangkan materialitas pada seluruh
+24       proses pemeriksaan dengan menggunakan pertimbangan profesional.
+25       (Ref: Para. A16-A17)
+
+26   22. Pemeriksa harus memutakhirkan penilaian terhadap materialitas
+27       sepanjang proses pemeriksaan berdasarkan penilaian risiko dengan
+28       menggunakan pertimbangan profesional.
+
+29   23. Dalam pemeriksaan keuangan, Pemeriksa harus mempertimbangkan
+30       kelangsungan usaha (going concern) dan peristiwa yang terjadi antara
+31       tanggal laporan keuangan dan tanggal LHP. (Ref: Para. A.18)
+
+32   24. Pemeriksa harus memutakhirkan rencana pemeriksaan apabila
+33       diperlukan selama proses pelaksanaan pemeriksaan.
+
+     Badan Pemeriksa Keuangan                                                    5
+                                                 PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1    Pemerolehan Bukti
+
+2    25. Pemeriksa     harus      merancang       dan     melaksanakan          prosedur
+3        pemeriksaan yang tepat untuk memperoleh bukti pemeriksaan yang
+4        cukup dan tepat. (Ref: Para. A19)
+
+5    26. Pemeriksa harus menerapkan prosedur yang telah dirancang untuk
+6        memperoleh bukti pemeriksaan yang cukup dan layak atas risiko
+7        kecurangan yang telah teridentifikasi.
+
+8    27. Pemeriksa harus menentukan respons keseluruhan jika ditemukan
+9        indikasi     awal      kecurangan/indikasi       kecurangan       di     dalam
+10       pemeriksaan.
+
+11   28. Pemeriksa harus mempertimbangkan kecukupan dan ketepatan
+12       bukti dalam mengidentifikasikan sumber-sumber data potensial yang
+13       berasal dari entitas yang diperiksa, hasil analisis Pemeriksa, atau
+14       pihak-pihak lain. (Ref: Para. A19)
+
+15   29. Pemeriksa harus melakukan pendalaman jika dalam pemerolehan
+16       bukti, Pemeriksa menduga bahwa dokumen tidak otentik atau isi
+17       dokumen telah dimodifikasi tetapi tidak diinformasikan kepada
+18       Pemeriksa.
+
+19   30. Pemeriksa     harus      memodifikasi     prosedur      pemeriksaan       yang
+20       diperlukan apabila bukti pemeriksaan yang diperoleh dari satu
+21       sumber bertentangan atau tidak konsisten dengan bukti yang
+22       diperoleh dari sumber lain atau Pemeriksa memiliki keraguan atas
+23       keandalan     informasi     yang    akan       digunakan      sebagai     bukti
+24       pemeriksaan.
+
+25   31. Pemeriksa dapat memperoleh bukti dengan menggunakan uji petik
+26       pemeriksaan untuk memberikan dasar yang memadai bagi Pemeriksa
+27       untuk menarik kesimpulan.
+
+28   32. Sepanjang     proses     pemeriksaan,      Pemeriksa      harus     me-review
+29       kecukupan dan ketepatan bukti dan menghubungkannya dengan
+30       tujuan     pemeriksaan     serta   meresponsnya       dengan    menganalisis
+31       kebutuhan untuk memodifikasi prosedur pemeriksaan. (Ref. Para.
+32       A20)
+
+33
+
+
+     Badan Pemeriksa Keuangan                                                       6
+                                               PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1    Pengembangan Temuan
+
+2    33. Pemeriksa harus mengembangkan temuan pemeriksaan apabila
+3          menemukan ketidaksesuaian antara kondisi dan kriteria.
+
+4    34. Pemeriksa harus mempertimbangkan unsur temuan yang terdiri dari
+5          kondisi, kriteria, akibat, dan sebab dalam mengembangkan temuan
+6          pemeriksaan. Namun unsur yang dibutuhkan untuk sebuah temuan
+7          pemeriksaan bergantung pada tujuan pemeriksaan. (Ref: Para. A21)
+
+8    35. Pemeriksa dapat membuat temuan pemeriksaan untuk memenuhi
+9          tujuan pemeriksaan dalam rangka menarik kesimpulan dan/atau
+10         rekomendasi. (Ref: Para. A22)
+
+11   36. Apabila menemukan indikasi awal kecurangan, Pemeriksa harus
+12         menindaklanjuti indikasi awal kecurangan tersebut sesuai dengan
+13         ketentuan. (Ref: Para. A23)
+
+14
+15   Supervisi
+
+16   37. Pemeriksa harus disupervisi dengan baik. (Ref: Para. A24-A27)
+
+17
+18   MATERI PENERAPAN DAN PENJELASAN LAIN
+19
+20   Hubungan Pemeriksaan BPK dengan Perencanaan Strategis (Ref: Para.
+21   11)
+
+22   A1. Pemahaman atas Renstra diperlukan untuk memberikan arahan
+23         strategis   dalam    penyusunan     rencana    pemeriksaan       tahunan,
+24         penentuan harapan penugasan, dan tujuan pemeriksaan.
+
+25   A2. Faktor-faktor yang menjadi dasar pertimbangan penentuan hal pokok
+26         antara lain ekspektasi masyarakat dan materialitas suatu hal pokok.
+
+27
+28   Perencanaan Penugasan
+
+29   A3. Informasi     yang     perlu    dipahami   bersama      antara    lain    hal
+30         pokok/informasi hal pokok yang akan diperiksa, lingkup dan tujuan
+31         pemeriksaan, akses terhadap data yang dibutuhkan, laporan yang
+32         akan dihasilkan, proses pemeriksaan, pihak yang dapat dihubungi
+
+
+
+     Badan Pemeriksa Keuangan                                                     7
+                                             PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1        selama pemeriksaan, dan peran, serta tanggung jawab seluruh pihak
+2        yang terkait dengan pemeriksaan. (Ref: Para. 13)
+
+3    A4. Pemahaman atas entitas dan/atau hal pokok/informasi hal pokok
+4        yang diperiksa dapat diperoleh dari pengetahuan yang telah dimiliki
+5        Pemeriksa atas entitas dan/atau hal pokok/ informasi hal pokok
+6        yang diperiksa dan hasil pengumpulan informasi yang dilakukan
+7        selama pemeriksaan. (Ref: Para. 14)
+
+8    A5. Pemahaman atas entitas dan/atau hal pokok/ informasi hal pokok
+9        yang diperiksa dapat diperoleh dengan mempertimbangkan hasil
+10       pemeriksaan sebelumnya, termasuk di dalamnya adalah hasil
+11       pemahaman atas pengendalian intern, penilaian risiko, serta temuan
+12       pemeriksaan. (Ref: Para. 14)
+
+13   A6. Pemahaman atas entitas dan/atau hal pokok/informasi hal pokok
+14       yang sesuai dengan pemeriksaan bergantung pada pengetahuan
+15       Pemeriksa atas lingkungan pengendalian.             Pemahaman pemeriksa
+16       atas lingkungan pengendalian entitas merupakan hal yang penting,
+17       karena    lingkungan     pengendalian      menjadi    dasar   bagi   sistem
+18       pengendalian intern untuk mencapai tujuan entitas. (Ref: Para. 14)
+
+19   A7. Pemahaman       atas     pengendalian      intern     mencakup       kondisi
+20       pengendalian intern yang relevan baik dari sisi waktu maupun
+21       substansi dengan pemeriksaan atau yang sifatnya material terhadap
+22       hal pokok/informasi hal pokok. (Ref: Para. 15)
+
+23   A8. Pemahaman atas entitas dan lingkungannya serta pemahaman atas
+24       pengendalian intern yang relevan dengan pemeriksaan atau yang
+25       sifatnya material terhadap hal pokok/informasi hal pokok, akan
+26       terkait dengan proses penilaian risiko, termasuk di dalamnya
+27       penilaian risiko adanya kecurangan dan ketidakpatutan. Efektivitas
+28       pengendalian    intern   yang   relevan     dengan    pemeriksaan     dapat
+29       memengaruhi risiko pemeriksaan. Selanjutnya, Pemeriksa dapat
+30       memodifikasi sifat, waktu, atau lingkup prosedur pemeriksaan sesuai
+31       dengan penilaian Pemeriksa atas pengendalian intern dan hasil dari
+32       uji pengendalian intern. (Ref: Para. 15)
+
+33   A9. Pertimbangan profesional digunakan untuk menentukan apakah
+34       suatu pengendalian secara individual atau bersama-sama dengan
+
+
+     Badan Pemeriksa Keuangan                                                    8
+                                                  PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1        yang lain merupakan hal yang relevan dengan pemeriksaan atau
+2        sifatnya material terhadap hal pokok/informasi hal pokok. (Ref: Para.
+3        15)
+
+4    A10. Penilaian dan respons dilakukan dengan mempertimbangkan risiko
+5        bawaan, risiko pengendalian, dan risiko deteksi yang berhubungan
+6        dengan entitas dan hal pokok/informasi hal pokok yang diperiksa.
+7        (Ref: Para. 16)
+
+8    A11. Pemeriksa memperoleh pemahaman atas sistem pengendalian intern
+9        yang     relevan     dengan     pemeriksaan,      termasuk      di    dalamnya
+10       pengelolaan risiko yang dimiliki entitas yang diperiksa serta memadai
+11       atau     tidaknya    pengelolaan    risiko   tersebut    dalam       mendukung
+12       pencapaian tujuan organisasi. Ketika memperoleh pemahaman
+13       tentang pengendalian yang relevan dengan pemeriksaan, Pemeriksa
+14       harus mengevaluasi desain pengendalian tersebut dan memastikan
+15       apakah pengendalian tersebut memang dilakukan. (Ref: Para. 16)
+
+16   A12. Penetapan kriteria dipengaruhi oleh hal pokok/informasi hal pokok
+17       yang diperiksa dan tujuan pemeriksaan. Kriteria dalam pemeriksaan
+18       keuangan      berbentuk       formal,    yaitu   standar    akuntansi        yang
+19       merupakan kerangka pelaporan keuangan yang digunakan oleh
+20       penyusun laporan keuangan. (Ref: Para. 20)
+
+21   A13. Dalam pemeriksaan kinerja, apabila tidak tersedia sumber kriteria
+22       formal    yang      sesuai    dengan     rancangan    tujuan     pemeriksaan,
+23       Pemeriksa dapat mengembangkan kriteria pemeriksaan berdasarkan
+24       pada sumber tertentu dan diungkapkan secara transparan. (Ref:
+25       Para. 20)
+
+26   A14. Dalam pemeriksaan kinerja dan PDTT dengan bentuk pemeriksaan
+27       kepatuhan, apabila Pemeriksa mengidentifikasi adanya pertentangan
+28       antara beberapa sumber kriteria yang digunakan, Pemeriksa harus
+29       menganalisis konsekuensi dari adanya pertentangan tersebut, dan
+30       meresponsnya dengan melakukan beberapa hal berikut:
+31       a.     memodifikasi tujuan pemeriksaan atau hal pokok/informasi hal
+32              pokok yang akan diperiksa;
+33       b.     memutuskan       untuk    tidak    melakukan     penilaian     atas    hal
+34              pokok/informasi hal pokok; atau
+
+
+     Badan Pemeriksa Keuangan                                                         9
+                                                PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1        c.   melibatkan para ahli untuk memperoleh pandangan atas adanya
+2             pertentangan beberapa sumber kriteria. (Ref. Para. 20)
+
+3    A15. Apabila    berdasarkan       pertimbangan        profesional      Pemeriksa
+4        memutuskan untuk memilih salah satu sumber kriteria, Pemeriksa
+5        harus mengungkapkan adanya pertentangan sumber kriteria dan
+6        alasan pemilihan sumber kriteria tertentu dalam LHP. Pemeriksa
+7        dapat memberikan pertimbangan kepada pemerintah atas isu
+8        pertentangan sumber kriteria. (Ref: Para. 20)
+
+9    A16. Sesuatu dapat dinilai material jika pengetahuan mengenai hal
+10       tersebut mungkin akan memengaruhi pengambilan keputusan oleh
+11       pengguna LHP. Materialitas meliputi aspek kuantitatif dan kualitatif.
+12       Pertimbangan materialitas memengaruhi keputusan mengenai sifat,
+13       waktu,     dan   luas     prosedur   pemeriksaan      dan    evaluasi    hasil
+14       pemeriksaan. Khusus pemeriksaan kinerja dan PDTT dalam bentuk
+15       pemeriksaan kepatuhan, materialitas juga dipertimbangkan dalam
+16       penentuan topik dan kriteria pemeriksaan. (Ref: Para. 21)
+
+17   A17. Hal-hal yang menjadi pertimbangan profesional dalam menentukan
+18       tingkat materialitas antara lain kebutuhan pengguna LHP, misalnya
+19       perhatian dari para pemangku kepentingan, kepentingan umum, dan
+20       dampak bagi masyarakat; karakteristik bawaan pada suatu hal atau
+21       sekelompok hal; konteks keterjadian suatu hal; dan persyaratan
+22       perundang-undangan. (Ref: Para. 21)
+
+23   A18. Pemeriksa harus memperoleh bukti pemeriksaan yang cukup dan
+24       tepat untuk mengetahui adanya peristiwa atau kondisi yang dapat
+25       menimbulkan keraguan yang signifikan terhadap kemampuan entitas
+26       yang diperiksa terkait kelangsungan usaha (going concern) serta
+27       peristiwa yang terjadi antara tanggal laporan keuangan dan tanggal
+28       LHP yang memerlukan penyesuaian atau pengungkapan dalam
+29       laporan keuangan yang telah diidentifikasi. (Ref: Para. 23)
+
+30
+31   Pemerolehan Bukti
+
+32   A19. Pemeriksa dapat memperoleh data dan informasi dengan melakukan
+33       antara lain pengamatan, wawancara, survei, dan pengukuran. Dalam
+34       menentukan       metode    perolehan   data,    Pemeriksa     menggunakan
+
+
+     Badan Pemeriksa Keuangan                                                     10
+                                               PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1        pertimbangan profesional. Apabila diperlukan, Pemeriksa dapat
+2        menggunakan tenaga ahli untuk membantu perancangan metodologi
+3        pemerolehan data dan informasi. (Ref: Para. 25, 28)
+
+4    A20. Kecukupan bukti didasarkan pada keyakinan Pemeriksa bahwa bukti
+5        tersebut menghasilkan kesimpulan yang andal. (Ref: Para. 32)
+
+6
+7    Pengembangan Temuan
+
+8    A21. Unsur temuan pemeriksaan disebut lengkap sepanjang tujuan
+9        pemeriksaan telah dipenuhi. Temuan pemeriksaan secara jelas
+10       mengaitkan tujuan pemeriksaan dengan unsur temuan. (Ref: Para.
+11       34)
+
+12   A22. Apabila    terdapat    ketidakefektifan   pengendalian       intern    atau
+13       ketidakpatuhan, kecurangan, dan/atau ketidakpatutan yang material
+14       tetapi tidak mendukung secara langsung tujuan pemeriksaan,
+15       Pemeriksa harus mendiskusikan hal tersebut secara berjenjang
+16       untuk diputuskan apakah akan dilakukan pemeriksaan khusus yang
+17       terkait atau tidak. (Ref: Para. 35)
+
+18   A23. Dalam     hal   Pemeriksa   menemukan      indikasi   awal    kecurangan,
+19       Pemeriksa dapat menindaklanjutinya dengan mengusulkan PDTT
+20       dalam bentuk pemeriksaan investigatif. (Ref: Para. 36)
+
+21
+22   Supervisi (Ref: Para. 37)
+
+23   A24. Supervisi dilakukan secara berjenjang dan dimaksudkan untuk
+24       menjamin pencapaian tujuan pemeriksaan dan pencapaian kualitas
+25       pemeriksaan sesuai dengan standar pemeriksaan.
+
+26   A25. Sifat dan luas supervisi, serta review atas hasil pekerjaan Pemeriksa
+27       dapat bervariasi bergantung pada sejumlah faktor, seperti jumlah
+28       personel dalam tim Pemeriksa, pentingnya pekerjaan pemeriksaan,
+29       dan pengalaman Pemeriksa.
+
+30   A26. Supervisi mencakup hal-hal sebagai berikut:
+31       a.    memantau kemajuan pemeriksaan;
+32       b.    mempertimbangkan kompetensi dan kemampuan setiap anggota
+33             tim Pemeriksa, termasuk kecukupan waktu yang diberikan
+34             untuk melaksanakan pekerjaannya, pemahaman atas instruksi
+     Badan Pemeriksa Keuangan                                                    11
+                                                      PSP 200 –Standar Pelaksanaan Pemeriksaan
+
+
+
+
+1             yang diberikan, dan kesesuaian pelaksanaan pekerjaan dengan
+2             pendekatan yang telah direncanakan;
+3        c.   mengarahkan Pemeriksa ke hal signifikan yang timbul selama
+4             pemeriksaan, mempertimbangkan signifikansi hal tersebut dan
+5             memodifikasi pendekatan yang telah direncanakan dengan tepat;
+6             dan
+7        d.   mengidentifikasi        hal      yang      perlu     dikonsultasikan      atau
+8             dipertimbangkan         oleh     anggota     tim     Pemeriksa    yang    lebih
+9             berpengalaman selama pemeriksaan.
+
+10   A27. Pihak   yang   melakukan           supervisi    juga     memfasilitasi    kegiatan
+11       mentoring dalam tim Pemeriksa selama proses pemeriksaan.
+
+
+
+                                      KETUA BADAN PEMERIKSA KEUANGAN
+                                                  REPUBLIK INDONESIA,
+
+                                                                 ttd
+
+                                                   HARRY AZHAR AZIS
+
+
+ Salinan sesuai dengan aslinya
+ BADAN PEMERIKSA KEUANGAN REPUBLIK INDONESIA
+  Kepala Direktorat Utama Pembinaan dan Pengembangan
+          Hukum Pemeriksaan Keuangan Negara,
+
+                                ttd
+
+                     Nizam Burhanuddin
+
+
+
+
+     Badan Pemeriksa Keuangan                                                           12
+  LAMPIRAN IV
+  PERATURAN     BADAN   PEMERIKSA   KEUANGAN
+  REPUBLIK INDONESIA
+  NOMOR 1 TAHUN 2017
+  TENTANG
+  STANDAR PEMERIKSAAN KEUANGAN NEGARA
+
+
+
+
+  PSP 300
+ STANDAR
+PELAPORAN
+PEMERIKSAAN
+                                                                  PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+                                               DAFTAR ISI
+
+
+                                                                                             Paragraf
+Pendahuluan
+     Ruang Lingkup ....................................................................        1-2
+     Tanggal Efektif .....................................................................      3
+Tujuan ................................................................................         4
+Definisi ...............................................................................        5
+Ketentuan
+     Keharusan Menyusun Laporan ............................................                   6-7
+     Unsur LHP...........................................................................      8-19
+     Pelaporan Informasi Rahasia ...............................................                20
+     Penerbitan dan Distribusi Laporan ......................................                 21-23
+     Pemantauan Tindak Lanjut Hasil Pemeriksaan ....................                            24
+Materi Penerapan dan Penjelasan Lain
+     Keharusan Menyusun Laporan ............................................                  A1-A7
+     Unsur LHP...........................................................................     A8-A16
+
+
+
+
+Badan Pemeriksa Keuangan
+                                              PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1                  PERNYATAAN STANDAR PEMERIKSAAN 300
+2                         STANDAR PELAPORAN PEMERIKSAAN
+3
+
+4    PENDAHULUAN
+5
+6    Ruang Lingkup
+
+7    1.   PSP ini mengatur kewajiban Pemeriksa dalam menyusun LHP untuk
+8         pemeriksaan keuangan, pemeriksaan kinerja, dan PDTT.
+
+9    2.   LHP berfungsi untuk: (1) mengomunikasikan hasil pemeriksaan
+10        kepada pihak yang berwenang berdasarkan peraturan perundang-
+11        undangan yang berlaku; (2) menghindari kesalahpahaman atas hasil
+12        pemeriksaan; (3) membuat hasil pemeriksaan sebagai bahan untuk
+13        melakukan tindakan perbaikan oleh pihak yang bertanggung jawab;
+14        dan (4) memudahkan pemantauan tindak lanjut untuk menentukan
+15        pengaruh tindakan perbaikan yang semestinya dilakukan.
+
+16
+17   Tanggal Efektif
+
+18   3.   PSP ini berlaku dan mempunyai kekuatan hukum mengikat sejak
+19        tanggal diundangkan.
+
+20
+21   TUJUAN
+22
+23   4.   Tujuan Pemeriksa dalam menerapkan standar pelaporan ini adalah
+24        untuk:
+25        a.   merumuskan suatu kesimpulan hasil pemeriksaan berdasarkan
+26             evaluasi atas bukti pemeriksaan yang diperoleh; dan
+27        b.   mengomunikasikan hasil pemeriksaan kepada pihak-pihak yang
+28             terkait.
+
+29
+30
+31
+32
+33
+34
+
+     Badan Pemeriksa Keuangan                                                   1
+                                                     PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1    DEFINISI
+2
+3    5.   Istilah-istilah dalam standar ini bermakna sebagai berikut:
+4         a.    LHP adalah laporan tertulis dari proses pemeriksaan yang berisi
+5               hasil   analisis    atas    pengujian   bukti    yang     diperoleh    saat
+6               pelaksanaan pemeriksaan.
+7         b.    Pengguna LHP adalah pihak-pihak yang menggunakan LHP BPK,
+8               antara lain lembaga perwakilan, pemerintah, serta pihak lain
+9               yang mempunyai kepentingan terhadap LHP.
+10        c.    Kesimpulan         adalah      penafsiran      logis     mengenai       hal
+11              pokok/informasi hal pokok yang didasarkan atas hasil pengujian
+12              bukti dan bukan sekedar ringkasan temuan.
+13        d.    Rekomendasi adalah saran dari Pemeriksa berdasarkan hasil
+14              pemeriksaannya, yang ditujukan kepada orang dan/atau badan
+15              yang    berwenang          untuk    melakukan     tindakan      dan/atau
+16              perbaikan.
+
+17
+18   KETENTUAN
+19
+20   Keharusan Menyusun Laporan
+
+21   6.   Pemeriksa      harus      menyusun         LHP     secara      tertulis     untuk
+22        mengomunikasikan hasil pemeriksaannya.
+
+23   7.   Pemeriksa harus menyusun LHP secara tepat waktu, lengkap,
+24        akurat, objektif, meyakinkan, jelas, dan ringkas. (Ref: Para. A1- A7)
+
+25
+26   Unsur LHP
+
+27   8.   LHP    harus     memenuhi         unsur    laporan    sesuai     dengan      jenis
+28        pemeriksaannya. Unsur LHP antara lain:
+29        a.    Pernyataan bahwa pemeriksaan dilaksanakan sesuai dengan
+30              standar pemeriksaan;
+31        b.    Tujuan, lingkup, metodologi;
+32        c.    Kesimpulan;
+33        d.    Temuan pemeriksaan;
+34
+35
+
+     Badan Pemeriksa Keuangan                                                          2
+                                                   PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1         e.     Rekomendasi pemeriksaan;
+2         f.     Tanggapan pihak yang bertanggung jawab; dan
+3         g.     Penandatanganan LHP.
+4
+5    Pernyataan bahwa Pemeriksaan Dilaksanakan Sesuai dengan Standar
+6    Pemeriksaan
+
+7    9.   Pemeriksa harus menyatakan bahwa pemeriksaan dilakukan sesuai
+8         dengan standar pemeriksaan. Dalam hal Pemeriksa tidak dapat
+9         melaksanakan standar pemeriksaan karena pembatasan lingkup
+10        yang material, hal tersebut harus dinyatakan dalam laporan.
+
+11
+12   Tujuan, Lingkup, Metodologi
+
+13   10. Pemeriksa      harus     memuat       tujuan,   lingkup,       dan    metodologi
+14        pemeriksaan secara jelas dalam LHP. Informasi tersebut penting bagi
+15        pengguna     LHP      agar   dapat     memahami        maksud        dan    jenis
+16        pemeriksaan, serta memberikan perspektif yang wajar terhadap apa
+17        yang dilaporkan. (Ref: Para. A8-A10)
+
+18
+19   Kesimpulan
+
+20   11. Pemeriksa harus menyusun kesimpulan atas hasil pemeriksaan.
+21        Kesimpulan      merupakan        jawaban       atas     pencapaian         tujuan
+22        pemeriksaan. (Ref: Para. A11-A12)
+
+23   12. Kesimpulan      harus    dinyatakan      secara   jelas    dan       meyakinkan.
+24        Kekuatan kesimpulan ditentukan oleh bukti yang meyakinkan dan
+25        didukung dengan metodologi yang tepat.
+
+26
+27   Temuan Pemeriksaan
+
+28   13. Pemeriksa harus mengungkapkan temuan dalam LHP apabila
+29        terdapat ketidaksesuaian antara kondisi dengan kriteria. (Ref: Para.
+30        A13)
+
+31   14. Temuan pemeriksaan yang mengandung indikasi awal kecurangan
+32        disajikan dalam LHP tanpa menjelaskan secara mendetail dugaan
+33        kecurangan     tersebut.     Namun    Pemeriksa       lebih   menitikberatkan
+
+
+     Badan Pemeriksa Keuangan                                                          3
+                                                   PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1        penjelasannya    kepada    dampak     temuan        tersebut    terhadap     hal
+2        pokok/informasi hal pokok sesuai tujuan pemeriksaan.
+
+3
+4    Rekomendasi Pemeriksaan
+
+5    15. Rekomendasi pemeriksaan harus bersifat konstruktif dan berguna
+6        untuk memperbaiki kelemahan-kelemahan yang ditemukan dalam
+7        pemeriksaan. (Ref: Para. A14-A15)
+
+8    16. Pemeriksa    wajib     memberikan    rekomendasi        dalam     pemeriksaan
+9        kinerja. Dalam pemeriksaan selain pemeriksaan kinerja, apabila
+10       Pemeriksa    dapat     mengembangkan        temuan     pemeriksaan        secara
+11       memadai, Pemeriksa dapat membuat rekomendasi. Khusus pada
+12       PDTT dalam bentuk pemeriksaan investigatif,                 Pemeriksa tidak
+13       memberikan rekomendasi.
+
+14
+15   Tanggapan Pihak yang Bertanggung Jawab (Ref: Para. A16)
+
+16   17. Pemeriksa    harus      memperoleh    tanggapan        tertulis    atas     hasil
+17       pemeriksaan dari pihak yang bertanggung jawab. Namun demikian,
+18       terkait dengan kerahasiaan informasi, dalam PDTT dalam bentuk
+19       pemeriksaan investigatif, Pemeriksa tidak meminta tanggapan.
+
+20   18. Pemeriksa harus memuat tanggapan pejabat pemerintah yang
+21       bertanggung jawab atas temuan, kesimpulan, dan rekomendasi
+22       pemeriksa pada lLHP.
+
+23
+24   Penandatanganan LHP
+
+25   19. LHP ditandatangani oleh Ketua, Wakil Ketua, atau Anggota BPK.
+26       Wewenang     penandatanganan        LHP     dapat    didelegasikan        kepada
+27       penanggung jawab pemeriksaan yang memiliki kompetensi.
+
+28
+29   Pelaporan Informasi Rahasia
+
+30   20. Apabila informasi tertentu dilarang diungkapkan kepada umum, LHP
+31       harus mengungkapkan sifat informasi yang dilarang diungkapkan
+32       tersebut dan ketentuan yang melarang pengungkapan informasi
+33       tersebut. Pertimbangan pemeriksa mengenai tidak diungkapkannya
+
+     Badan Pemeriksa Keuangan                                                        4
+                                              PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1        informasi   tertentu   tersebut   harus   mengacu      pada     peraturan
+2        perundang-undangan.
+
+3
+4    Penerbitan dan Distribusi Laporan
+
+5    21. BPK     harus   menyerahkan    LHP   tepat    waktu    kepada     lembaga
+6        perwakilan, pihak yang bertanggung jawab, dan pihak lain yang
+7        diberi wewenang untuk menerima LHP sesuai dengan ketentuan
+8        peraturan perundang-undangan.
+
+9    22. Dalam hal yang diperiksa merupakan informasi rahasia maka
+10       pendistribusian LHP tersebut dapat dibatasi.
+
+11   23. Informasi yang diperoleh melalui PDTT dalam bentuk pemeriksaan
+12       investigatif merupakan informasi rahasia.
+
+13
+14   Pemantauan Tindak Lanjut Hasil Pemeriksaan
+
+15   24. BPK memantau secara periodik tindak lanjut hasil pemeriksaan dan
+16       menyampaikan hasil pemantauannya kepada lembaga perwakilan
+17       dan pihak yang bertanggung jawab. Tujuan pemantauan tindak
+18       lanjut hasil pemeriksaan adalah meningkatkan efektivitas pelaporan
+19       hasil   pemeriksaan    serta   membantu      lembaga   perwakilan      dan
+20       pemerintah dalam memperbaiki tata kelola.
+
+21
+22   MATERI PENERAPAN DAN PENJELASAN LAIN
+23
+24   Keharusan Menyusun Laporan (Ref: Para. 7)
+
+25   Tepat Waktu
+
+26   A1. LHP harus tepat waktu agar informasi yang disampaikan bermanfaat
+27       secara maksimal. Laporan yang dibuat dengan hati-hati tetapi
+28       terlambat disampaikan, nilainya menjadi kurang bagi pengguna LHP.
+29       Oleh karena itu, Pemeriksa harus merencanakan penerbitan laporan
+30       tersebut secara semestinya dan melakukan pemeriksaan dengan
+31       dasar pemikiran tersebut.
+
+32
+
+33
+
+     Badan Pemeriksa Keuangan                                                   5
+                                                  PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1    Lengkap
+
+2    A2. LHP harus lengkap memuat semua informasi dari bukti yang
+3        dibutuhkan untuk memenuhi tujuan pemeriksaan. LHP juga harus
+4        menyajikan secara memadai detail informasi yang dibutuhkan agar
+5        memberikan pemahaman yang memadai bagi pengguna atas hal yang
+6        diperiksa, temuan, dan kesimpulan pemeriksa.
+
+7
+8    Akurat
+
+9    A3. LHP harus akurat dalam menyajikan informasi, didukung oleh bukti
+10       yang cukup dan tepat. Laporan yang akurat akan memberikan
+11       keyakinan kepada pengguna LHP bahwa hal yang dilaporkan
+12       memiliki kredibilitas dan dapat diandalkan. Satu ketidakakuratan
+13       dalam LHP dapat menimbulkan keraguan atas keandalan seluruh
+14       laporan tersebut dan dapat mengalihkan perhatian pengguna LHP
+15       dari substansi laporan tersebut. Apabila terdapat data yang dapat
+16       memengaruhi kesimpulan pemeriksaan yang tidak dapat diuji lebih
+17       lanjut     oleh    Pemeriksa,        Pemeriksa      harus      secara     jelas
+18       menunjukkannya dalam LHP.
+
+19
+20   Objektif
+
+21   A4. LHP harus objektif. Pemeriksa harus memperhatikan hal-hal sebagai
+22       berikut:
+23       a. Pemeriksa harus menyajikan LHP secara seimbang dan tidak
+24            memihak; dan
+25       b. Pemeriksa harus menyajikan LHP sesuai dengan fakta yang
+26            ditemui di lapangan.
+
+27
+28   Meyakinkan
+
+29   A5. LHP harus meyakinkan. Agar meyakinkan, LHP harus menyajikan
+30       hubungan      logis   antara    tujuan   pemeriksaan,     kriteria,   temuan,
+31       kesimpulan, dan rekomendasi (bila ada). Informasi yang disajikan
+32       harus      cukup   meyakinkan     pengguna     laporan    untuk mengakui
+33       validitas temuan tersebut dan manfaat penerapan rekomendasi.
+34       Laporan yang disusun dengan cara ini dapat membantu pihak yang
+
+     Badan Pemeriksa Keuangan                                                       6
+                                                  PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1        bertanggung     jawab    untuk        memusatkan     perhatiannya       dalam
+2        melakukan perbaikan sesuai rekomendasi yang diberikan.
+
+3
+4    Jelas
+
+5    A6. LHP harus jelas yaitu mudah dibaca dan dipahami. Pemeriksa harus
+6        menulis    laporan     dengan    bahasa     yang    jelas,   tidak    ambigu,
+7        sesederhana     mungkin,        dan    sedapat     mungkin       menghindari
+8        penggunaan istilah-istilah teknis. Pemeriksa juga harus menyusun
+9        LHP dengan logis untuk memberi kejelasan dan pemahaman bagi
+10       pengguna LHP.
+
+11
+12   Ringkas
+
+13   A7. LHP harus ringkas yaitu tidak memuat informasi yang tidak perlu
+14       atau tidak sesuai dengan tujuan pemeriksaan. Laporan yang
+15       menyajikan informasi yang kurang memadai atau memuat hal-hal
+16       yang tidak relevan akan berdampak pada kesalahpahaman pembaca
+17       atas informasi LHP.
+
+18
+19   Unsur LHP
+
+20   Tujuan, Lingkup, Metodologi (Ref: Para.10)
+
+21   A8. Tujuan pemeriksaan mengungkapkan hal yang ingin dicapai dari
+22       pemeriksaan tersebut.
+
+23   A9. Lingkup pemeriksaan mencakup pengidentifikasian objek/sasaran
+24       pemeriksaan, aspek yang diperiksa, organisasi, lokasi geografis, dan
+25       periode yang dicakup dalam pemeriksaan.
+
+26   A10. Metodologi menggambarkan seluruh proses pemeriksaan untuk
+27       memenuhi      tujuan    pemeriksaan.      Apabila     dalam     pemeriksaan
+28       digunakan tenaga ahli, penggunaan tenaga ahli tersebut harus
+29       diungkapkan dalam LHP.
+
+30
+31
+
+32
+
+33
+
+     Badan Pemeriksa Keuangan                                                       7
+                                                    PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1    Kesimpulan (Ref. Para. 11)
+
+2    A11. Pemeriksa   memberikan         kesimpulan      atas    tujuan    pemeriksaan.
+3        Khusus pemeriksaan keuangan, pemeriksa menyatakan kesimpulan
+4        dalam bentuk opini.
+
+5    A12. Contoh format opini untuk pemeriksaan atas laporan keuangan
+6        adalah sebagaimana tercantum dalam Lampiran IV.1 sebagai bagian
+7        yang tidak terpisahkan dari Peraturan ini.
+
+8
+9    Temuan Pemeriksaan (Ref. Para.13)
+
+10   A13. Pemeriksa mengungkapkan temuannya dengan unsur-unsur yang
+11       dapat disesuaikan dengan tujuan pemeriksaan. Misalnya PDTT
+12       dalam bentuk pemeriksaan kepatuhan maka unsur temuan yang
+13       harus ada adalah kondisi, kriteria, dan akibat. Unsur sebab bersifat
+14       opsional tergantung dengan kedalaman pengujian yang dilakukan
+15       Pemeriksa    untuk      dapat     menentukan          penyebab    utama      dari
+16       ketidakpatuhan       yang      timbul.    Hal   ini    juga    terkait   dengan
+17       ketidakharusan bagi Pemeriksa untuk memberikan rekomendasi.
+18       Pada pemeriksaan keuangan, temuan juga dapat disampaikan dalam
+19       bentuk koreksi atas angka dalam laporan keuangan, kesalahan
+20       penyajian, dan kekurangan pengungkapan.
+
+21
+22   Rekomendasi (Ref. Para.15)
+
+23   A14. Rekomendasi hanya diberikan kepada pihak yang bertanggung jawab.
+24       Rekomendasi harus dapat mendorong perbaikan atas kelemahan
+25       yang ditemukan, tetapi tidak melampaui apa yang menjadi batas
+26       tanggung jawabnya.
+
+27   A15. Rekomendasi harus secara jelas menyatakan apa yang harus
+28       diperbaiki   serta     siapa    yang     berwenang     untuk     melaksanakan
+29       perbaikan yang direkomendasikan. Rekomendasi harus disampaikan
+30       sejalan dengan tujuan, temuan, dan kesimpulan hasil pemeriksaan.
+
+31
+
+32
+
+33
+
+
+     Badan Pemeriksa Keuangan                                                         8
+                                           PSP 300 – Standar Pelaporan Pemeriksaan
+
+
+
+
+1   Tanggapan Pihak yang Bertanggung Jawab (Ref: Para.17)
+
+2   A16.Khusus untuk PDTT dalam bentuk pemeriksaan investigatif, karena
+3       tujuan pemeriksaannya adalah untuk mengungkapkan indikasi
+4       kerugian negara dan/atau tindak pidana maka Pemeriksa tidak
+5       meminta tanggapan tertulis kepada pihak yang bertanggung jawab.
+
+
+
+                                     KETUA BADAN PEMERIKSA KEUANGAN
+                                           REPUBLIK INDONESIA,
+
+                                                       ttd
+
+                                             HARRY AZHAR AZIS
+
+
+
+Salinan sesuai dengan aslinya
+BADAN PEMERIKSA KEUANGAN REPUBLIK INDONESIA
+ Kepala Direktorat Utama Pembinaan dan Pengembangan
+         Hukum Pemeriksaan Keuangan Negara,
+
+                               ttd
+
+                    Nizam Burhanuddin
+
+
+
+
+    Badan Pemeriksa Keuangan                                                 9
+                                                  LAMPIRAN IV.1
+                                                  PERATURAN BADAN PEMERIKSA KEUANGAN
+                                                  NOMOR 1 TAHUN 2017
+                                                  ILUSTRASI PSP 300.A
+
+CONTOH FORMAT OPINI
+
+1. OPINI “WAJAR TANPA PENGECUALIAN”
+
+
+
+
+                            BADAN PEMERIKSA KEUANGAN
+                               REPUBLIK INDONESIA
+
+                            LAPORAN HASIL PEMERIKSAAN
+                              ATAS LAPORAN KEUANGAN
+
+Laporan atas Laporan Keuangan
+Berdasarkan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan
+Tanggung Jawab Keuangan Negara dan Undang-Undang Nomor 15 Tahun 2006 tentang
+Badan    Pemeriksa      Keuangan,      BPK     telah  memeriksa    Laporan    Keuangan
+Pemerintah/Kementerian/Lembaga/Badan...., yang terdiri dari Neraca tanggal 31 Desember
+20XX, Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Laporan
+Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, serta Catatan atas Laporan Keuangan.
+
+Tanggung Jawab Pemerintah atas Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan.... bertanggung jawab atas penyusunan dan
+penyajian wajar laporan keuangan sesuai dengan Standar Akuntansi Pemerintahan dan
+pengendalian intern yang memadai untuk menyusun laporan keuangan yang bebas dari
+kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.
+
+Tanggung jawab BPK
+Tanggung jawab BPK adalah untuk menyatakan suatu opini atas laporan keuangan
+berdasarkan pemeriksaan BPK. BPK melaksanakan pemeriksaan berdasarkan Standar
+Pemeriksaan Keuangan Negara. Standar tersebut mengharuskan BPK mematuhi kode etik
+BPK, serta merencanakan dan melaksanakan pemeriksaan untuk memperoleh keyakinan
+yang memadai apakah laporan keuangan tersebut bebas dari kesalahan penyajian material.
+
+Suatu pemeriksaan meliputi pengujian bukti-bukti yang mendukung angka-angka dan
+pengungkapan dalam laporan keuangan. Prosedur yang dipilih mendasarkan pada
+pertimbangan profesional Pemeriksa, termasuk penilaian risiko salah saji yang material dalam
+laporan keuangan, baik yang disebabkan oleh kecurangan maupun kesalahan. Dalam
+melakukan penilaian risiko, Pemeriksa mempertimbangkan pengendalian intern yang relevan
+dengan        penyusunan       dan      penyajian       wajar        laporan      keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. untuk merancang prosedur pemeriksaan yang
+tepat sesuai dengan kondisi yang ada, tetapi bukan untuk tujuan menyatakan opini atas
+efektivitas pengendalian intern Pemerintah/Kementerian/Lembaga/Badan.... Pemeriksaan
+yang dilakukan BPK juga mencakup evaluasi atas ketepatan kebijakan akuntansi yang
+digunakan      dan    kewajaran   estimasi       akuntansi      yang       dibuat    oleh
+Pemerintah/Kementerian/Lembaga/Badan...., serta evaluasi atas penyajian laporan keuangan
+secara keseluruhan.
+
+BPK yakin bahwa bukti pemeriksaan yang telah diperoleh adalah cukup dan tepat, sebagai
+dasar untuk menyatakan opini BPK.
+
+Opini
+Menurut opini BPK, laporan keuangan yang disebut di atas, menyajikan secara wajar, dalam
+semua hal yang material, posisi keuangan Pemerintah/Kementerian/Lembaga/ Badan….
+tanggal 31 Desember 20XX, dan realisasi anggaran, perubahan saldo anggaran lebih,
+operasional, arus kas, serta perubahan ekuitas untuk tahun yang berakhir pada tanggal
+tersebut, sesuai dengan Standar Akuntansi Pemerintahan.
+
+Laporan atas SPI dan Kepatuhan
+Untuk memperoleh keyakinan yang memadai atas kewajaran laporan keuangan tersebut,
+BPK juga melakukan pemeriksaan terhadap sistem pengendalian intern dan kepatuhan
+terhadap ketentuan peraturan perundang-undangan. Laporan Hasil Pemeriksaan atas Sistem
+Pengendalian Intern dan Laporan Hasil Pemeriksaan atas Kepatuhan terhadap Ketentuan
+Peraturan Perundang-undangan disajikan dalam Laporan Nomor ..../LHP/…./05/20XX dan
+Nomor ..../LHP/…./05/20XX tanggal .... Mei 20XX, yang merupakan bagian tidak terpisahkan
+dari Laporan ini.
+
+                                                  .........................., ..... Mei 20XX
+                                             BADAN P EMERIKSA KEUANGAN
+                                                 REPUBLIK INDONESIA
+                                           PENANGGUNG JAWAB PEMERIKSAAN,
+
+
+
+
+                                                    ............................., CA
+                                             Register Negara Akuntan No ..........
+2. CONTOH OPINI “WAJAR TANPA PENGECUALIAN DENGAN PARAGRAF PENEKANAN
+   SUATU HAL”
+
+
+
+
+                            BADAN PEMERIKSA KEUANGAN
+                               REPUBLIK INDONESIA
+
+                            LAPORAN HASIL PEMERIKSAAN
+                              ATAS LAPORAN KEUANGAN
+
+Laporan atas Laporan Keuangan
+Berdasarkan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan
+Tanggung Jawab Keuangan Negara dan Undang-Undang Nomor 15 Tahun 2006 tentang
+Badan    Pemeriksa       Keuangan,     BPK     telah  memeriksa  Laporan    Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…., yang terdiri dari Neraca tanggal 31 Desember
+20XX, Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Laporan
+Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, serta Catatan atas Laporan Keuangan.
+
+Tanggung Jawab Pemerintah atas Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. bertanggung jawab atas penyusunan dan
+penyajian wajar laporan keuangan sesuai dengan Standar Akuntansi Pemerintahan dan
+pengendalian intern yang memadai untuk menyusun laporan keuangan yang bebas dari
+kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.
+
+Tanggung Jawab BPK
+Tanggung jawab BPK adalah untuk menyatakan suatu opini atas laporan keuangan
+berdasarkan pemeriksaan BPK. BPK melaksanakan pemeriksaan berdasarkan Standar
+Pemeriksaan Keuangan Negara. Standar tersebut mengharuskan BPK mematuhi kode etik
+BPK, serta merencanakan dan melaksanakan pemeriksaan untuk memperoleh keyakinan
+yang memadai apakah laporan keuangan tersebut bebas dari kesalahan penyajian material.
+
+Suatu pemeriksaan meliputi pengujian bukti-bukti yang mendukung angka-angka dan
+pengungkapan dalam laporan keuangan. Prosedur yang dipilih mendasarkan pada
+pertimbangan profesional pemeriksa, termasuk penilaian risiko salah saji yang material dalam
+laporan keuangan, baik yang disebabkan oleh kecurangan maupun kesalahan. Dalam
+melakukan penilaian risiko, Pemeriksa mempertimbangkan pengendalian intern yang relevan
+dengan        penyusunan       dan      penyajian     wajar     laporan       keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. untuk merancang prosedur pemeriksaan yang
+tepat sesuai dengan kondisi yang ada, tetapi bukan untuk tujuan menyatakan opini atas
+efektivitas pengendalian intern Pemerintah/Kementerian/Lembaga/Badan.... Pemeriksaan
+yang dilakukan BPK juga mencakup evaluasi atas ketepatan kebijakan akuntansi yang
+digunakan      dan      kewajaran     estimasi    akuntansi   yang      dibuat      oleh
+Pemerintah/Kementerian/Lembaga/Badan...., serta evaluasi atas penyajian laporan keuangan
+secara keseluruhan.
+
+BPK yakin bahwa bukti pemeriksaan yang telah diperoleh adalah cukup dan tepat, sebagai
+dasar untuk menyatakan opini BPK.
+
+Opini
+Menurut opini BPK, laporan keuangan yang disebut di atas, menyajikan secara wajar, dalam
+semua hal yang material, posisi keuangan Pemerintah/Kementerian/Lembaga/ Badan….
+tanggal 31 Desember 20XX, dan realisasi anggaran, perubahan saldo anggaran lebih,
+operasional, arus kas, serta perubahan ekuitas untuk tahun yang berakhir pada tanggal
+tersebut, sesuai dengan Standar Akuntansi Pemerintahan.
+
+Penekanan Suatu Hal
+BPK      menekankan       pada       Catatan   ....    atas    Laporan      Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. yang menjelaskan bahwa pada TA 20XX terjadi
+perubahan struktur organisasi di lingkungan Pemerintah/Kementerian/Lembaga/ Badan....
+yang mengakibatkan ……… Opini BPK tidak dimodifikasi sehubungan dengan hal tersebut.
+
+Laporan atas SPI dan Kepatuhan
+Untuk memperoleh keyakinan yang memadai atas kewajaran laporan keuangan tersebut,
+BPK juga melakukan pemeriksaan terhadap sistem pengendalian intern dan kepatuhan
+terhadap ketentuan peraturan perundang-undangan. Laporan Hasil Pemeriksaan atas Sistem
+Pengendalian Intern dan Laporan Hasil Pemeriksaan atas Kepatuhan terhadap Ketentuan
+Peraturan Perundang-undangan disajikan dalam Laporan Nomor ..../LHP/…./05/20XX dan
+Nomor ..../LHP/.…/05/20XX tanggal .... Mei 20XX, yang merupakan bagian tidak terpisahkan
+dari Laporan ini.
+
+                                               .........................., ..... Mei 20XX
+                                            BADAN P EMERIKSA KEUANGAN
+                                                  REPUBLIK INDONESIA
+                                          PENANGGUNG JAWAB PEMERIKSAAN,
+
+
+
+
+                                                    ............................., CA
+                                              Register Negara Akuntan No ........
+3. OPINI “WAJAR DENGAN PENGECUALIAN”
+  (KARENA PEMBATASAN RUANG LINGKUP)
+
+
+
+
+                            BADAN PEMERIKSA KEUANGAN
+                               REPUBLIK INDONESIA
+
+                            LAPORAN HASIL PEMERIKSAAN
+                             ATAS LAPORAN KEUANGAN
+
+Laporan atas Laporan Keuangan
+Berdasarkan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan
+Tanggung Jawab Keuangan Negara dan Undang-Undang Nomor 15 Tahun 2006 tentang
+Badan    Pemeriksa       Keuangan,     BPK     telah  memeriksa  Laporan    Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…., yang terdiri dari Neraca tanggal 31 Desember
+20XX, Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Laporan
+Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, serta Catatan atas Laporan Keuangan.
+
+Tanggung Jawab Pemerintah atas Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. bertanggung jawab atas penyusunan dan
+penyajian wajar laporan keuangan sesuai dengan Standar Akuntansi Pemerintahan dan
+pengendalian intern yang memadai untuk menyusun laporan keuangan yang bebas dari
+kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.
+
+Tanggung Jawab BPK
+Tanggung jawab BPK adalah untuk menyatakan suatu opini atas laporan keuangan
+berdasarkan pemeriksaan BPK. BPK melaksanakan pemeriksaan berdasarkan Standar
+Pemeriksaan Keuangan Negara. Standar tersebut mengharuskan BPK mematuhi kode etik
+BPK, serta merencanakan dan melaksanakan pemeriksaan untuk memperoleh keyakinan
+yang memadai apakah laporan keuangan tersebut bebas dari kesalahan penyajian material.
+
+Suatu pemeriksaan meliputi pengujian bukti-bukti yang mendukung angka-angka dan
+pengungkapan dalam laporan keuangan. Prosedur yang dipilih mendasarkan pada
+pertimbangan profesional pemeriksa, termasuk penilaian risiko salah saji yang material dalam
+laporan keuangan, baik yang disebabkan oleh kecurangan maupun kesalahan. Dalam
+melakukan penilaian risiko, Pemeriksa mempertimbangkan pengendalian intern yang relevan
+dengan        penyusunan       dan      penyajian     wajar     laporan       keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. untuk merancang prosedur pemeriksaan yang
+tepat sesuai dengan kondisi yang ada, tetapi bukan untuk tujuan menyatakan opini atas
+efektivitas pengendalian intern Pemerintah/Kementerian/Lembaga/Badan.... Pemeriksaan
+yang dilakukan BPK juga mencakup evaluasi atas ketepatan kebijakan akuntansi yang
+digunakan      dan      kewajaran     estimasi    akuntansi   yang      dibuat      oleh
+Pemerintah/Kementerian/Lembaga/Badan...., serta evaluasi atas penyajian laporan keuangan
+secara keseluruhan.
+
+BPK yakin bahwa bukti pemeriksaan yang telah diperoleh adalah cukup dan tepat, sebagai
+dasar untuk menyatakan opini Wajar Dengan Pengecualian.
+
+Dasar Opini Wajar Dengan Pengecualian
+Sebagaimana Diungkap dalam Catatan .... dan lampiran 1.I.3 atas Laporan Keuangan, [NAMA
+ENTITAS] menyajikan nilai Aset Tetap per 31 Desember 20XX sebesar Rp XXX. Dari nilai
+tersebut, diantaranya sebesar Rp XXX tidak didukung dengan rincian. [NAMA ENTITAS] telah
+memiliki kebijakan pencatatan, penyajian dan pengungkapan Aset Tetap, tetapi belum
+dilaksanakan secara memadai. BPK tidak dapat memperoleh bukti pemeriksaan yang cukup
+dan tepat tentang nilai tersebut, karena tidak tersedia data dan informasi pada satuan kerja
+terkait. Sebagai akibatnya, BPK tidak dapat menentukan apakah diperlukan penyesuaian
+terhadap angka tersebut di atas.
+
+Opini Wajar Dengan Pengecualian
+Menurut opini BPK, kecuali untuk dampak hal yang dijelaskan dalam paragraf dasar opini
+wajar dengan pengecualian, laporan keuangan yang disebut di atas menyajikan secara wajar,
+dalam    semua     hal   yang    material,  posisi  keuangan     Pemerintah/Kementerian/
+Lembaga/Badan.... tanggal 31 Desember 20XX, dan realisasi anggaran, perubahan saldo
+anggaran lebih, operasional, arus kas, serta perubahan ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, sesuai dengan Standar Akuntansi Pemerintahan.
+
+Laporan atas SPI dan Kepatuhan
+Untuk memperoleh keyakinan yang memadai atas kewajaran laporan keuangan tersebut,
+BPK juga melakukan pemeriksaan terhadap sistem pengendalian intern dan kepatuhan
+terhadap ketentuan peraturan perundang-undangan. Laporan Hasil Pemeriksaan atas Sistem
+Pengendalian Intern dan Laporan Hasil Pemeriksaan atas Kepatuhan terhadap Ketentuan
+Peraturan Perundang-undangan disajikan dalam Laporan Nomor ..../LHP/…./05/20XX dan
+Nomor ..../LHP/…./05/20XX tanggal ... Mei 20XX, yang merupakan bagian tidak terpisahkan
+dari Laporan ini.
+
+                                                 .........................., ..... Mei 20XX
+                                              BADAN P EMERIKSA KEUANGAN
+                                                    REPUBLIK INDONESIA
+                                            PENANGGUNG JAWAB PEMERIKSAAN,
+
+
+
+
+                                                      ............................., CA
+                                                Register Negara Akuntan No ........
+4. OPINI “WAJAR DENGAN PENGECUALIAN”
+  (KARENA ADANYA PENYIMPANGAN STANDAR AKUNTANSI)
+
+
+
+
+                           BADAN PEMERIKSA KEUANGAN
+                              REPUBLIK INDONESIA
+
+                           LAPORAN HASIL PEMERIKSAAN
+                             ATAS LAPORAN KEUANGAN
+
+Laporan atas Laporan Keuangan
+Berdasarkan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan
+Tanggung Jawab Keuangan Negara dan Undang-Undang Nomor 15 Tahun 2006 tentang
+Badan    Pemeriksa   Keuangan,   BPK    telah   memeriksa    Laporan    Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…., yang terdiri dari Neraca tanggal 31 Desember
+20XX, Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Laporan
+Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, serta Catatan atas Laporan Keuangan.
+
+Tanggung Jawab Pemerintah atas Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. bertanggung jawab atas penyusunan dan
+penyajian wajar laporan keuangan sesuai dengan Standar Akuntansi Pemerintahan dan
+pengendalian intern yang memadai untuk menyusun laporan keuangan yang bebas dari
+kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.
+
+Tanggung Jawab BPK
+Tanggung jawab BPK adalah untuk menyatakan suatu opini atas laporan keuangan
+berdasarkan pemeriksaan BPK. BPK melaksanakan pemeriksaan berdasarkan Standar
+Pemeriksaan Keuangan Negara. Standar tersebut mengharuskan BPK mematuhi kode etik
+BPK, serta merencanakan dan melaksanakan pemeriksaan untuk memperoleh keyakinan
+yang memadai apakah laporan keuangan tersebut bebas dari kesalahan penyajian material .
+
+Suatu pemeriksaan meliputi pengujian bukti-bukti yang mendukung angka-angka dan
+pengungkapan dalam laporan keuangan. Prosedur yang dipilih mendasarkan pada
+pertimbangan profesional Pemeriksa, termasuk penilaian risiko kesalahan penyajian yang
+material dalam laporan keuangan, baik yang disebabkan oleh kecurangan maupun
+kesalahan. Dalam melakukan penilaian risiko, Pemeriksa mempertimbangkan pengendalian
+intern yang relevan dengan penyusunan dan penyajian wajar laporan keuangan
+Pemerintah/Kementerian/Lembaga/Badan.... untuk merancang prosedur pemeriksaan yang
+tepat sesuai dengan kondisi yang ada, tetapi bukan untuk tujuan menyatakan opini atas
+efektivitas pengendalian intern Pemerintah/Kementerian/Lembaga/Badan.... Pemeriksaan
+yang dilakukan BPK juga mencakup evaluasi atas ketepatan kebijakan akuntansi yang
+digunakan      dan     kewajaran     estimasi    akuntansi     yang     dibuat     oleh
+Pemerintah/Kementerian/Lembaga/Badan...., serta evaluasi atas penyajian laporan keuangan
+secara keseluruhan.
+
+BPK yakin bahwa bukti pemeriksaan yang telah diperoleh adalah cukup dan tepat, sebagai
+dasar untuk menyatakan opini Wajar Dengan Pengecualian.
+
+Dasar Opini Wajar Dengan Pengecualian
+Sebagaimana diungkapkan dalam Catatan ....... atas Laporan Keuangan, [NAMA ENTITAS]
+menyajikan aset tetap per 31 Desember 20XX sebesar Rp XXX. [NAMA ENTITAS] telah
+melakukan penilaian aset tetap yang diperoleh sebelum tanggal 31 Desember 20XX sebesar
+Rp XXX. Namun, hasil penilaian kembali tersebut belum disajikan dalam Neraca [NAMA
+ENTITAS] tanggal 31 Desember 20XX sebagaimana diatur dalam Standar Akuntansi
+Pemerintahan. Apabila hasil penilaian kembali atas aset tetap yang diperoleh sebelum
+tanggal 31 Desember 20XX tersebut disajikan, nilai aset tetap per tanggal 31 Desember
+20XX akan meningkat sebesar Rp XXX.
+
+Opini Wajar Dengan Pengecualian
+Menurut opini BPK, kecuali untuk dampak hal yang dijelaskan dalam paragraf dasar opini
+wajar dengan pengecualian, laporan keuangan yang disebut di atas menyajikan secara wajar,
+dalam semua hal yang material, posisi keuangan Pemerintah/Kementerian/Lembaga/Badan....
+tanggal 31 Desember 20XX, dan realisasi anggaran, perubahan saldo anggaran lebih,
+operasional, arus kas, serta perubahan ekuitas untuk tahun yang berakhir pada tanggal
+tersebut, sesuai dengan Standar Akuntansi Pemerintahan.
+
+Laporan atas SPI dan Kepatuhan
+Untuk memperoleh keyakinan yang memadai atas kewajaran laporan keuangan tersebut,
+BPK juga melakukan pemeriksaan terhadap sistem pengendalian intern dan kepatuhan
+terhadap ketentuan peraturan perundang-undangan. Laporan Hasil Pemeriksaan atas Sistem
+Pengendalian Intern dan Laporan Hasil Pemeriksaan atas Kepatuhan terhadap Ketentuan
+Peraturan Perundang-undangan disajikan dalam Laporan Nomor ..../LHP/…./05/20XX dan
+Nomor ...../LHP/…./05/20XX tanggal ... Mei 20XX, yang merupakan bagian tidak terpisahkan
+dari Laporan ini.
+
+                                                .........................., ..... Mei 20XX
+                                             BADAN P EMERIKSA KEUANGAN
+                                                   REPUBLIK INDONESIA
+                                           PENANGGUNG JAWAB PEMERIKSAAN,
+
+
+
+
+                                                    ............................., CA
+                                               Register Negara Akuntan No ........
+5. OPINI “TIDAK WAJAR”
+
+
+
+
+                           BADAN PEMERIKSA KEUANGAN
+                              REPUBLIK INDONESIA
+
+                           LAPORAN HASIL PEMERIKSAAN
+                             ATAS LAPORAN KEUANGAN
+
+Laporan atas Laporan Keuangan
+Berdasarkan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan
+Tanggung Jawab Keuangan Negara dan Undang-Undang Nomor 15 Tahun 2006 tentang
+Badan    Pemeriksa       Keuangan,     BPK     telah  memeriksa  Laporan    Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…., yang terdiri dari Neraca tanggal 31 Desember
+20XX, Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Laporan
+Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, serta Catatan atas Laporan Keuangan.
+
+Tanggung Jawab Pemerintah atas Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. bertanggung jawab atas penyusunan dan
+penyajian wajar laporan keuangan sesuai dengan Standar Akuntansi Pemerintahan dan
+pengendalian intern yang memadai untuk menyusun laporan keuangan yang bebas dari
+kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.
+
+Tanggung Jawab BPK
+Tanggung jawab BPK adalah untuk menyatakan suatu opini atas laporan keuangan
+berdasarkan pemeriksaan BPK. BPK melaksanakan pemeriksaan berdasarkan Standar
+Pemeriksaan Keuangan Negara. Standar tersebut mengharuskan BPK mematuhi kode etik
+BPK, serta merencanakan dan melaksanakan pemeriksaan untuk memperoleh keyakinan
+yang memadai apakah laporan keuangan tersebut bebas dari kesalahan penyajian material .
+
+Suatu pemeriksaan meliputi pengujian bukti-bukti yang mendukung angka-angka dan
+pengungkapan dalam laporan keuangan. Prosedur yang dipilih mendasarkan pada
+pertimbangan profesional Pemeriksa, termasuk penilaian risiko kesalahan penyajian yang
+material dalam laporan keuangan, baik yang disebabkan oleh kecurangan maupun
+kesalahan. Dalam melakukan penilaian risiko, Pemeriksa mempertimbangkan pengendalian
+intern yang relevan dengan penyusunan dan penyajian wajar laporan keuangan
+Pemerintah/Kementerian/Lembaga/Badan.... untuk merancang prosedur pemeriksaan yang
+tepat sesuai dengan kondisi yang ada, tetapi bukan untuk tujuan menyatakan opini atas
+efektivitas pengendalian intern Pemerintah/Kementerian/Lembaga/Badan.... Pemeriksaan
+yang dilakukan BPK juga mencakup evaluasi atas ketepatan kebijakan akuntansi yang
+digunakan      dan     kewajaran    estimasi     akuntansi    yang     dibuat    oleh
+Pemerintah/Kementerian/Lembaga/Badan.....,       serta   evaluasi   atas   penyajian    laporan
+keuangan secara keseluruhan.
+
+BPK yakin bahwa bukti pemeriksaan yang telah diperoleh adalah cukup dan tepat, sebagai
+dasar untuk menyatakan opini Tidak Wajar.
+
+Dasar Opini Tidak Wajar
+Sebagaimana diungkapkan dalam Catatan ....... atas Laporan Keuangan, [NAMA ENTITAS]
+menyajikan aset tetap per 31 Desember 20XX sebesar Rp XXX. [NAMA ENTITAS] telah
+melakukan penilaian aset tetap yang diperoleh sebelum tanggal 31 Desember 20XX sebesar
+Rp XXX. Namun, hasil penilaian kembali tersebut belum disajikan dalam Neraca [NAMA
+ENTITAS] tanggal 31 Desember 20XX sebagaimana diatur dalam Standar Akuntansi
+Pemerintahan. Apabila hasil penilaian kembali atas aset tetap yang diperoleh sebelum
+tanggal 31 Desember 20XX tersebut disajikan, nilai aset tetap per tanggal 31 Desember
+20XX akan meningkat sebesar Rp XXX.
+
+Sebagaimana diungkapkan dalam Catatan ........ atas Laporan Keuangan, [NAMA ENTITAS]
+menyajikan pendapatan negara bukan pajak dan belanja barang Tahun 20XX masing-masing
+sebesar Rp XXX dan Rp XXX. Nilai tersebut belum termasuk penerimaan dan pengeluaran dari
+XX satker di lingkungan [NAMA ENTITAS] sebesar Rp XXX karena penerimaan tersebut
+digunakan langsung oleh satker di lingkungan [NAMA ENTITAS] untuk membiayai operasinya
+masing-masing. Apabila [NAMA ENTITAS] mengakui penerimaan yang digunakan langsung
+tersebut sebagaimana diatur dalam Standar Akuntansi Pemerintahan, pendapatan negara
+bukan pajak dan belanja barang tahun 20XX akan meningkat masing-masing sebesar Rp XXX.
+
+Opini Tidak Wajar
+Menurut opini BPK, karena signifikansi dari hal yang dijelaskan dalam paragraf dasar opini Tidak
+Wajar, laporan keuangan yang disebut di atas tidak menyajikan secara wajar, posisi
+keuangan [NAMA ENTITAS] tanggal 31 Desember 20XX, dan realisasi anggaran, perubahan
+saldo anggaran lebih, operasional, arus kas, serta perubahan ekuitas untuk tahun yang
+berakhir pada tanggal tersebut, sesuai dengan Standar Akuntansi Pemerintahan.
+Laporan atas SPI dan Kepatuhan
+Untuk memperoleh keyakinan yang memadai atas kewajaran laporan keuangan tersebut,
+BPK juga melakukan pemeriksaan terhadap sistem pengendalian intern dan kepatuhan
+terhadap ketentuan peraturan perundang-undangan. Laporan Hasil Pemeriksaan atas Sistem
+Pengendalian Intern dan Laporan Hasil Pemeriksaan atas Kepatuhan terhadap Ketentuan
+Peraturan Perundang-undangan disajikan dalam Laporan Nomor ..../LHP/…./05/20XX dan
+Nomor ...../LHP/…./05/20XX tanggal ... Mei 20XX, yang merupakan bagian tidak terpisahkan
+dari Laporan ini.
+
+                                               .........................., ..... Mei 20XX
+                                            BADAN P EMERIKSA KEUANGAN
+                                                  REPUBLIK INDONESIA
+                                          PENANGGUNG JAWAB PEMERIKSAAN,
+
+
+
+
+                                                     ............................., CA
+                                             Register Negara Akuntan No .............
+6. OPINI ”TIDAK MENYATAKAN PENDAPAT”
+
+
+
+
+                            BADAN PEMERIKSA KEUANGAN
+                               REPUBLIK INDONESIA
+
+                            LAPORAN HASIL PEMERIKSAAN
+                              ATAS LAPORAN KEUANGAN
+
+Laporan atas Laporan Keuangan
+Berdasarkan Undang-Undang Nomor 15 Tahun 2004 tentang Pemeriksaan Pengelolaan dan
+Tanggung Jawab Keuangan Negara dan Undang-Undang Nomor 15 Tahun 2006 tentang
+Badan Pemeriksa Keuangan, BPK berwenang memeriksa Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…., yang terdiri dari Neraca tanggal 31 Desember
+20XX, Laporan Realisasi Anggaran, Laporan Perubahan Saldo Anggaran Lebih, Laporan
+Operasional, Laporan Arus Kas, dan Laporan Perubahan Ekuitas untuk tahun yang berakhir
+pada tanggal tersebut, serta Catatan atas Laporan Keuangan.
+
+Tanggung Jawab Pemerintah atas Laporan Keuangan
+Pemerintah/Kementerian/Lembaga/Badan…. bertanggung jawab atas penyusunan dan
+penyajian wajar laporan keuangan sesuai dengan Standar Akuntansi Pemerintahan dan
+pengendalian intern yang memadai untuk menyusun laporan keuangan yang bebas dari
+kesalahan penyajian material, baik yang disebabkan oleh kecurangan maupun kesalahan.
+
+Tanggung jawab BPK
+Tanggung jawab BPK adalah untuk menyatakan suatu opini atas laporan keuangan
+berdasarkan pemeriksaan BPK yang sesuai dengan Standar Pemeriksaan Keuangan Negara.
+Namun, karena hal yang dijelaskan dalam paragraf dasar opini Tidak Menyatakan Pendapat,
+BPK tidak dapat memperoleh bukti pemeriksaan yang cukup dan tepat untuk menyediakan
+suatu dasar bagi opini pemeriksaan.
+
+Dasar Opini Tidak Menyatakan Pendapat
+Sebagaimana diungkapkan dalam Catatan ..... atas Laporan Keuangan, [NAMA ENTITAS]
+melaporkan persediaan per 31 Desember 20XX sebesar Rp XXX. Satuan kerja pengelola
+persediaan di lingkungan [NAMA ENTITAS] tidak menyelenggarakan kartu persediaan untuk
+mencatat mutasi persediaan secara memadai. Satuan kerja tidak melakukan inventarisasi fisik
+atas Persediaan yang dimilikinya per 31 Desember 20XX. BPK tidak dapat memperoleh bukti
+pemeriksaan yang cukup dan tepat tentang nilai tersebut di atas posisi per 31 Desember 20XX.
+Dengan demikian, BPK tidak dapat menentukan apakah diperlukan penyesuaian terhadap
+angka tersebut di atas.
+
+Sebagaimana diungkap dalam Catatan ...... atas Laporan Keuangan, [NAMA ENTITAS]
+menyajikan nilai Aset Tetap per 31 Desember 20XX sebesar Rp XXX. Dari nilai tersebut,
+diantaranya sebesar Rp XXX tidak didukung dengan rincian. [NAMA ENTITAS] telah memiliki
+kebijakan pencatatan, penyajian dan pengungkapan Aset Tetap, tetapi belum dilaksanakan
+secara memadai. BPK tidak dapat memperoleh bukti pemeriksaan yang cukup dan tepat
+tentang nilai tersebut di atas posisi per 31 Desember 20XX, karena tidak tersedia data dan
+informasi pada satuan kerja terkait. Dengan demikian, BPK tidak dapat menentukan apakah
+diperlukan penyesuaian terhadap angka tersebut di atas.
+
+Opini Tidak Menyatakan Pendapat
+Karena signifikansi dari hal-hal yang dijelaskan dalam paragraf dasar opini Tidak Menyatakan
+Pendapat, BPK tidak dapat memperoleh bukti pemeriksaan yang cukup dan tepat untuk
+menyediakan suatu dasar bagi opini pemeriksaan. Oleh karena itu, BPK tidak menyatakan suatu
+opini atas Laporan Keuangan [NAMA ENTITAS] tanggal 31 Desember 20XX serta untuk tahun
+yang berakhir pada tanggal tersebut.
+
+Laporan atas SPI dan Kepatuhan
+Untuk memperoleh keyakinan yang memadai atas kewajaran laporan keuangan tersebut,
+BPK juga melakukan pemeriksaan terhadap sistem pengendalian intern dan kepatuhan
+terhadap ketentuan peraturan perundang-undangan. Laporan Hasil Pemeriksaan atas Sistem
+Pengendalian Intern dan Laporan Hasil Pemeriksaan atas Kepatuhan terhadap Ketentuan
+Peraturan Perundang-undangan disajikan dalam Laporan Nomor ..../LHP/…./05/20XX dan
+Nomor ...../LHP/…./05/20XX tanggal ... Mei 20XX, yang merupakan bagian tidak terpisahkan
+dari Laporan ini.
+
+                                                  .........................., ..... Mei 20XX
+                                                BADAN P EMERIKSA KEUANGAN
+                                                     REPUBLIK INDONESIA
+                                            PENANGGUNG JAWAB PEMERIKSAAN,
+
+
+
+
+                                                        ............................., CA
+                                                Register Negara Akuntan No ........
