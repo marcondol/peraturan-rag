@@ -1,0 +1,15 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.9
+# LLM backends (pilih satu yang dipakai; keduanya boleh terpasang)
+openai>=1.50
+google-generativeai>=0.8
+# Observability (wajib untuk JD Rakuten)
+langfuse>=2.60
+opentelemetry-sdk>=1.28
+opentelemetry-exporter-otlp-proto-http>=1.28
+# Retrieval (Minggu 1: ingest pgvector)
+psycopg[binary]>=3.2
+pgvector>=0.3
+# Evals (Minggu 2)
+httpx>=0.27

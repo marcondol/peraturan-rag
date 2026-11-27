@@ -1,0 +1,42 @@
+# Langfuse di K3s — LANGFUSE v3 (pin 3.x; v4 ubah model data ClickHouse)
+# Values awal untuk Helm chart resmi langfuse/langfuse. Verifikasi
+# terhadap chart sebelum apply; chart berubah antar minor release.
+# Opsi lain bila K3s tipis: jalankan Langfuse via Compose di VPS/GCP
+# (lihat infra/langfuse/fetch-official-compose.sh), app tetap di K3s.
+
+langfuse:
+  image:
+    tag: "3"          # pin major; isi tag minor pasti saat deploy
+  extraEnv:
+    # NEXTAUTH_SECRET / SALT / ENCRYPTION_KEY wajib sama dengan worker;
+    # isi dari Secret, JANGAN tulis langsung di values ini.
+    - name: NEXTAUTH_URL
+      value: "http://langfuse.local"
+  resources:
+    requests:
+      cpu: 500m
+      memory: 1Gi
+    limits:
+      cpu: 2
+      memory: 2Gi
+
+postgresql:
+  enabled: true
+  persistence:
+    size: 20Gi
+
+clickhouse:
+  enabled: true
+  persistence:
+    size: 100Gi   # ~1-2 GB per 1 jt trace; naikkan sesuai volume
+
+redis:
+  enabled: true
+
+minio:
+  enabled: true
+  persistence:
+    size: 20Gi
+
+ingress:
+  enabled: false  # aktifkan + TLS bila diakses dari luar cluster
