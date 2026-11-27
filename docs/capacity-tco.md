@@ -1,6 +1,6 @@
 # Capacity & TCO model — trace volume 1x / 10x / 100x (draf Minggu 3)
 
-Angka dasar (cek ulang sebelum dikirim ke recruiter):
+Angka dasar (cek ulang sebelum dipakai):
 - ClickHouse tumbuh **1–2 GB per 1 juta trace** (tutorial Langfuse v3,
   2026; tergantung ukuran prompt/completion).
 - Langfuse v3 homelab: **±4 GB RAM / 2–4 vCPU**, disk awal 100 GB.

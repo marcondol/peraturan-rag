@@ -4,7 +4,7 @@ pydantic>=2.9
 # LLM backends (pilih satu yang dipakai; keduanya boleh terpasang)
 openai>=1.50
 google-generativeai>=0.8
-# Observability (wajib untuk JD Rakuten)
+# Observability
 langfuse>=2.60
 opentelemetry-sdk>=1.28
 opentelemetry-exporter-otlp-proto-http>=1.28

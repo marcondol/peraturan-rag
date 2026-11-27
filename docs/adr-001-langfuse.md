@@ -1,11 +1,11 @@
 # ADR-001: Langfuse self-hosted untuk observabilitas LLM
 
 Status: Diterima (16 Nov 2026) — keputusan awal sprint, bisa direvisi
-bila jawaban recruiter mengubah syarat wajib.
+bila kebutuhan berubah.
 
 ## Konteks
 
-Lowongan SRE Rakuten Analytics mensyaratkan hands-on men-deploy dan
+Proyek ini membutuhkan hands-on men-deploy dan
 mengoperasikan salah satu dari Langfuse, LangSmith, Arize AX, atau
 Phoenix secara self-hosted, plus pemahaman LLM telemetry (traces,
 spans, token/cost tracking, prompt versioning, evaluation workflows).

@@ -3,9 +3,8 @@
 Proyek sprint 2–3 minggu dari `rag-langfuse-sprint-plan.md`: RAG chatbot
 end-to-end dengan observabilitas LLM lapisan aplikasi — trace per prompt,
 token & cost tracking per request, prompt versioning, dan evaluasi
-LLM-as-judge — sebagai bukti langsung untuk lowongan SRE Rakuten Analytics
-(TEKsystems), yang mensyaratkan salah satu dari Langfuse / LangSmith /
-Arize / Phoenix secara self-hosted.
+LLM-as-judge — dengan Langfuse self-hosted sebagai tulang punggung
+observabilitasnya.
 
 ## Arsitektur
 
