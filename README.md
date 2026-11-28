@@ -12,8 +12,8 @@ observabilitasnya.
 Pengguna → FastAPI RAG service (app/)
               ├─ retrieval: pgvector (Postgres) atau fallback keyword
               │  atas docs-kb/ bila DB belum ada
-              ├─ LLM: vLLM ATAU OpenRouter (OpenAI-compatible, dipakai
-              │  malam 25 Nov 2026 — satu key, termasuk Gemini) ATAU
+              ├─ LLM: 9router (OpenAI-compatible, DIPUTUSKAN 27 Nov 2026,
+              │  ganti OpenRouter — model for-rag) ATAU vLLM ATAU
               │  Gemini API (pilih satu via LLM_BACKEND)
               └─ instrumentasi: OpenTelemetry SDK → OTel Collector
                                    ├─ Langfuse self-hosted (K3s/Compose)
@@ -35,8 +35,8 @@ tidak bisa menjangkau jaringan rumah), Postgres via Docker (yang
 lama mati, compose sudah mendefinisikan `pgvector/pgvector:pg16`).
 
 ```bash
-cp .env.example .env        # isi: LLM_BACKEND=openrouter,
-                            # OPENROUTER_API_KEY, LLM_MODEL=google/gemini-2.5-flash
+cp .env.example .env        # isi: LLM_BACKEND=9router,
+                            # NINE_ROUTER_API_KEY, LLM_MODEL=for-rag
 # 1. DB + service:
 docker compose up --build -d
 # 2. Korpus: unduh PDF UU 17/2003, UU 1/2004, UU 15/2004,
@@ -54,9 +54,11 @@ curl -X POST localhost:8000/ask -H 'Content-Type: application/json' \
 ```
 
 Catatan: `ingest.py` + retrieval pgvector sudah ditulis (25 Nov,
-siang) — malam ini tidak ada lagi TODO kode. Yang belum teruji di
-mesin Arif: koneksi OpenRouter dari mini PC, embedding model
-`openai/text-embedding-3-small` di akunnya, dan `docker compose up`.
+siang). Peralihan ke 9router sudah disiapkan di branch
+`feat/9router-4096` (27 Nov, siang) — belum di-merge ke main.
+Yang belum teruji di mesin Arif: chat completions via `for-rag`,
+embedding model `nvidia/nemotron-3.5-embed-8b` dari kode Python,
+dan `docker compose up`.
 Bila `/ask` mengembalikan jawaban tanpa sitasi pgvector, cek
 `RAG_DATABASE_URL` dan isi tabel `rag_documents` dulu — service
 sengaja fallback ke keyword bila DB belum siap, bukan error.
@@ -95,9 +97,11 @@ Ini sengaja — demo pertama tidak boleh terblokir setup infra.
 
 ## Keputusan yang masih terbuka (tidak memblokir)
 
-- **LLM_BACKEND**: `openrouter` — DIPUTUSKAN 25 Nov 2026 (Gemini via
-  OpenRouter, beberapa akun). vLLM di GPU cluster tetap jadi opsi
-  nanti; `gemini` langsung tetap didukung.
+- **LLM_BACKEND**: `9router` — DIPUTUSKAN 27 Nov 2026 (router
+  self-hosted, model `for-rag`; embedding
+  `nvidia/nemotron-3.5-embed-8b`, 4096 dimensi). OpenRouter 25 Nov
+  2026 sudah diganti. vLLM di GPU cluster tetap jadi opsi nanti;
+  `gemini` langsung tetap didukung.
 - **Lokasi Langfuse**: K3s (Helm) atau VPS/GCP (Compose) — tergantung
   sisa RAM/disk K3s.
 - Tiga pertanyaan CV soal Datadog + vLLM (metrik, skala, token/cost

@@ -2,12 +2,19 @@
 atas docs-kb/ bila belum ada DB. Fallback ini menjaga demo pertama
 tetap jalan.
 
-Embedding lewat OpenRouter (satu key dengan LLM, 25 Nov 2026):
-EMBEDDING_MODEL default openai/text-embedding-3-small (1536 dimensi).
-Tabel rag_documents memakai vector(1536) — bila ganti model embedding
-ke dimensi lain, hapus tabelnya dulu (DROP TABLE rag_documents) lalu
-ingest ulang. Format dokumen: {"id": str, "text": str}. ID dipakai
-sebagai sitasi di jawaban dan dicatat di trace Langfuse.
+Embedding lewat 9router (DIPUTUSKAN 27 Nov 2026, ganti OpenRouter):
+EMBEDDING_MODEL default nvidia/nemotron-3.5-embed-8b (4096 dimensi),
+token dari NINE_ROUTER_API_KEY, base https://9router.marcondol.site/v1.
+Terverifikasi 27 Nov 2026: POST /v1/embeddings HTTP 200, router
+mengembalikan vektor 4096 dimensi (model di-echo sebagai
+nvidia/nemotron-3.5-embed-8b; bentuk ganda nvidia/nvidia/... juga
+diterima). Tabel rag_documents memakai vector(4096) — bila ganti
+model embedding ke dimensi lain, hapus tabelnya dulu
+(DROP TABLE rag_documents) lalu ingest ulang. `input_type` dikirim
+("passage" untuk dokumen, "query" untuk pertanyaan) karena panggilan
+yang terverifikasi memakainya; bila router menolaknya, hapus
+extra_body dan coba lagi. Format dokumen: {"id": str, "text": str}.
+ID dipakai sebagai sitasi di jawaban dan dicatat di trace Langfuse.
 """
 
 import os
@@ -15,7 +22,7 @@ import re
 from pathlib import Path
 
 KB_DIR = Path(__file__).resolve().parent.parent / "docs-kb"
-EMBEDDING_DIM = 1536
+EMBEDDING_DIM = 4096
 
 
 def _load_kb_files() -> list[dict]:
@@ -44,22 +51,24 @@ def _keyword_retrieve(query: str, docs: list[dict], top_k: int) -> list[dict]:
     return top or scored[:1]  # minimal satu konteks agar prompt terisi
 
 
-def embed_texts(texts: list[str]) -> list[list[float]]:
-    """Embedding via OpenRouter (OpenAI-compatible). Satu key dengan LLM."""
+def embed_texts(texts: list[str], input_type: str = "passage") -> list[list[float]]:
+    """Embedding via 9router (OpenAI-compatible). Satu key dengan LLM."""
     from openai import OpenAI
 
-    api_key = os.environ.get("OPENROUTER_API_KEY", "")
+    api_key = os.environ.get("NINE_ROUTER_API_KEY", "")
     if not api_key:
-        raise RuntimeError("OPENROUTER_API_KEY belum diisi (.env)")
-    model = os.environ.get("EMBEDDING_MODEL", "openai/text-embedding-3-small")
-    client = OpenAI(base_url="https://openrouter.ai/api/v1", api_key=api_key)
-    resp = client.embeddings.create(input=texts, model=model)
+        raise RuntimeError("NINE_ROUTER_API_KEY belum diisi (.env)")
+    model = os.environ.get("EMBEDDING_MODEL", "nvidia/nemotron-3.5-embed-8b")
+    client = OpenAI(base_url="https://9router.marcondol.site/v1", api_key=api_key)
+    resp = client.embeddings.create(
+        input=texts, model=model, extra_body={"input_type": input_type}
+    )
     vectors = [list(item.embedding) for item in resp.data]
     if vectors and len(vectors[0]) != EMBEDDING_DIM:
         raise RuntimeError(
             f"Embedding model {model} berdimensi {len(vectors[0])}, "
             f"sedangkan tabel memakai vector({EMBEDDING_DIM}). "
-            "Pakai model 1536-dimensi atau DROP TABLE rag_documents dulu."
+            "Pakai model 4096-dimensi atau DROP TABLE rag_documents dulu."
         )
     return vectors
 
@@ -89,7 +98,7 @@ def _pgvector_retrieve(query: str, top_k: int) -> list[dict] | None:
     try:
         import psycopg
 
-        query_vec = embed_texts([query])[0]
+        query_vec = embed_texts([query], input_type="query")[0]
         with psycopg.connect(db_url) as conn:
             ensure_schema(conn)
             with conn.cursor() as cur:

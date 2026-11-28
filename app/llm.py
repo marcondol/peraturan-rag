@@ -1,13 +1,18 @@
-"""LLM client pluggable: vLLM / OpenRouter (OpenAI-compatible) / Gemini API.
+"""LLM client pluggable: vLLM / 9router / OpenRouter (OpenAI-compatible) / Gemini API.
 
 Pilih satu via LLM_BACKEND sebelum demo pertama; keduanya sekaligus
 hanya memperlambat. Harga per 1M token diisi dari env agar cost
 tracking per request akurat — default 0 (biaya tidak diketahui)
 supaya tidak ada angka fiktif di trace.
 
-OpenRouter (dipakai Arif, 25 Nov 2026): satu API key untuk banyak
-model, termasuk Gemini — jadi backend pertama malam ini. Model
-diatur via LLM_MODEL, contoh: google/gemini-2.5-flash.
+9router (DIPUTUSKAN 27 Nov 2026, ganti OpenRouter): router self-hosted
+Arif di https://9router.marcondol.site/v1, token dari
+NINE_ROUTER_API_KEY. Model diatur via LLM_MODEL, default `for-rag`
+(combo router: context 1M token, max output 128k, tools + reasoning).
+Koneksi + model terverifikasi 27 Nov 2026 (GET /v1/models: HTTP 200,
+94 model, for-rag satu-satunya combo "rag"). Chat completions via
+for-rag BELUM teruji end-to-end — itu cek pertama sesi malam ini.
+Backend openrouter tetap didukung sebagai cadangan.
 """
 
 import os
@@ -36,6 +41,16 @@ class LLMClient:
             if not base_url:
                 raise LLMUnavailable("VLLM_BASE_URL belum diisi (.env)")
             self._client = OpenAI(base_url=base_url, api_key="not-needed")
+        elif backend == "9router":
+            from openai import OpenAI
+
+            api_key = os.environ.get("NINE_ROUTER_API_KEY", "")
+            if not api_key:
+                raise LLMUnavailable("NINE_ROUTER_API_KEY belum diisi (.env)")
+            self._client = OpenAI(
+                base_url="https://9router.marcondol.site/v1",
+                api_key=api_key,
+            )
         elif backend == "openrouter":
             from openai import OpenAI
 
@@ -70,6 +85,7 @@ class LLMClient:
         backend = os.environ.get("LLM_BACKEND", "demo")
         default_model = {
             "vllm": "Qwen3-30B-A3B-Instruct-2507",
+            "9router": "for-rag",
             "openrouter": "google/gemini-2.5-flash",
             "gemini": "gemini-2.5-flash",
         }.get(backend, "gemini-2.5-flash")
@@ -85,13 +101,13 @@ class LLMClient:
         if self.backend == "demo":
             return LLMResult(
                 text=(
-                    "[DEMO — LLM belum dikonfigurasi] Atur LLM_BACKEND=vllm, "
-                    "openrouter, atau gemini di .env, lalu restart. Prompt yang akan "
+                    "[DEMO — LLM belum dikonfigurasi] Atur LLM_BACKEND=9router, "
+                    "vllm, openrouter, atau gemini di .env, lalu restart. Prompt yang akan "
                     "dikirim:\n\n" + prompt[:800]
                 ),
                 usage={"prompt_tokens": 0, "completion_tokens": 0},
             )
-        if self.backend in ("vllm", "openrouter"):
+        if self.backend in ("vllm", "openrouter", "9router"):
             resp = self._client.chat.completions.create(
                 model=self.model,
                 messages=[{"role": "user", "content": prompt}],

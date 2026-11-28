@@ -90,7 +90,7 @@ Yang perlu diperhatikan malam ini:
 - Perpres 16/2018 dari PDF hasil scan — ada sedikit noise OCR
   (38 karakter pengganti). Jawaban soal pengadaan tetap harus dicek ke
   teks resmi; Perpres 12/2021 sudah ikut di korpus sebagai perubahannya.
-- `ingest.py` butuh `OPENROUTER_API_KEY` + DB jalan; embedding default
-  `openai/text-embedding-3-small` (1536 dimensi) — pastikan model itu
-  tersedia di akun OpenRouter-mu sebelum ingest, karena tabel memakai
-  `vector(1536)` dan ingest gagal kalau dimensinya beda.
+- `ingest.py` butuh `NINE_ROUTER_API_KEY` + DB jalan; embedding default
+  `nvidia/nemotron-3.5-embed-8b` (4096 dimensi, via 9router) — sudah
+  terverifikasi 27 Nov 2026, karena tabel memakai `vector(4096)` dan
+  ingest gagal kalau dimensinya beda.

@@ -4,7 +4,7 @@ Pakai:  python ingest.py [--dir docs-kb/keuangan] [--clear]
   - Membaca *.md / *.txt di --dir (rekursif).
   - Pecah per heading, lalu potong chunk ~1200 karakter (overlap 150)
     supaya satu chunk ≈ satu pasal/bagian, bukan satu file utuh.
-  - Embedding via OpenRouter (lihat rag.embed_texts), simpan ke
+  - Embedding via 9router (lihat rag.embed_texts), simpan ke
     tabel rag_documents (id, source, text, embedding).
   - Idempotent: ingest ulang file yang sama menimpa chunk lamanya
     (ON CONFLICT DO UPDATE); --clear menghapus isi tabel dulu.
@@ -16,7 +16,7 @@ ke .txt/.md (mis. `pdftotext -layout file.pdf file.txt`), taruh di
 docs-kb/keuangan/, lalu jalankan script ini. JANGAN mengetik ulang
 atau mengarang isi pasal — sitasi audit harus dari teks resmi.
 
-Butuh env: RAG_DATABASE_URL + OPENROUTER_API_KEY (lihat .env.example).
+Butuh env: RAG_DATABASE_URL + NINE_ROUTER_API_KEY (lihat .env.example).
 """
 
 import argparse
@@ -91,8 +91,8 @@ def main() -> int:
     if not db_url:
         print("RAG_DATABASE_URL belum diisi (.env)", file=sys.stderr)
         return 1
-    if not os.environ.get("OPENROUTER_API_KEY"):
-        print("OPENROUTER_API_KEY belum diisi (.env)", file=sys.stderr)
+    if not os.environ.get("NINE_ROUTER_API_KEY"):
+        print("NINE_ROUTER_API_KEY belum diisi (.env)", file=sys.stderr)
         return 1
 
     folder = Path(args.dir)
